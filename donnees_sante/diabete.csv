@@ -1,0 +1,157 @@
+﻿maladie,annee,region,indicateur,valeur,unite
+diabete,2018,Auvergne-Rhône-Alpes,prevalence,5.2,%
+diabete,2018,Auvergne-Rhône-Alpes,incidence,432.0,pour 100 000 hab
+diabete,2018,Bourgogne-Franche-Comté,prevalence,5.6,%
+diabete,2018,Bourgogne-Franche-Comté,incidence,406.0,pour 100 000 hab
+diabete,2018,Bretagne,prevalence,5.1,%
+diabete,2018,Bretagne,incidence,401.0,pour 100 000 hab
+diabete,2018,Centre-Val de Loire,prevalence,5.2,%
+diabete,2018,Centre-Val de Loire,incidence,432.0,pour 100 000 hab
+diabete,2018,Corse,prevalence,5.1,%
+diabete,2018,Corse,incidence,441.0,pour 100 000 hab
+diabete,2018,Grand Est,prevalence,5.1,%
+diabete,2018,Grand Est,incidence,401.0,pour 100 000 hab
+diabete,2018,Hauts-de-France,prevalence,5.1,%
+diabete,2018,Hauts-de-France,incidence,411.0,pour 100 000 hab
+diabete,2018,Normandie,prevalence,5.9,%
+diabete,2018,Normandie,incidence,449.0,pour 100 000 hab
+diabete,2018,Nouvelle-Aquitaine,prevalence,5.3,%
+diabete,2018,Nouvelle-Aquitaine,incidence,443.0,pour 100 000 hab
+diabete,2018,Occitanie,prevalence,5.8,%
+diabete,2018,Occitanie,incidence,408.0,pour 100 000 hab
+diabete,2018,Pays de la Loire,prevalence,5.3,%
+diabete,2018,Pays de la Loire,incidence,403.0,pour 100 000 hab
+diabete,2018,Provence-Alpes-Côte d'Azur,prevalence,5.2,%
+diabete,2018,Provence-Alpes-Côte d'Azur,incidence,402.0,pour 100 000 hab
+diabete,2018,Île-de-France,prevalence,5.2,%
+diabete,2018,Île-de-France,incidence,442.0,pour 100 000 hab
+diabete,2019,Auvergne-Rhône-Alpes,prevalence,5.4,%
+diabete,2019,Auvergne-Rhône-Alpes,incidence,442.0,pour 100 000 hab
+diabete,2019,Bourgogne-Franche-Comté,prevalence,5.8,%
+diabete,2019,Bourgogne-Franche-Comté,incidence,416.0,pour 100 000 hab
+diabete,2019,Bretagne,prevalence,5.3,%
+diabete,2019,Bretagne,incidence,411.0,pour 100 000 hab
+diabete,2019,Centre-Val de Loire,prevalence,5.4,%
+diabete,2019,Centre-Val de Loire,incidence,442.0,pour 100 000 hab
+diabete,2019,Corse,prevalence,5.3,%
+diabete,2019,Corse,incidence,451.0,pour 100 000 hab
+diabete,2019,Grand Est,prevalence,5.3,%
+diabete,2019,Grand Est,incidence,411.0,pour 100 000 hab
+diabete,2019,Hauts-de-France,prevalence,5.3,%
+diabete,2019,Hauts-de-France,incidence,421.0,pour 100 000 hab
+diabete,2019,Normandie,prevalence,6.1,%
+diabete,2019,Normandie,incidence,459.0,pour 100 000 hab
+diabete,2019,Nouvelle-Aquitaine,prevalence,5.5,%
+diabete,2019,Nouvelle-Aquitaine,incidence,453.0,pour 100 000 hab
+diabete,2019,Occitanie,prevalence,6.0,%
+diabete,2019,Occitanie,incidence,418.0,pour 100 000 hab
+diabete,2019,Pays de la Loire,prevalence,5.5,%
+diabete,2019,Pays de la Loire,incidence,413.0,pour 100 000 hab
+diabete,2019,Provence-Alpes-Côte d'Azur,prevalence,5.4,%
+diabete,2019,Provence-Alpes-Côte d'Azur,incidence,412.0,pour 100 000 hab
+diabete,2019,Île-de-France,prevalence,5.4,%
+diabete,2019,Île-de-France,incidence,452.0,pour 100 000 hab
+diabete,2020,Auvergne-Rhône-Alpes,prevalence,5.6,%
+diabete,2020,Auvergne-Rhône-Alpes,incidence,452.0,pour 100 000 hab
+diabete,2020,Bourgogne-Franche-Comté,prevalence,6.0,%
+diabete,2020,Bourgogne-Franche-Comté,incidence,426.0,pour 100 000 hab
+diabete,2020,Bretagne,prevalence,5.5,%
+diabete,2020,Bretagne,incidence,421.0,pour 100 000 hab
+diabete,2020,Centre-Val de Loire,prevalence,5.6,%
+diabete,2020,Centre-Val de Loire,incidence,452.0,pour 100 000 hab
+diabete,2020,Corse,prevalence,5.5,%
+diabete,2020,Corse,incidence,461.0,pour 100 000 hab
+diabete,2020,Grand Est,prevalence,5.5,%
+diabete,2020,Grand Est,incidence,421.0,pour 100 000 hab
+diabete,2020,Hauts-de-France,prevalence,5.5,%
+diabete,2020,Hauts-de-France,incidence,431.0,pour 100 000 hab
+diabete,2020,Normandie,prevalence,6.3,%
+diabete,2020,Normandie,incidence,469.0,pour 100 000 hab
+diabete,2020,Nouvelle-Aquitaine,prevalence,5.7,%
+diabete,2020,Nouvelle-Aquitaine,incidence,463.0,pour 100 000 hab
+diabete,2020,Occitanie,prevalence,6.2,%
+diabete,2020,Occitanie,incidence,428.0,pour 100 000 hab
+diabete,2020,Pays de la Loire,prevalence,5.7,%
+diabete,2020,Pays de la Loire,incidence,423.0,pour 100 000 hab
+diabete,2020,Provence-Alpes-Côte d'Azur,prevalence,5.6,%
+diabete,2020,Provence-Alpes-Côte d'Azur,incidence,422.0,pour 100 000 hab
+diabete,2020,Île-de-France,prevalence,5.6,%
+diabete,2020,Île-de-France,incidence,462.0,pour 100 000 hab
+diabete,2021,Auvergne-Rhône-Alpes,prevalence,5.8,%
+diabete,2021,Auvergne-Rhône-Alpes,incidence,462.0,pour 100 000 hab
+diabete,2021,Bourgogne-Franche-Comté,prevalence,6.2,%
+diabete,2021,Bourgogne-Franche-Comté,incidence,436.0,pour 100 000 hab
+diabete,2021,Bretagne,prevalence,5.7,%
+diabete,2021,Bretagne,incidence,431.0,pour 100 000 hab
+diabete,2021,Centre-Val de Loire,prevalence,5.8,%
+diabete,2021,Centre-Val de Loire,incidence,462.0,pour 100 000 hab
+diabete,2021,Corse,prevalence,5.7,%
+diabete,2021,Corse,incidence,471.0,pour 100 000 hab
+diabete,2021,Grand Est,prevalence,5.7,%
+diabete,2021,Grand Est,incidence,431.0,pour 100 000 hab
+diabete,2021,Hauts-de-France,prevalence,5.7,%
+diabete,2021,Hauts-de-France,incidence,441.0,pour 100 000 hab
+diabete,2021,Normandie,prevalence,6.5,%
+diabete,2021,Normandie,incidence,479.0,pour 100 000 hab
+diabete,2021,Nouvelle-Aquitaine,prevalence,5.9,%
+diabete,2021,Nouvelle-Aquitaine,incidence,473.0,pour 100 000 hab
+diabete,2021,Occitanie,prevalence,6.4,%
+diabete,2021,Occitanie,incidence,438.0,pour 100 000 hab
+diabete,2021,Pays de la Loire,prevalence,5.9,%
+diabete,2021,Pays de la Loire,incidence,433.0,pour 100 000 hab
+diabete,2021,Provence-Alpes-Côte d'Azur,prevalence,5.8,%
+diabete,2021,Provence-Alpes-Côte d'Azur,incidence,432.0,pour 100 000 hab
+diabete,2021,Île-de-France,prevalence,5.8,%
+diabete,2021,Île-de-France,incidence,472.0,pour 100 000 hab
+diabete,2022,Auvergne-Rhône-Alpes,prevalence,6.0,%
+diabete,2022,Auvergne-Rhône-Alpes,incidence,472.0,pour 100 000 hab
+diabete,2022,Bourgogne-Franche-Comté,prevalence,6.4,%
+diabete,2022,Bourgogne-Franche-Comté,incidence,446.0,pour 100 000 hab
+diabete,2022,Bretagne,prevalence,5.9,%
+diabete,2022,Bretagne,incidence,441.0,pour 100 000 hab
+diabete,2022,Centre-Val de Loire,prevalence,6.0,%
+diabete,2022,Centre-Val de Loire,incidence,472.0,pour 100 000 hab
+diabete,2022,Corse,prevalence,5.9,%
+diabete,2022,Corse,incidence,481.0,pour 100 000 hab
+diabete,2022,Grand Est,prevalence,5.9,%
+diabete,2022,Grand Est,incidence,441.0,pour 100 000 hab
+diabete,2022,Hauts-de-France,prevalence,5.9,%
+diabete,2022,Hauts-de-France,incidence,451.0,pour 100 000 hab
+diabete,2022,Normandie,prevalence,6.7,%
+diabete,2022,Normandie,incidence,489.0,pour 100 000 hab
+diabete,2022,Nouvelle-Aquitaine,prevalence,6.1,%
+diabete,2022,Nouvelle-Aquitaine,incidence,483.0,pour 100 000 hab
+diabete,2022,Occitanie,prevalence,6.6,%
+diabete,2022,Occitanie,incidence,448.0,pour 100 000 hab
+diabete,2022,Pays de la Loire,prevalence,6.1,%
+diabete,2022,Pays de la Loire,incidence,443.0,pour 100 000 hab
+diabete,2022,Provence-Alpes-Côte d'Azur,prevalence,6.0,%
+diabete,2022,Provence-Alpes-Côte d'Azur,incidence,442.0,pour 100 000 hab
+diabete,2022,Île-de-France,prevalence,6.0,%
+diabete,2022,Île-de-France,incidence,482.0,pour 100 000 hab
+diabete,2023,Auvergne-Rhône-Alpes,prevalence,6.2,%
+diabete,2023,Auvergne-Rhône-Alpes,incidence,482.0,pour 100 000 hab
+diabete,2023,Bourgogne-Franche-Comté,prevalence,6.6,%
+diabete,2023,Bourgogne-Franche-Comté,incidence,456.0,pour 100 000 hab
+diabete,2023,Bretagne,prevalence,6.1,%
+diabete,2023,Bretagne,incidence,451.0,pour 100 000 hab
+diabete,2023,Centre-Val de Loire,prevalence,6.2,%
+diabete,2023,Centre-Val de Loire,incidence,482.0,pour 100 000 hab
+diabete,2023,Corse,prevalence,6.1,%
+diabete,2023,Corse,incidence,491.0,pour 100 000 hab
+diabete,2023,Grand Est,prevalence,6.1,%
+diabete,2023,Grand Est,incidence,451.0,pour 100 000 hab
+diabete,2023,Hauts-de-France,prevalence,6.1,%
+diabete,2023,Hauts-de-France,incidence,461.0,pour 100 000 hab
+diabete,2023,Normandie,prevalence,6.9,%
+diabete,2023,Normandie,incidence,499.0,pour 100 000 hab
+diabete,2023,Nouvelle-Aquitaine,prevalence,6.3,%
+diabete,2023,Nouvelle-Aquitaine,incidence,493.0,pour 100 000 hab
+diabete,2023,Occitanie,prevalence,6.8,%
+diabete,2023,Occitanie,incidence,458.0,pour 100 000 hab
+diabete,2023,Pays de la Loire,prevalence,6.3,%
+diabete,2023,Pays de la Loire,incidence,453.0,pour 100 000 hab
+diabete,2023,Provence-Alpes-Côte d'Azur,prevalence,6.2,%
+diabete,2023,Provence-Alpes-Côte d'Azur,incidence,452.0,pour 100 000 hab
+diabete,2023,Île-de-France,prevalence,6.2,%
+diabete,2023,Île-de-France,incidence,492.0,pour 100 000 hab

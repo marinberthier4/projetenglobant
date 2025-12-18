@@ -1,0 +1,235 @@
+﻿maladie,annee,region,indicateur,valeur,unite
+respiratoire_asthme,2018,Auvergne-Rhône-Alpes,prevalence,6.4,%
+respiratoire_asthme,2018,Auvergne-Rhône-Alpes,incidence,92.0,pour 100 000 hab
+respiratoire_asthme,2018,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2018,Bourgogne-Franche-Comté,prevalence,6.4,%
+respiratoire_asthme,2018,Bourgogne-Franche-Comté,incidence,96.0,pour 100 000 hab
+respiratoire_asthme,2018,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2018,Bretagne,prevalence,6.1,%
+respiratoire_asthme,2018,Bretagne,incidence,81.0,pour 100 000 hab
+respiratoire_asthme,2018,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2018,Centre-Val de Loire,prevalence,6.2,%
+respiratoire_asthme,2018,Centre-Val de Loire,incidence,92.0,pour 100 000 hab
+respiratoire_asthme,2018,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2018,Corse,prevalence,6.1,%
+respiratoire_asthme,2018,Corse,incidence,91.0,pour 100 000 hab
+respiratoire_asthme,2018,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Grand Est,prevalence,6.7,%
+respiratoire_asthme,2018,Grand Est,incidence,91.0,pour 100 000 hab
+respiratoire_asthme,2018,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Hauts-de-France,prevalence,6.5,%
+respiratoire_asthme,2018,Hauts-de-France,incidence,91.0,pour 100 000 hab
+respiratoire_asthme,2018,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Normandie,prevalence,6.1,%
+respiratoire_asthme,2018,Normandie,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2018,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2018,Nouvelle-Aquitaine,prevalence,6.5,%
+respiratoire_asthme,2018,Nouvelle-Aquitaine,incidence,93.0,pour 100 000 hab
+respiratoire_asthme,2018,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2018,Occitanie,prevalence,6.4,%
+respiratoire_asthme,2018,Occitanie,incidence,88.0,pour 100 000 hab
+respiratoire_asthme,2018,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Pays de la Loire,prevalence,6.5,%
+respiratoire_asthme,2018,Pays de la Loire,incidence,103.0,pour 100 000 hab
+respiratoire_asthme,2018,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Provence-Alpes-Côte d'Azur,prevalence,6.0,%
+respiratoire_asthme,2018,Provence-Alpes-Côte d'Azur,incidence,82.0,pour 100 000 hab
+respiratoire_asthme,2018,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Île-de-France,prevalence,6.2,%
+respiratoire_asthme,2018,Île-de-France,incidence,102.0,pour 100 000 hab
+respiratoire_asthme,2018,Île-de-France,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Auvergne-Rhône-Alpes,prevalence,6.5,%
+respiratoire_asthme,2019,Auvergne-Rhône-Alpes,incidence,94.0,pour 100 000 hab
+respiratoire_asthme,2019,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2019,Bourgogne-Franche-Comté,prevalence,6.5,%
+respiratoire_asthme,2019,Bourgogne-Franche-Comté,incidence,98.0,pour 100 000 hab
+respiratoire_asthme,2019,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Bretagne,prevalence,6.2,%
+respiratoire_asthme,2019,Bretagne,incidence,83.0,pour 100 000 hab
+respiratoire_asthme,2019,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Centre-Val de Loire,prevalence,6.3,%
+respiratoire_asthme,2019,Centre-Val de Loire,incidence,94.0,pour 100 000 hab
+respiratoire_asthme,2019,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2019,Corse,prevalence,6.2,%
+respiratoire_asthme,2019,Corse,incidence,93.0,pour 100 000 hab
+respiratoire_asthme,2019,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Grand Est,prevalence,6.8,%
+respiratoire_asthme,2019,Grand Est,incidence,93.0,pour 100 000 hab
+respiratoire_asthme,2019,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Hauts-de-France,prevalence,6.6,%
+respiratoire_asthme,2019,Hauts-de-France,incidence,93.0,pour 100 000 hab
+respiratoire_asthme,2019,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Normandie,prevalence,6.2,%
+respiratoire_asthme,2019,Normandie,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2019,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Nouvelle-Aquitaine,prevalence,6.6,%
+respiratoire_asthme,2019,Nouvelle-Aquitaine,incidence,95.0,pour 100 000 hab
+respiratoire_asthme,2019,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Occitanie,prevalence,6.5,%
+respiratoire_asthme,2019,Occitanie,incidence,90.0,pour 100 000 hab
+respiratoire_asthme,2019,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Pays de la Loire,prevalence,6.6,%
+respiratoire_asthme,2019,Pays de la Loire,incidence,105.0,pour 100 000 hab
+respiratoire_asthme,2019,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Provence-Alpes-Côte d'Azur,prevalence,6.1,%
+respiratoire_asthme,2019,Provence-Alpes-Côte d'Azur,incidence,84.0,pour 100 000 hab
+respiratoire_asthme,2019,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Île-de-France,prevalence,6.3,%
+respiratoire_asthme,2019,Île-de-France,incidence,104.0,pour 100 000 hab
+respiratoire_asthme,2019,Île-de-France,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Auvergne-Rhône-Alpes,prevalence,6.6,%
+respiratoire_asthme,2020,Auvergne-Rhône-Alpes,incidence,96.0,pour 100 000 hab
+respiratoire_asthme,2020,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2020,Bourgogne-Franche-Comté,prevalence,6.6,%
+respiratoire_asthme,2020,Bourgogne-Franche-Comté,incidence,100.0,pour 100 000 hab
+respiratoire_asthme,2020,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Bretagne,prevalence,6.3,%
+respiratoire_asthme,2020,Bretagne,incidence,85.0,pour 100 000 hab
+respiratoire_asthme,2020,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Centre-Val de Loire,prevalence,6.4,%
+respiratoire_asthme,2020,Centre-Val de Loire,incidence,96.0,pour 100 000 hab
+respiratoire_asthme,2020,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2020,Corse,prevalence,6.3,%
+respiratoire_asthme,2020,Corse,incidence,95.0,pour 100 000 hab
+respiratoire_asthme,2020,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Grand Est,prevalence,6.9,%
+respiratoire_asthme,2020,Grand Est,incidence,95.0,pour 100 000 hab
+respiratoire_asthme,2020,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Hauts-de-France,prevalence,6.7,%
+respiratoire_asthme,2020,Hauts-de-France,incidence,95.0,pour 100 000 hab
+respiratoire_asthme,2020,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Normandie,prevalence,6.3,%
+respiratoire_asthme,2020,Normandie,incidence,103.0,pour 100 000 hab
+respiratoire_asthme,2020,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Nouvelle-Aquitaine,prevalence,6.7,%
+respiratoire_asthme,2020,Nouvelle-Aquitaine,incidence,97.0,pour 100 000 hab
+respiratoire_asthme,2020,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Occitanie,prevalence,6.6,%
+respiratoire_asthme,2020,Occitanie,incidence,92.0,pour 100 000 hab
+respiratoire_asthme,2020,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Pays de la Loire,prevalence,6.7,%
+respiratoire_asthme,2020,Pays de la Loire,incidence,107.0,pour 100 000 hab
+respiratoire_asthme,2020,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Provence-Alpes-Côte d'Azur,prevalence,6.2,%
+respiratoire_asthme,2020,Provence-Alpes-Côte d'Azur,incidence,86.0,pour 100 000 hab
+respiratoire_asthme,2020,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Île-de-France,prevalence,6.4,%
+respiratoire_asthme,2020,Île-de-France,incidence,106.0,pour 100 000 hab
+respiratoire_asthme,2020,Île-de-France,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Auvergne-Rhône-Alpes,prevalence,6.7,%
+respiratoire_asthme,2021,Auvergne-Rhône-Alpes,incidence,98.0,pour 100 000 hab
+respiratoire_asthme,2021,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2021,Bourgogne-Franche-Comté,prevalence,6.7,%
+respiratoire_asthme,2021,Bourgogne-Franche-Comté,incidence,102.0,pour 100 000 hab
+respiratoire_asthme,2021,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Bretagne,prevalence,6.4,%
+respiratoire_asthme,2021,Bretagne,incidence,87.0,pour 100 000 hab
+respiratoire_asthme,2021,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Centre-Val de Loire,prevalence,6.5,%
+respiratoire_asthme,2021,Centre-Val de Loire,incidence,98.0,pour 100 000 hab
+respiratoire_asthme,2021,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2021,Corse,prevalence,6.4,%
+respiratoire_asthme,2021,Corse,incidence,97.0,pour 100 000 hab
+respiratoire_asthme,2021,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Grand Est,prevalence,7.0,%
+respiratoire_asthme,2021,Grand Est,incidence,97.0,pour 100 000 hab
+respiratoire_asthme,2021,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Hauts-de-France,prevalence,6.8,%
+respiratoire_asthme,2021,Hauts-de-France,incidence,97.0,pour 100 000 hab
+respiratoire_asthme,2021,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Normandie,prevalence,6.4,%
+respiratoire_asthme,2021,Normandie,incidence,105.0,pour 100 000 hab
+respiratoire_asthme,2021,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Nouvelle-Aquitaine,prevalence,6.8,%
+respiratoire_asthme,2021,Nouvelle-Aquitaine,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2021,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Occitanie,prevalence,6.7,%
+respiratoire_asthme,2021,Occitanie,incidence,94.0,pour 100 000 hab
+respiratoire_asthme,2021,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Pays de la Loire,prevalence,6.8,%
+respiratoire_asthme,2021,Pays de la Loire,incidence,109.0,pour 100 000 hab
+respiratoire_asthme,2021,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Provence-Alpes-Côte d'Azur,prevalence,6.3,%
+respiratoire_asthme,2021,Provence-Alpes-Côte d'Azur,incidence,88.0,pour 100 000 hab
+respiratoire_asthme,2021,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Île-de-France,prevalence,6.5,%
+respiratoire_asthme,2021,Île-de-France,incidence,108.0,pour 100 000 hab
+respiratoire_asthme,2021,Île-de-France,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Auvergne-Rhône-Alpes,prevalence,6.8,%
+respiratoire_asthme,2022,Auvergne-Rhône-Alpes,incidence,100.0,pour 100 000 hab
+respiratoire_asthme,2022,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2022,Bourgogne-Franche-Comté,prevalence,6.8,%
+respiratoire_asthme,2022,Bourgogne-Franche-Comté,incidence,104.0,pour 100 000 hab
+respiratoire_asthme,2022,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Bretagne,prevalence,6.5,%
+respiratoire_asthme,2022,Bretagne,incidence,89.0,pour 100 000 hab
+respiratoire_asthme,2022,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Centre-Val de Loire,prevalence,6.6,%
+respiratoire_asthme,2022,Centre-Val de Loire,incidence,100.0,pour 100 000 hab
+respiratoire_asthme,2022,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2022,Corse,prevalence,6.5,%
+respiratoire_asthme,2022,Corse,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2022,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Grand Est,prevalence,7.1,%
+respiratoire_asthme,2022,Grand Est,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2022,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Hauts-de-France,prevalence,6.9,%
+respiratoire_asthme,2022,Hauts-de-France,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2022,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Normandie,prevalence,6.5,%
+respiratoire_asthme,2022,Normandie,incidence,107.0,pour 100 000 hab
+respiratoire_asthme,2022,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Nouvelle-Aquitaine,prevalence,6.9,%
+respiratoire_asthme,2022,Nouvelle-Aquitaine,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2022,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Occitanie,prevalence,6.8,%
+respiratoire_asthme,2022,Occitanie,incidence,96.0,pour 100 000 hab
+respiratoire_asthme,2022,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Pays de la Loire,prevalence,6.9,%
+respiratoire_asthme,2022,Pays de la Loire,incidence,111.0,pour 100 000 hab
+respiratoire_asthme,2022,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Provence-Alpes-Côte d'Azur,prevalence,6.4,%
+respiratoire_asthme,2022,Provence-Alpes-Côte d'Azur,incidence,90.0,pour 100 000 hab
+respiratoire_asthme,2022,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Île-de-France,prevalence,6.6,%
+respiratoire_asthme,2022,Île-de-France,incidence,110.0,pour 100 000 hab
+respiratoire_asthme,2022,Île-de-France,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Auvergne-Rhône-Alpes,prevalence,6.9,%
+respiratoire_asthme,2023,Auvergne-Rhône-Alpes,incidence,102.0,pour 100 000 hab
+respiratoire_asthme,2023,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2023,Bourgogne-Franche-Comté,prevalence,6.9,%
+respiratoire_asthme,2023,Bourgogne-Franche-Comté,incidence,106.0,pour 100 000 hab
+respiratoire_asthme,2023,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Bretagne,prevalence,6.6,%
+respiratoire_asthme,2023,Bretagne,incidence,91.0,pour 100 000 hab
+respiratoire_asthme,2023,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Centre-Val de Loire,prevalence,6.7,%
+respiratoire_asthme,2023,Centre-Val de Loire,incidence,102.0,pour 100 000 hab
+respiratoire_asthme,2023,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2023,Corse,prevalence,6.6,%
+respiratoire_asthme,2023,Corse,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2023,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Grand Est,prevalence,7.2,%
+respiratoire_asthme,2023,Grand Est,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2023,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Hauts-de-France,prevalence,7.0,%
+respiratoire_asthme,2023,Hauts-de-France,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2023,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Normandie,prevalence,6.6,%
+respiratoire_asthme,2023,Normandie,incidence,109.0,pour 100 000 hab
+respiratoire_asthme,2023,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Nouvelle-Aquitaine,prevalence,7.0,%
+respiratoire_asthme,2023,Nouvelle-Aquitaine,incidence,103.0,pour 100 000 hab
+respiratoire_asthme,2023,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Occitanie,prevalence,6.9,%
+respiratoire_asthme,2023,Occitanie,incidence,98.0,pour 100 000 hab
+respiratoire_asthme,2023,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Pays de la Loire,prevalence,7.0,%
+respiratoire_asthme,2023,Pays de la Loire,incidence,113.0,pour 100 000 hab
+respiratoire_asthme,2023,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Provence-Alpes-Côte d'Azur,prevalence,6.5,%
+respiratoire_asthme,2023,Provence-Alpes-Côte d'Azur,incidence,92.0,pour 100 000 hab
+respiratoire_asthme,2023,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Île-de-France,prevalence,6.7,%
+respiratoire_asthme,2023,Île-de-France,incidence,112.0,pour 100 000 hab
+respiratoire_asthme,2023,Île-de-France,mortalite,3.0,pour 100 000 hab

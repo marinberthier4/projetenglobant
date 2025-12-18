@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+sqlalchemy
+pymysql
+python-dotenv
+streamlit
+plotly
+kaleido
+Pillow
+reportlab

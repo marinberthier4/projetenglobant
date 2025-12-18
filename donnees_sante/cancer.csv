@@ -1,0 +1,157 @@
+﻿maladie,annee,region,indicateur,valeur,unite
+cancer,2018,Auvergne-Rhône-Alpes,incidence,362,pour 100 000 hab
+cancer,2018,Auvergne-Rhône-Alpes,mortalite,152,pour 100 000 hab
+cancer,2018,Bourgogne-Franche-Comté,incidence,386,pour 100 000 hab
+cancer,2018,Bourgogne-Franche-Comté,mortalite,141,pour 100 000 hab
+cancer,2018,Bretagne,incidence,351,pour 100 000 hab
+cancer,2018,Bretagne,mortalite,141,pour 100 000 hab
+cancer,2018,Centre-Val de Loire,incidence,352,pour 100 000 hab
+cancer,2018,Centre-Val de Loire,mortalite,152,pour 100 000 hab
+cancer,2018,Corse,incidence,351,pour 100 000 hab
+cancer,2018,Corse,mortalite,151,pour 100 000 hab
+cancer,2018,Grand Est,incidence,381,pour 100 000 hab
+cancer,2018,Grand Est,mortalite,151,pour 100 000 hab
+cancer,2018,Hauts-de-France,incidence,371,pour 100 000 hab
+cancer,2018,Hauts-de-France,mortalite,151,pour 100 000 hab
+cancer,2018,Normandie,incidence,359,pour 100 000 hab
+cancer,2018,Normandie,mortalite,144,pour 100 000 hab
+cancer,2018,Nouvelle-Aquitaine,incidence,363,pour 100 000 hab
+cancer,2018,Nouvelle-Aquitaine,mortalite,153,pour 100 000 hab
+cancer,2018,Occitanie,incidence,378,pour 100 000 hab
+cancer,2018,Occitanie,mortalite,148,pour 100 000 hab
+cancer,2018,Pays de la Loire,incidence,363,pour 100 000 hab
+cancer,2018,Pays de la Loire,mortalite,148,pour 100 000 hab
+cancer,2018,Provence-Alpes-Côte d'Azur,incidence,382,pour 100 000 hab
+cancer,2018,Provence-Alpes-Côte d'Azur,mortalite,142,pour 100 000 hab
+cancer,2018,Île-de-France,incidence,352,pour 100 000 hab
+cancer,2018,Île-de-France,mortalite,147,pour 100 000 hab
+cancer,2019,Auvergne-Rhône-Alpes,incidence,370,pour 100 000 hab
+cancer,2019,Auvergne-Rhône-Alpes,mortalite,150,pour 100 000 hab
+cancer,2019,Bourgogne-Franche-Comté,incidence,394,pour 100 000 hab
+cancer,2019,Bourgogne-Franche-Comté,mortalite,139,pour 100 000 hab
+cancer,2019,Bretagne,incidence,359,pour 100 000 hab
+cancer,2019,Bretagne,mortalite,139,pour 100 000 hab
+cancer,2019,Centre-Val de Loire,incidence,360,pour 100 000 hab
+cancer,2019,Centre-Val de Loire,mortalite,150,pour 100 000 hab
+cancer,2019,Corse,incidence,359,pour 100 000 hab
+cancer,2019,Corse,mortalite,149,pour 100 000 hab
+cancer,2019,Grand Est,incidence,389,pour 100 000 hab
+cancer,2019,Grand Est,mortalite,149,pour 100 000 hab
+cancer,2019,Hauts-de-France,incidence,379,pour 100 000 hab
+cancer,2019,Hauts-de-France,mortalite,149,pour 100 000 hab
+cancer,2019,Normandie,incidence,367,pour 100 000 hab
+cancer,2019,Normandie,mortalite,142,pour 100 000 hab
+cancer,2019,Nouvelle-Aquitaine,incidence,371,pour 100 000 hab
+cancer,2019,Nouvelle-Aquitaine,mortalite,151,pour 100 000 hab
+cancer,2019,Occitanie,incidence,386,pour 100 000 hab
+cancer,2019,Occitanie,mortalite,146,pour 100 000 hab
+cancer,2019,Pays de la Loire,incidence,371,pour 100 000 hab
+cancer,2019,Pays de la Loire,mortalite,146,pour 100 000 hab
+cancer,2019,Provence-Alpes-Côte d'Azur,incidence,390,pour 100 000 hab
+cancer,2019,Provence-Alpes-Côte d'Azur,mortalite,140,pour 100 000 hab
+cancer,2019,Île-de-France,incidence,360,pour 100 000 hab
+cancer,2019,Île-de-France,mortalite,145,pour 100 000 hab
+cancer,2020,Auvergne-Rhône-Alpes,incidence,378,pour 100 000 hab
+cancer,2020,Auvergne-Rhône-Alpes,mortalite,148,pour 100 000 hab
+cancer,2020,Bourgogne-Franche-Comté,incidence,402,pour 100 000 hab
+cancer,2020,Bourgogne-Franche-Comté,mortalite,137,pour 100 000 hab
+cancer,2020,Bretagne,incidence,367,pour 100 000 hab
+cancer,2020,Bretagne,mortalite,137,pour 100 000 hab
+cancer,2020,Centre-Val de Loire,incidence,368,pour 100 000 hab
+cancer,2020,Centre-Val de Loire,mortalite,148,pour 100 000 hab
+cancer,2020,Corse,incidence,367,pour 100 000 hab
+cancer,2020,Corse,mortalite,147,pour 100 000 hab
+cancer,2020,Grand Est,incidence,397,pour 100 000 hab
+cancer,2020,Grand Est,mortalite,147,pour 100 000 hab
+cancer,2020,Hauts-de-France,incidence,387,pour 100 000 hab
+cancer,2020,Hauts-de-France,mortalite,147,pour 100 000 hab
+cancer,2020,Normandie,incidence,375,pour 100 000 hab
+cancer,2020,Normandie,mortalite,140,pour 100 000 hab
+cancer,2020,Nouvelle-Aquitaine,incidence,379,pour 100 000 hab
+cancer,2020,Nouvelle-Aquitaine,mortalite,149,pour 100 000 hab
+cancer,2020,Occitanie,incidence,394,pour 100 000 hab
+cancer,2020,Occitanie,mortalite,144,pour 100 000 hab
+cancer,2020,Pays de la Loire,incidence,379,pour 100 000 hab
+cancer,2020,Pays de la Loire,mortalite,144,pour 100 000 hab
+cancer,2020,Provence-Alpes-Côte d'Azur,incidence,398,pour 100 000 hab
+cancer,2020,Provence-Alpes-Côte d'Azur,mortalite,138,pour 100 000 hab
+cancer,2020,Île-de-France,incidence,368,pour 100 000 hab
+cancer,2020,Île-de-France,mortalite,143,pour 100 000 hab
+cancer,2021,Auvergne-Rhône-Alpes,incidence,386,pour 100 000 hab
+cancer,2021,Auvergne-Rhône-Alpes,mortalite,146,pour 100 000 hab
+cancer,2021,Bourgogne-Franche-Comté,incidence,410,pour 100 000 hab
+cancer,2021,Bourgogne-Franche-Comté,mortalite,135,pour 100 000 hab
+cancer,2021,Bretagne,incidence,375,pour 100 000 hab
+cancer,2021,Bretagne,mortalite,135,pour 100 000 hab
+cancer,2021,Centre-Val de Loire,incidence,376,pour 100 000 hab
+cancer,2021,Centre-Val de Loire,mortalite,146,pour 100 000 hab
+cancer,2021,Corse,incidence,375,pour 100 000 hab
+cancer,2021,Corse,mortalite,145,pour 100 000 hab
+cancer,2021,Grand Est,incidence,405,pour 100 000 hab
+cancer,2021,Grand Est,mortalite,145,pour 100 000 hab
+cancer,2021,Hauts-de-France,incidence,395,pour 100 000 hab
+cancer,2021,Hauts-de-France,mortalite,145,pour 100 000 hab
+cancer,2021,Normandie,incidence,383,pour 100 000 hab
+cancer,2021,Normandie,mortalite,138,pour 100 000 hab
+cancer,2021,Nouvelle-Aquitaine,incidence,387,pour 100 000 hab
+cancer,2021,Nouvelle-Aquitaine,mortalite,147,pour 100 000 hab
+cancer,2021,Occitanie,incidence,402,pour 100 000 hab
+cancer,2021,Occitanie,mortalite,142,pour 100 000 hab
+cancer,2021,Pays de la Loire,incidence,387,pour 100 000 hab
+cancer,2021,Pays de la Loire,mortalite,142,pour 100 000 hab
+cancer,2021,Provence-Alpes-Côte d'Azur,incidence,406,pour 100 000 hab
+cancer,2021,Provence-Alpes-Côte d'Azur,mortalite,136,pour 100 000 hab
+cancer,2021,Île-de-France,incidence,376,pour 100 000 hab
+cancer,2021,Île-de-France,mortalite,141,pour 100 000 hab
+cancer,2022,Auvergne-Rhône-Alpes,incidence,394,pour 100 000 hab
+cancer,2022,Auvergne-Rhône-Alpes,mortalite,144,pour 100 000 hab
+cancer,2022,Bourgogne-Franche-Comté,incidence,418,pour 100 000 hab
+cancer,2022,Bourgogne-Franche-Comté,mortalite,133,pour 100 000 hab
+cancer,2022,Bretagne,incidence,383,pour 100 000 hab
+cancer,2022,Bretagne,mortalite,133,pour 100 000 hab
+cancer,2022,Centre-Val de Loire,incidence,384,pour 100 000 hab
+cancer,2022,Centre-Val de Loire,mortalite,144,pour 100 000 hab
+cancer,2022,Corse,incidence,383,pour 100 000 hab
+cancer,2022,Corse,mortalite,143,pour 100 000 hab
+cancer,2022,Grand Est,incidence,413,pour 100 000 hab
+cancer,2022,Grand Est,mortalite,143,pour 100 000 hab
+cancer,2022,Hauts-de-France,incidence,403,pour 100 000 hab
+cancer,2022,Hauts-de-France,mortalite,143,pour 100 000 hab
+cancer,2022,Normandie,incidence,391,pour 100 000 hab
+cancer,2022,Normandie,mortalite,136,pour 100 000 hab
+cancer,2022,Nouvelle-Aquitaine,incidence,395,pour 100 000 hab
+cancer,2022,Nouvelle-Aquitaine,mortalite,145,pour 100 000 hab
+cancer,2022,Occitanie,incidence,410,pour 100 000 hab
+cancer,2022,Occitanie,mortalite,140,pour 100 000 hab
+cancer,2022,Pays de la Loire,incidence,395,pour 100 000 hab
+cancer,2022,Pays de la Loire,mortalite,140,pour 100 000 hab
+cancer,2022,Provence-Alpes-Côte d'Azur,incidence,414,pour 100 000 hab
+cancer,2022,Provence-Alpes-Côte d'Azur,mortalite,134,pour 100 000 hab
+cancer,2022,Île-de-France,incidence,384,pour 100 000 hab
+cancer,2022,Île-de-France,mortalite,139,pour 100 000 hab
+cancer,2023,Auvergne-Rhône-Alpes,incidence,402,pour 100 000 hab
+cancer,2023,Auvergne-Rhône-Alpes,mortalite,142,pour 100 000 hab
+cancer,2023,Bourgogne-Franche-Comté,incidence,426,pour 100 000 hab
+cancer,2023,Bourgogne-Franche-Comté,mortalite,131,pour 100 000 hab
+cancer,2023,Bretagne,incidence,391,pour 100 000 hab
+cancer,2023,Bretagne,mortalite,131,pour 100 000 hab
+cancer,2023,Centre-Val de Loire,incidence,392,pour 100 000 hab
+cancer,2023,Centre-Val de Loire,mortalite,142,pour 100 000 hab
+cancer,2023,Corse,incidence,391,pour 100 000 hab
+cancer,2023,Corse,mortalite,141,pour 100 000 hab
+cancer,2023,Grand Est,incidence,421,pour 100 000 hab
+cancer,2023,Grand Est,mortalite,141,pour 100 000 hab
+cancer,2023,Hauts-de-France,incidence,411,pour 100 000 hab
+cancer,2023,Hauts-de-France,mortalite,141,pour 100 000 hab
+cancer,2023,Normandie,incidence,399,pour 100 000 hab
+cancer,2023,Normandie,mortalite,134,pour 100 000 hab
+cancer,2023,Nouvelle-Aquitaine,incidence,403,pour 100 000 hab
+cancer,2023,Nouvelle-Aquitaine,mortalite,143,pour 100 000 hab
+cancer,2023,Occitanie,incidence,418,pour 100 000 hab
+cancer,2023,Occitanie,mortalite,138,pour 100 000 hab
+cancer,2023,Pays de la Loire,incidence,403,pour 100 000 hab
+cancer,2023,Pays de la Loire,mortalite,138,pour 100 000 hab
+cancer,2023,Provence-Alpes-Côte d'Azur,incidence,422,pour 100 000 hab
+cancer,2023,Provence-Alpes-Côte d'Azur,mortalite,132,pour 100 000 hab
+cancer,2023,Île-de-France,incidence,392,pour 100 000 hab
+cancer,2023,Île-de-France,mortalite,137,pour 100 000 hab

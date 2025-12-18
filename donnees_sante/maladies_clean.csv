@@ -1,0 +1,703 @@
+﻿maladie,annee,region,indicateur,valeur
+cancer,2018,Auvergne-Rhône-Alpes,incidence,351.0
+cancer,2018,Auvergne-Rhône-Alpes,mortalite,151.0
+cancer,2018,Auvergne-Rhône-Alpes,prevalence,3.1
+cancer,2018,Bourgogne-Franche-Comté,incidence,350.0
+cancer,2018,Bourgogne-Franche-Comté,mortalite,145.0
+cancer,2018,Bourgogne-Franche-Comté,prevalence,3.0
+cancer,2018,Bretagne,incidence,366.0
+cancer,2018,Bretagne,mortalite,146.0
+cancer,2018,Bretagne,prevalence,3.1
+cancer,2018,Centre-Val de Loire,incidence,379.0
+cancer,2018,Centre-Val de Loire,mortalite,149.0
+cancer,2018,Centre-Val de Loire,prevalence,3.4
+cancer,2018,Corse,incidence,381.0
+cancer,2018,Corse,mortalite,146.0
+cancer,2018,Corse,prevalence,3.1
+cancer,2018,Grand Est,incidence,385.0
+cancer,2018,Grand Est,mortalite,140.0
+cancer,2018,Grand Est,prevalence,3.0
+cancer,2018,Hauts-de-France,incidence,358.0
+cancer,2018,Hauts-de-France,mortalite,143.0
+cancer,2018,Hauts-de-France,prevalence,3.3
+cancer,2018,Normandie,incidence,369.0
+cancer,2018,Normandie,mortalite,144.0
+cancer,2018,Normandie,prevalence,3.4
+cancer,2018,Nouvelle-Aquitaine,incidence,366.0
+cancer,2018,Nouvelle-Aquitaine,mortalite,151.0
+cancer,2018,Nouvelle-Aquitaine,prevalence,3.1
+cancer,2018,Occitanie,incidence,364.0
+cancer,2018,Occitanie,mortalite,144.0
+cancer,2018,Occitanie,prevalence,3.4
+cancer,2018,Pays de la Loire,incidence,387.0
+cancer,2018,Pays de la Loire,mortalite,147.0
+cancer,2018,Pays de la Loire,prevalence,3.2
+cancer,2018,Provence-Alpes-Côte d'Azur,incidence,372.0
+cancer,2018,Provence-Alpes-Côte d'Azur,mortalite,152.0
+cancer,2018,Provence-Alpes-Côte d'Azur,prevalence,3.2
+cancer,2018,Île-de-France,incidence,379.0
+cancer,2018,Île-de-France,mortalite,144.0
+cancer,2018,Île-de-France,prevalence,3.4
+cardiovasculaire,2018,Auvergne-Rhône-Alpes,incidence,211.0
+cardiovasculaire,2018,Auvergne-Rhône-Alpes,mortalite,151.0
+cardiovasculaire,2018,Auvergne-Rhône-Alpes,prevalence,9.1
+cardiovasculaire,2018,Bourgogne-Franche-Comté,incidence,220.0
+cardiovasculaire,2018,Bourgogne-Franche-Comté,mortalite,150.0
+cardiovasculaire,2018,Bourgogne-Franche-Comté,prevalence,8.5
+cardiovasculaire,2018,Bretagne,incidence,206.0
+cardiovasculaire,2018,Bretagne,mortalite,166.0
+cardiovasculaire,2018,Bretagne,prevalence,8.6
+cardiovasculaire,2018,Centre-Val de Loire,incidence,209.0
+cardiovasculaire,2018,Centre-Val de Loire,mortalite,159.0
+cardiovasculaire,2018,Centre-Val de Loire,prevalence,8.9
+cardiovasculaire,2018,Corse,incidence,221.0
+cardiovasculaire,2018,Corse,mortalite,161.0
+cardiovasculaire,2018,Corse,prevalence,8.6
+cardiovasculaire,2018,Grand Est,incidence,215.0
+cardiovasculaire,2018,Grand Est,mortalite,165.0
+cardiovasculaire,2018,Grand Est,prevalence,8.0
+cardiovasculaire,2018,Hauts-de-France,incidence,218.0
+cardiovasculaire,2018,Hauts-de-France,mortalite,158.0
+cardiovasculaire,2018,Hauts-de-France,prevalence,8.3
+cardiovasculaire,2018,Normandie,incidence,219.0
+cardiovasculaire,2018,Normandie,mortalite,169.0
+cardiovasculaire,2018,Normandie,prevalence,8.4
+cardiovasculaire,2018,Nouvelle-Aquitaine,incidence,226.0
+cardiovasculaire,2018,Nouvelle-Aquitaine,mortalite,166.0
+cardiovasculaire,2018,Nouvelle-Aquitaine,prevalence,9.1
+cardiovasculaire,2018,Occitanie,incidence,204.0
+cardiovasculaire,2018,Occitanie,mortalite,164.0
+cardiovasculaire,2018,Occitanie,prevalence,8.4
+cardiovasculaire,2018,Pays de la Loire,incidence,207.0
+cardiovasculaire,2018,Pays de la Loire,mortalite,167.0
+cardiovasculaire,2018,Pays de la Loire,prevalence,8.7
+cardiovasculaire,2018,Provence-Alpes-Côte d'Azur,incidence,212.0
+cardiovasculaire,2018,Provence-Alpes-Côte d'Azur,mortalite,152.0
+cardiovasculaire,2018,Provence-Alpes-Côte d'Azur,prevalence,9.2
+cardiovasculaire,2018,Île-de-France,incidence,219.0
+cardiovasculaire,2018,Île-de-France,mortalite,159.0
+cardiovasculaire,2018,Île-de-France,prevalence,8.4
+diabete,2018,Auvergne-Rhône-Alpes,incidence,401.0
+diabete,2018,Auvergne-Rhône-Alpes,mortalite,51.0
+diabete,2018,Auvergne-Rhône-Alpes,prevalence,5.1
+diabete,2018,Bourgogne-Franche-Comté,incidence,420.0
+diabete,2018,Bourgogne-Franche-Comté,mortalite,50.0
+diabete,2018,Bourgogne-Franche-Comté,prevalence,5.0
+diabete,2018,Bretagne,incidence,426.0
+diabete,2018,Bretagne,mortalite,56.0
+diabete,2018,Bretagne,prevalence,5.6
+diabete,2018,Centre-Val de Loire,incidence,419.0
+diabete,2018,Centre-Val de Loire,mortalite,59.0
+diabete,2018,Centre-Val de Loire,prevalence,5.9
+diabete,2018,Corse,incidence,411.0
+diabete,2018,Corse,mortalite,51.0
+diabete,2018,Corse,prevalence,5.1
+diabete,2018,Grand Est,incidence,425.0
+diabete,2018,Grand Est,mortalite,55.0
+diabete,2018,Grand Est,prevalence,5.5
+diabete,2018,Hauts-de-France,incidence,408.0
+diabete,2018,Hauts-de-France,mortalite,58.0
+diabete,2018,Hauts-de-France,prevalence,5.8
+diabete,2018,Normandie,incidence,449.0
+diabete,2018,Normandie,mortalite,59.0
+diabete,2018,Normandie,prevalence,5.9
+diabete,2018,Nouvelle-Aquitaine,incidence,416.0
+diabete,2018,Nouvelle-Aquitaine,mortalite,56.0
+diabete,2018,Nouvelle-Aquitaine,prevalence,5.6
+diabete,2018,Occitanie,incidence,404.0
+diabete,2018,Occitanie,mortalite,54.0
+diabete,2018,Occitanie,prevalence,5.4
+diabete,2018,Pays de la Loire,incidence,437.0
+diabete,2018,Pays de la Loire,mortalite,57.0
+diabete,2018,Pays de la Loire,prevalence,5.7
+diabete,2018,Provence-Alpes-Côte d'Azur,incidence,432.0
+diabete,2018,Provence-Alpes-Côte d'Azur,mortalite,52.0
+diabete,2018,Provence-Alpes-Côte d'Azur,prevalence,5.2
+diabete,2018,Île-de-France,incidence,419.0
+diabete,2018,Île-de-France,mortalite,59.0
+diabete,2018,Île-de-France,prevalence,5.9
+cancer,2019,Auvergne-Rhône-Alpes,incidence,359.0
+cancer,2019,Auvergne-Rhône-Alpes,mortalite,149.0
+cancer,2019,Auvergne-Rhône-Alpes,prevalence,3.15
+cancer,2019,Bourgogne-Franche-Comté,incidence,358.0
+cancer,2019,Bourgogne-Franche-Comté,mortalite,143.0
+cancer,2019,Bourgogne-Franche-Comté,prevalence,3.05
+cancer,2019,Bretagne,incidence,374.0
+cancer,2019,Bretagne,mortalite,144.0
+cancer,2019,Bretagne,prevalence,3.15
+cancer,2019,Centre-Val de Loire,incidence,387.0
+cancer,2019,Centre-Val de Loire,mortalite,147.0
+cancer,2019,Centre-Val de Loire,prevalence,3.45
+cancer,2019,Corse,incidence,389.0
+cancer,2019,Corse,mortalite,144.0
+cancer,2019,Corse,prevalence,3.15
+cancer,2019,Grand Est,incidence,393.0
+cancer,2019,Grand Est,mortalite,138.0
+cancer,2019,Grand Est,prevalence,3.05
+cancer,2019,Hauts-de-France,incidence,366.0
+cancer,2019,Hauts-de-France,mortalite,141.0
+cancer,2019,Hauts-de-France,prevalence,3.35
+cancer,2019,Normandie,incidence,377.0
+cancer,2019,Normandie,mortalite,142.0
+cancer,2019,Normandie,prevalence,3.45
+cancer,2019,Nouvelle-Aquitaine,incidence,374.0
+cancer,2019,Nouvelle-Aquitaine,mortalite,149.0
+cancer,2019,Nouvelle-Aquitaine,prevalence,3.15
+cancer,2019,Occitanie,incidence,372.0
+cancer,2019,Occitanie,mortalite,142.0
+cancer,2019,Occitanie,prevalence,3.45
+cancer,2019,Pays de la Loire,incidence,395.0
+cancer,2019,Pays de la Loire,mortalite,145.0
+cancer,2019,Pays de la Loire,prevalence,3.25
+cancer,2019,Provence-Alpes-Côte d'Azur,incidence,380.0
+cancer,2019,Provence-Alpes-Côte d'Azur,mortalite,150.0
+cancer,2019,Provence-Alpes-Côte d'Azur,prevalence,3.25
+cancer,2019,Île-de-France,incidence,387.0
+cancer,2019,Île-de-France,mortalite,142.0
+cancer,2019,Île-de-France,prevalence,3.45
+cardiovasculaire,2019,Auvergne-Rhône-Alpes,incidence,216.0
+cardiovasculaire,2019,Auvergne-Rhône-Alpes,mortalite,148.0
+cardiovasculaire,2019,Auvergne-Rhône-Alpes,prevalence,9.25
+cardiovasculaire,2019,Bourgogne-Franche-Comté,incidence,225.0
+cardiovasculaire,2019,Bourgogne-Franche-Comté,mortalite,147.0
+cardiovasculaire,2019,Bourgogne-Franche-Comté,prevalence,8.65
+cardiovasculaire,2019,Bretagne,incidence,211.0
+cardiovasculaire,2019,Bretagne,mortalite,163.0
+cardiovasculaire,2019,Bretagne,prevalence,8.75
+cardiovasculaire,2019,Centre-Val de Loire,incidence,214.0
+cardiovasculaire,2019,Centre-Val de Loire,mortalite,156.0
+cardiovasculaire,2019,Centre-Val de Loire,prevalence,9.05
+cardiovasculaire,2019,Corse,incidence,226.0
+cardiovasculaire,2019,Corse,mortalite,158.0
+cardiovasculaire,2019,Corse,prevalence,8.75
+cardiovasculaire,2019,Grand Est,incidence,220.0
+cardiovasculaire,2019,Grand Est,mortalite,162.0
+cardiovasculaire,2019,Grand Est,prevalence,8.15
+cardiovasculaire,2019,Hauts-de-France,incidence,223.0
+cardiovasculaire,2019,Hauts-de-France,mortalite,155.0
+cardiovasculaire,2019,Hauts-de-France,prevalence,8.45
+cardiovasculaire,2019,Normandie,incidence,224.0
+cardiovasculaire,2019,Normandie,mortalite,166.0
+cardiovasculaire,2019,Normandie,prevalence,8.55
+cardiovasculaire,2019,Nouvelle-Aquitaine,incidence,231.0
+cardiovasculaire,2019,Nouvelle-Aquitaine,mortalite,163.0
+cardiovasculaire,2019,Nouvelle-Aquitaine,prevalence,9.25
+cardiovasculaire,2019,Occitanie,incidence,209.0
+cardiovasculaire,2019,Occitanie,mortalite,161.0
+cardiovasculaire,2019,Occitanie,prevalence,8.55
+cardiovasculaire,2019,Pays de la Loire,incidence,212.0
+cardiovasculaire,2019,Pays de la Loire,mortalite,164.0
+cardiovasculaire,2019,Pays de la Loire,prevalence,8.85
+cardiovasculaire,2019,Provence-Alpes-Côte d'Azur,incidence,217.0
+cardiovasculaire,2019,Provence-Alpes-Côte d'Azur,mortalite,149.0
+cardiovasculaire,2019,Provence-Alpes-Côte d'Azur,prevalence,9.35
+cardiovasculaire,2019,Île-de-France,incidence,224.0
+cardiovasculaire,2019,Île-de-France,mortalite,156.0
+cardiovasculaire,2019,Île-de-France,prevalence,8.55
+diabete,2019,Auvergne-Rhône-Alpes,incidence,411.0
+diabete,2019,Auvergne-Rhône-Alpes,mortalite,50.0
+diabete,2019,Auvergne-Rhône-Alpes,prevalence,5.3
+diabete,2019,Bourgogne-Franche-Comté,incidence,430.0
+diabete,2019,Bourgogne-Franche-Comté,mortalite,49.0
+diabete,2019,Bourgogne-Franche-Comté,prevalence,5.2
+diabete,2019,Bretagne,incidence,436.0
+diabete,2019,Bretagne,mortalite,55.0
+diabete,2019,Bretagne,prevalence,5.8
+diabete,2019,Centre-Val de Loire,incidence,429.0
+diabete,2019,Centre-Val de Loire,mortalite,58.0
+diabete,2019,Centre-Val de Loire,prevalence,6.1
+diabete,2019,Corse,incidence,421.0
+diabete,2019,Corse,mortalite,50.0
+diabete,2019,Corse,prevalence,5.3
+diabete,2019,Grand Est,incidence,435.0
+diabete,2019,Grand Est,mortalite,54.0
+diabete,2019,Grand Est,prevalence,5.7
+diabete,2019,Hauts-de-France,incidence,418.0
+diabete,2019,Hauts-de-France,mortalite,57.0
+diabete,2019,Hauts-de-France,prevalence,6.0
+diabete,2019,Normandie,incidence,459.0
+diabete,2019,Normandie,mortalite,58.0
+diabete,2019,Normandie,prevalence,6.1
+diabete,2019,Nouvelle-Aquitaine,incidence,426.0
+diabete,2019,Nouvelle-Aquitaine,mortalite,55.0
+diabete,2019,Nouvelle-Aquitaine,prevalence,5.8
+diabete,2019,Occitanie,incidence,414.0
+diabete,2019,Occitanie,mortalite,53.0
+diabete,2019,Occitanie,prevalence,5.6
+diabete,2019,Pays de la Loire,incidence,447.0
+diabete,2019,Pays de la Loire,mortalite,56.0
+diabete,2019,Pays de la Loire,prevalence,5.9
+diabete,2019,Provence-Alpes-Côte d'Azur,incidence,442.0
+diabete,2019,Provence-Alpes-Côte d'Azur,mortalite,51.0
+diabete,2019,Provence-Alpes-Côte d'Azur,prevalence,5.4
+diabete,2019,Île-de-France,incidence,429.0
+diabete,2019,Île-de-France,mortalite,58.0
+diabete,2019,Île-de-France,prevalence,6.1
+cancer,2020,Auvergne-Rhône-Alpes,incidence,367.0
+cancer,2020,Auvergne-Rhône-Alpes,mortalite,147.0
+cancer,2020,Auvergne-Rhône-Alpes,prevalence,3.2
+cancer,2020,Bourgogne-Franche-Comté,incidence,366.0
+cancer,2020,Bourgogne-Franche-Comté,mortalite,141.0
+cancer,2020,Bourgogne-Franche-Comté,prevalence,3.1
+cancer,2020,Bretagne,incidence,382.0
+cancer,2020,Bretagne,mortalite,142.0
+cancer,2020,Bretagne,prevalence,3.2
+cancer,2020,Centre-Val de Loire,incidence,395.0
+cancer,2020,Centre-Val de Loire,mortalite,145.0
+cancer,2020,Centre-Val de Loire,prevalence,3.5
+cancer,2020,Corse,incidence,397.0
+cancer,2020,Corse,mortalite,142.0
+cancer,2020,Corse,prevalence,3.2
+cancer,2020,Grand Est,incidence,401.0
+cancer,2020,Grand Est,mortalite,136.0
+cancer,2020,Grand Est,prevalence,3.1
+cancer,2020,Hauts-de-France,incidence,374.0
+cancer,2020,Hauts-de-France,mortalite,139.0
+cancer,2020,Hauts-de-France,prevalence,3.4
+cancer,2020,Normandie,incidence,385.0
+cancer,2020,Normandie,mortalite,140.0
+cancer,2020,Normandie,prevalence,3.5
+cancer,2020,Nouvelle-Aquitaine,incidence,382.0
+cancer,2020,Nouvelle-Aquitaine,mortalite,147.0
+cancer,2020,Nouvelle-Aquitaine,prevalence,3.2
+cancer,2020,Occitanie,incidence,380.0
+cancer,2020,Occitanie,mortalite,140.0
+cancer,2020,Occitanie,prevalence,3.5
+cancer,2020,Pays de la Loire,incidence,403.0
+cancer,2020,Pays de la Loire,mortalite,143.0
+cancer,2020,Pays de la Loire,prevalence,3.3
+cancer,2020,Provence-Alpes-Côte d'Azur,incidence,388.0
+cancer,2020,Provence-Alpes-Côte d'Azur,mortalite,148.0
+cancer,2020,Provence-Alpes-Côte d'Azur,prevalence,3.3
+cancer,2020,Île-de-France,incidence,395.0
+cancer,2020,Île-de-France,mortalite,140.0
+cancer,2020,Île-de-France,prevalence,3.5
+cardiovasculaire,2020,Auvergne-Rhône-Alpes,incidence,221.0
+cardiovasculaire,2020,Auvergne-Rhône-Alpes,mortalite,145.0
+cardiovasculaire,2020,Auvergne-Rhône-Alpes,prevalence,9.4
+cardiovasculaire,2020,Bourgogne-Franche-Comté,incidence,230.0
+cardiovasculaire,2020,Bourgogne-Franche-Comté,mortalite,144.0
+cardiovasculaire,2020,Bourgogne-Franche-Comté,prevalence,8.8
+cardiovasculaire,2020,Bretagne,incidence,216.0
+cardiovasculaire,2020,Bretagne,mortalite,160.0
+cardiovasculaire,2020,Bretagne,prevalence,8.9
+cardiovasculaire,2020,Centre-Val de Loire,incidence,219.0
+cardiovasculaire,2020,Centre-Val de Loire,mortalite,153.0
+cardiovasculaire,2020,Centre-Val de Loire,prevalence,9.2
+cardiovasculaire,2020,Corse,incidence,231.0
+cardiovasculaire,2020,Corse,mortalite,155.0
+cardiovasculaire,2020,Corse,prevalence,8.9
+cardiovasculaire,2020,Grand Est,incidence,225.0
+cardiovasculaire,2020,Grand Est,mortalite,159.0
+cardiovasculaire,2020,Grand Est,prevalence,8.3
+cardiovasculaire,2020,Hauts-de-France,incidence,228.0
+cardiovasculaire,2020,Hauts-de-France,mortalite,152.0
+cardiovasculaire,2020,Hauts-de-France,prevalence,8.6
+cardiovasculaire,2020,Normandie,incidence,229.0
+cardiovasculaire,2020,Normandie,mortalite,163.0
+cardiovasculaire,2020,Normandie,prevalence,8.7
+cardiovasculaire,2020,Nouvelle-Aquitaine,incidence,236.0
+cardiovasculaire,2020,Nouvelle-Aquitaine,mortalite,160.0
+cardiovasculaire,2020,Nouvelle-Aquitaine,prevalence,9.4
+cardiovasculaire,2020,Occitanie,incidence,214.0
+cardiovasculaire,2020,Occitanie,mortalite,158.0
+cardiovasculaire,2020,Occitanie,prevalence,8.7
+cardiovasculaire,2020,Pays de la Loire,incidence,217.0
+cardiovasculaire,2020,Pays de la Loire,mortalite,161.0
+cardiovasculaire,2020,Pays de la Loire,prevalence,9.0
+cardiovasculaire,2020,Provence-Alpes-Côte d'Azur,incidence,222.0
+cardiovasculaire,2020,Provence-Alpes-Côte d'Azur,mortalite,146.0
+cardiovasculaire,2020,Provence-Alpes-Côte d'Azur,prevalence,9.5
+cardiovasculaire,2020,Île-de-France,incidence,229.0
+cardiovasculaire,2020,Île-de-France,mortalite,153.0
+cardiovasculaire,2020,Île-de-France,prevalence,8.7
+diabete,2020,Auvergne-Rhône-Alpes,incidence,421.0
+diabete,2020,Auvergne-Rhône-Alpes,mortalite,49.0
+diabete,2020,Auvergne-Rhône-Alpes,prevalence,5.5
+diabete,2020,Bourgogne-Franche-Comté,incidence,440.0
+diabete,2020,Bourgogne-Franche-Comté,mortalite,48.0
+diabete,2020,Bourgogne-Franche-Comté,prevalence,5.4
+diabete,2020,Bretagne,incidence,446.0
+diabete,2020,Bretagne,mortalite,54.0
+diabete,2020,Bretagne,prevalence,6.0
+diabete,2020,Centre-Val de Loire,incidence,439.0
+diabete,2020,Centre-Val de Loire,mortalite,57.0
+diabete,2020,Centre-Val de Loire,prevalence,6.3
+diabete,2020,Corse,incidence,431.0
+diabete,2020,Corse,mortalite,49.0
+diabete,2020,Corse,prevalence,5.5
+diabete,2020,Grand Est,incidence,445.0
+diabete,2020,Grand Est,mortalite,53.0
+diabete,2020,Grand Est,prevalence,5.9
+diabete,2020,Hauts-de-France,incidence,428.0
+diabete,2020,Hauts-de-France,mortalite,56.0
+diabete,2020,Hauts-de-France,prevalence,6.2
+diabete,2020,Normandie,incidence,469.0
+diabete,2020,Normandie,mortalite,57.0
+diabete,2020,Normandie,prevalence,6.3
+diabete,2020,Nouvelle-Aquitaine,incidence,436.0
+diabete,2020,Nouvelle-Aquitaine,mortalite,54.0
+diabete,2020,Nouvelle-Aquitaine,prevalence,6.0
+diabete,2020,Occitanie,incidence,424.0
+diabete,2020,Occitanie,mortalite,52.0
+diabete,2020,Occitanie,prevalence,5.8
+diabete,2020,Pays de la Loire,incidence,457.0
+diabete,2020,Pays de la Loire,mortalite,55.0
+diabete,2020,Pays de la Loire,prevalence,6.1
+diabete,2020,Provence-Alpes-Côte d'Azur,incidence,452.0
+diabete,2020,Provence-Alpes-Côte d'Azur,mortalite,50.0
+diabete,2020,Provence-Alpes-Côte d'Azur,prevalence,5.6
+diabete,2020,Île-de-France,incidence,439.0
+diabete,2020,Île-de-France,mortalite,57.0
+diabete,2020,Île-de-France,prevalence,6.3
+cancer,2021,Auvergne-Rhône-Alpes,incidence,375.0
+cancer,2021,Auvergne-Rhône-Alpes,mortalite,145.0
+cancer,2021,Auvergne-Rhône-Alpes,prevalence,3.25
+cancer,2021,Bourgogne-Franche-Comté,incidence,374.0
+cancer,2021,Bourgogne-Franche-Comté,mortalite,139.0
+cancer,2021,Bourgogne-Franche-Comté,prevalence,3.15
+cancer,2021,Bretagne,incidence,390.0
+cancer,2021,Bretagne,mortalite,140.0
+cancer,2021,Bretagne,prevalence,3.25
+cancer,2021,Centre-Val de Loire,incidence,403.0
+cancer,2021,Centre-Val de Loire,mortalite,143.0
+cancer,2021,Centre-Val de Loire,prevalence,3.55
+cancer,2021,Corse,incidence,405.0
+cancer,2021,Corse,mortalite,140.0
+cancer,2021,Corse,prevalence,3.25
+cancer,2021,Grand Est,incidence,409.0
+cancer,2021,Grand Est,mortalite,134.0
+cancer,2021,Grand Est,prevalence,3.15
+cancer,2021,Hauts-de-France,incidence,382.0
+cancer,2021,Hauts-de-France,mortalite,137.0
+cancer,2021,Hauts-de-France,prevalence,3.45
+cancer,2021,Normandie,incidence,393.0
+cancer,2021,Normandie,mortalite,138.0
+cancer,2021,Normandie,prevalence,3.55
+cancer,2021,Nouvelle-Aquitaine,incidence,390.0
+cancer,2021,Nouvelle-Aquitaine,mortalite,145.0
+cancer,2021,Nouvelle-Aquitaine,prevalence,3.25
+cancer,2021,Occitanie,incidence,388.0
+cancer,2021,Occitanie,mortalite,138.0
+cancer,2021,Occitanie,prevalence,3.55
+cancer,2021,Pays de la Loire,incidence,411.0
+cancer,2021,Pays de la Loire,mortalite,141.0
+cancer,2021,Pays de la Loire,prevalence,3.35
+cancer,2021,Provence-Alpes-Côte d'Azur,incidence,396.0
+cancer,2021,Provence-Alpes-Côte d'Azur,mortalite,146.0
+cancer,2021,Provence-Alpes-Côte d'Azur,prevalence,3.35
+cancer,2021,Île-de-France,incidence,403.0
+cancer,2021,Île-de-France,mortalite,138.0
+cancer,2021,Île-de-France,prevalence,3.55
+cardiovasculaire,2021,Auvergne-Rhône-Alpes,incidence,226.0
+cardiovasculaire,2021,Auvergne-Rhône-Alpes,mortalite,142.0
+cardiovasculaire,2021,Auvergne-Rhône-Alpes,prevalence,9.55
+cardiovasculaire,2021,Bourgogne-Franche-Comté,incidence,235.0
+cardiovasculaire,2021,Bourgogne-Franche-Comté,mortalite,141.0
+cardiovasculaire,2021,Bourgogne-Franche-Comté,prevalence,8.95
+cardiovasculaire,2021,Bretagne,incidence,221.0
+cardiovasculaire,2021,Bretagne,mortalite,157.0
+cardiovasculaire,2021,Bretagne,prevalence,9.05
+cardiovasculaire,2021,Centre-Val de Loire,incidence,224.0
+cardiovasculaire,2021,Centre-Val de Loire,mortalite,150.0
+cardiovasculaire,2021,Centre-Val de Loire,prevalence,9.35
+cardiovasculaire,2021,Corse,incidence,236.0
+cardiovasculaire,2021,Corse,mortalite,152.0
+cardiovasculaire,2021,Corse,prevalence,9.05
+cardiovasculaire,2021,Grand Est,incidence,230.0
+cardiovasculaire,2021,Grand Est,mortalite,156.0
+cardiovasculaire,2021,Grand Est,prevalence,8.45
+cardiovasculaire,2021,Hauts-de-France,incidence,233.0
+cardiovasculaire,2021,Hauts-de-France,mortalite,149.0
+cardiovasculaire,2021,Hauts-de-France,prevalence,8.75
+cardiovasculaire,2021,Normandie,incidence,234.0
+cardiovasculaire,2021,Normandie,mortalite,160.0
+cardiovasculaire,2021,Normandie,prevalence,8.85
+cardiovasculaire,2021,Nouvelle-Aquitaine,incidence,241.0
+cardiovasculaire,2021,Nouvelle-Aquitaine,mortalite,157.0
+cardiovasculaire,2021,Nouvelle-Aquitaine,prevalence,9.55
+cardiovasculaire,2021,Occitanie,incidence,219.0
+cardiovasculaire,2021,Occitanie,mortalite,155.0
+cardiovasculaire,2021,Occitanie,prevalence,8.85
+cardiovasculaire,2021,Pays de la Loire,incidence,222.0
+cardiovasculaire,2021,Pays de la Loire,mortalite,158.0
+cardiovasculaire,2021,Pays de la Loire,prevalence,9.15
+cardiovasculaire,2021,Provence-Alpes-Côte d'Azur,incidence,227.0
+cardiovasculaire,2021,Provence-Alpes-Côte d'Azur,mortalite,143.0
+cardiovasculaire,2021,Provence-Alpes-Côte d'Azur,prevalence,9.65
+cardiovasculaire,2021,Île-de-France,incidence,234.0
+cardiovasculaire,2021,Île-de-France,mortalite,150.0
+cardiovasculaire,2021,Île-de-France,prevalence,8.85
+diabete,2021,Auvergne-Rhône-Alpes,incidence,431.0
+diabete,2021,Auvergne-Rhône-Alpes,mortalite,48.0
+diabete,2021,Auvergne-Rhône-Alpes,prevalence,5.7
+diabete,2021,Bourgogne-Franche-Comté,incidence,450.0
+diabete,2021,Bourgogne-Franche-Comté,mortalite,47.0
+diabete,2021,Bourgogne-Franche-Comté,prevalence,5.6
+diabete,2021,Bretagne,incidence,456.0
+diabete,2021,Bretagne,mortalite,53.0
+diabete,2021,Bretagne,prevalence,6.2
+diabete,2021,Centre-Val de Loire,incidence,449.0
+diabete,2021,Centre-Val de Loire,mortalite,56.0
+diabete,2021,Centre-Val de Loire,prevalence,6.5
+diabete,2021,Corse,incidence,441.0
+diabete,2021,Corse,mortalite,48.0
+diabete,2021,Corse,prevalence,5.7
+diabete,2021,Grand Est,incidence,455.0
+diabete,2021,Grand Est,mortalite,52.0
+diabete,2021,Grand Est,prevalence,6.1
+diabete,2021,Hauts-de-France,incidence,438.0
+diabete,2021,Hauts-de-France,mortalite,55.0
+diabete,2021,Hauts-de-France,prevalence,6.4
+diabete,2021,Normandie,incidence,479.0
+diabete,2021,Normandie,mortalite,56.0
+diabete,2021,Normandie,prevalence,6.5
+diabete,2021,Nouvelle-Aquitaine,incidence,446.0
+diabete,2021,Nouvelle-Aquitaine,mortalite,53.0
+diabete,2021,Nouvelle-Aquitaine,prevalence,6.2
+diabete,2021,Occitanie,incidence,434.0
+diabete,2021,Occitanie,mortalite,51.0
+diabete,2021,Occitanie,prevalence,6.0
+diabete,2021,Pays de la Loire,incidence,467.0
+diabete,2021,Pays de la Loire,mortalite,54.0
+diabete,2021,Pays de la Loire,prevalence,6.3
+diabete,2021,Provence-Alpes-Côte d'Azur,incidence,462.0
+diabete,2021,Provence-Alpes-Côte d'Azur,mortalite,49.0
+diabete,2021,Provence-Alpes-Côte d'Azur,prevalence,5.8
+diabete,2021,Île-de-France,incidence,449.0
+diabete,2021,Île-de-France,mortalite,56.0
+diabete,2021,Île-de-France,prevalence,6.5
+cancer,2022,Auvergne-Rhône-Alpes,incidence,383.0
+cancer,2022,Auvergne-Rhône-Alpes,mortalite,143.0
+cancer,2022,Auvergne-Rhône-Alpes,prevalence,3.3
+cancer,2022,Bourgogne-Franche-Comté,incidence,382.0
+cancer,2022,Bourgogne-Franche-Comté,mortalite,137.0
+cancer,2022,Bourgogne-Franche-Comté,prevalence,3.2
+cancer,2022,Bretagne,incidence,398.0
+cancer,2022,Bretagne,mortalite,138.0
+cancer,2022,Bretagne,prevalence,3.3
+cancer,2022,Centre-Val de Loire,incidence,411.0
+cancer,2022,Centre-Val de Loire,mortalite,141.0
+cancer,2022,Centre-Val de Loire,prevalence,3.6
+cancer,2022,Corse,incidence,413.0
+cancer,2022,Corse,mortalite,138.0
+cancer,2022,Corse,prevalence,3.3
+cancer,2022,Grand Est,incidence,417.0
+cancer,2022,Grand Est,mortalite,132.0
+cancer,2022,Grand Est,prevalence,3.2
+cancer,2022,Hauts-de-France,incidence,390.0
+cancer,2022,Hauts-de-France,mortalite,135.0
+cancer,2022,Hauts-de-France,prevalence,3.5
+cancer,2022,Normandie,incidence,401.0
+cancer,2022,Normandie,mortalite,136.0
+cancer,2022,Normandie,prevalence,3.6
+cancer,2022,Nouvelle-Aquitaine,incidence,398.0
+cancer,2022,Nouvelle-Aquitaine,mortalite,143.0
+cancer,2022,Nouvelle-Aquitaine,prevalence,3.3
+cancer,2022,Occitanie,incidence,396.0
+cancer,2022,Occitanie,mortalite,136.0
+cancer,2022,Occitanie,prevalence,3.6
+cancer,2022,Pays de la Loire,incidence,419.0
+cancer,2022,Pays de la Loire,mortalite,139.0
+cancer,2022,Pays de la Loire,prevalence,3.4
+cancer,2022,Provence-Alpes-Côte d'Azur,incidence,404.0
+cancer,2022,Provence-Alpes-Côte d'Azur,mortalite,144.0
+cancer,2022,Provence-Alpes-Côte d'Azur,prevalence,3.4
+cancer,2022,Île-de-France,incidence,411.0
+cancer,2022,Île-de-France,mortalite,136.0
+cancer,2022,Île-de-France,prevalence,3.6
+cardiovasculaire,2022,Auvergne-Rhône-Alpes,incidence,231.0
+cardiovasculaire,2022,Auvergne-Rhône-Alpes,mortalite,139.0
+cardiovasculaire,2022,Auvergne-Rhône-Alpes,prevalence,9.7
+cardiovasculaire,2022,Bourgogne-Franche-Comté,incidence,240.0
+cardiovasculaire,2022,Bourgogne-Franche-Comté,mortalite,138.0
+cardiovasculaire,2022,Bourgogne-Franche-Comté,prevalence,9.1
+cardiovasculaire,2022,Bretagne,incidence,226.0
+cardiovasculaire,2022,Bretagne,mortalite,154.0
+cardiovasculaire,2022,Bretagne,prevalence,9.2
+cardiovasculaire,2022,Centre-Val de Loire,incidence,229.0
+cardiovasculaire,2022,Centre-Val de Loire,mortalite,147.0
+cardiovasculaire,2022,Centre-Val de Loire,prevalence,9.5
+cardiovasculaire,2022,Corse,incidence,241.0
+cardiovasculaire,2022,Corse,mortalite,149.0
+cardiovasculaire,2022,Corse,prevalence,9.2
+cardiovasculaire,2022,Grand Est,incidence,235.0
+cardiovasculaire,2022,Grand Est,mortalite,153.0
+cardiovasculaire,2022,Grand Est,prevalence,8.6
+cardiovasculaire,2022,Hauts-de-France,incidence,238.0
+cardiovasculaire,2022,Hauts-de-France,mortalite,146.0
+cardiovasculaire,2022,Hauts-de-France,prevalence,8.9
+cardiovasculaire,2022,Normandie,incidence,239.0
+cardiovasculaire,2022,Normandie,mortalite,157.0
+cardiovasculaire,2022,Normandie,prevalence,9.0
+cardiovasculaire,2022,Nouvelle-Aquitaine,incidence,246.0
+cardiovasculaire,2022,Nouvelle-Aquitaine,mortalite,154.0
+cardiovasculaire,2022,Nouvelle-Aquitaine,prevalence,9.7
+cardiovasculaire,2022,Occitanie,incidence,224.0
+cardiovasculaire,2022,Occitanie,mortalite,152.0
+cardiovasculaire,2022,Occitanie,prevalence,9.0
+cardiovasculaire,2022,Pays de la Loire,incidence,227.0
+cardiovasculaire,2022,Pays de la Loire,mortalite,155.0
+cardiovasculaire,2022,Pays de la Loire,prevalence,9.3
+cardiovasculaire,2022,Provence-Alpes-Côte d'Azur,incidence,232.0
+cardiovasculaire,2022,Provence-Alpes-Côte d'Azur,mortalite,140.0
+cardiovasculaire,2022,Provence-Alpes-Côte d'Azur,prevalence,9.8
+cardiovasculaire,2022,Île-de-France,incidence,239.0
+cardiovasculaire,2022,Île-de-France,mortalite,147.0
+cardiovasculaire,2022,Île-de-France,prevalence,9.0
+diabete,2022,Auvergne-Rhône-Alpes,incidence,441.0
+diabete,2022,Auvergne-Rhône-Alpes,mortalite,47.0
+diabete,2022,Auvergne-Rhône-Alpes,prevalence,5.9
+diabete,2022,Bourgogne-Franche-Comté,incidence,460.0
+diabete,2022,Bourgogne-Franche-Comté,mortalite,46.0
+diabete,2022,Bourgogne-Franche-Comté,prevalence,5.8
+diabete,2022,Bretagne,incidence,466.0
+diabete,2022,Bretagne,mortalite,52.0
+diabete,2022,Bretagne,prevalence,6.4
+diabete,2022,Centre-Val de Loire,incidence,459.0
+diabete,2022,Centre-Val de Loire,mortalite,55.0
+diabete,2022,Centre-Val de Loire,prevalence,6.7
+diabete,2022,Corse,incidence,451.0
+diabete,2022,Corse,mortalite,47.0
+diabete,2022,Corse,prevalence,5.9
+diabete,2022,Grand Est,incidence,465.0
+diabete,2022,Grand Est,mortalite,51.0
+diabete,2022,Grand Est,prevalence,6.3
+diabete,2022,Hauts-de-France,incidence,448.0
+diabete,2022,Hauts-de-France,mortalite,54.0
+diabete,2022,Hauts-de-France,prevalence,6.6
+diabete,2022,Normandie,incidence,489.0
+diabete,2022,Normandie,mortalite,55.0
+diabete,2022,Normandie,prevalence,6.7
+diabete,2022,Nouvelle-Aquitaine,incidence,456.0
+diabete,2022,Nouvelle-Aquitaine,mortalite,52.0
+diabete,2022,Nouvelle-Aquitaine,prevalence,6.4
+diabete,2022,Occitanie,incidence,444.0
+diabete,2022,Occitanie,mortalite,50.0
+diabete,2022,Occitanie,prevalence,6.2
+diabete,2022,Pays de la Loire,incidence,477.0
+diabete,2022,Pays de la Loire,mortalite,53.0
+diabete,2022,Pays de la Loire,prevalence,6.5
+diabete,2022,Provence-Alpes-Côte d'Azur,incidence,472.0
+diabete,2022,Provence-Alpes-Côte d'Azur,mortalite,48.0
+diabete,2022,Provence-Alpes-Côte d'Azur,prevalence,6.0
+diabete,2022,Île-de-France,incidence,459.0
+diabete,2022,Île-de-France,mortalite,55.0
+diabete,2022,Île-de-France,prevalence,6.7
+cancer,2023,Auvergne-Rhône-Alpes,incidence,391.0
+cancer,2023,Auvergne-Rhône-Alpes,mortalite,141.0
+cancer,2023,Auvergne-Rhône-Alpes,prevalence,3.35
+cancer,2023,Bourgogne-Franche-Comté,incidence,390.0
+cancer,2023,Bourgogne-Franche-Comté,mortalite,135.0
+cancer,2023,Bourgogne-Franche-Comté,prevalence,3.25
+cancer,2023,Bretagne,incidence,406.0
+cancer,2023,Bretagne,mortalite,136.0
+cancer,2023,Bretagne,prevalence,3.35
+cancer,2023,Centre-Val de Loire,incidence,419.0
+cancer,2023,Centre-Val de Loire,mortalite,139.0
+cancer,2023,Centre-Val de Loire,prevalence,3.65
+cancer,2023,Corse,incidence,421.0
+cancer,2023,Corse,mortalite,136.0
+cancer,2023,Corse,prevalence,3.35
+cancer,2023,Grand Est,incidence,425.0
+cancer,2023,Grand Est,mortalite,130.0
+cancer,2023,Grand Est,prevalence,3.25
+cancer,2023,Hauts-de-France,incidence,398.0
+cancer,2023,Hauts-de-France,mortalite,133.0
+cancer,2023,Hauts-de-France,prevalence,3.55
+cancer,2023,Normandie,incidence,409.0
+cancer,2023,Normandie,mortalite,134.0
+cancer,2023,Normandie,prevalence,3.65
+cancer,2023,Nouvelle-Aquitaine,incidence,406.0
+cancer,2023,Nouvelle-Aquitaine,mortalite,141.0
+cancer,2023,Nouvelle-Aquitaine,prevalence,3.35
+cancer,2023,Occitanie,incidence,404.0
+cancer,2023,Occitanie,mortalite,134.0
+cancer,2023,Occitanie,prevalence,3.65
+cancer,2023,Pays de la Loire,incidence,427.0
+cancer,2023,Pays de la Loire,mortalite,137.0
+cancer,2023,Pays de la Loire,prevalence,3.45
+cancer,2023,Provence-Alpes-Côte d'Azur,incidence,412.0
+cancer,2023,Provence-Alpes-Côte d'Azur,mortalite,142.0
+cancer,2023,Provence-Alpes-Côte d'Azur,prevalence,3.45
+cancer,2023,Île-de-France,incidence,419.0
+cancer,2023,Île-de-France,mortalite,134.0
+cancer,2023,Île-de-France,prevalence,3.65
+cardiovasculaire,2023,Auvergne-Rhône-Alpes,incidence,236.0
+cardiovasculaire,2023,Auvergne-Rhône-Alpes,mortalite,136.0
+cardiovasculaire,2023,Auvergne-Rhône-Alpes,prevalence,9.85
+cardiovasculaire,2023,Bourgogne-Franche-Comté,incidence,245.0
+cardiovasculaire,2023,Bourgogne-Franche-Comté,mortalite,135.0
+cardiovasculaire,2023,Bourgogne-Franche-Comté,prevalence,9.25
+cardiovasculaire,2023,Bretagne,incidence,231.0
+cardiovasculaire,2023,Bretagne,mortalite,151.0
+cardiovasculaire,2023,Bretagne,prevalence,9.35
+cardiovasculaire,2023,Centre-Val de Loire,incidence,234.0
+cardiovasculaire,2023,Centre-Val de Loire,mortalite,144.0
+cardiovasculaire,2023,Centre-Val de Loire,prevalence,9.65
+cardiovasculaire,2023,Corse,incidence,246.0
+cardiovasculaire,2023,Corse,mortalite,146.0
+cardiovasculaire,2023,Corse,prevalence,9.35
+cardiovasculaire,2023,Grand Est,incidence,240.0
+cardiovasculaire,2023,Grand Est,mortalite,150.0
+cardiovasculaire,2023,Grand Est,prevalence,8.75
+cardiovasculaire,2023,Hauts-de-France,incidence,243.0
+cardiovasculaire,2023,Hauts-de-France,mortalite,143.0
+cardiovasculaire,2023,Hauts-de-France,prevalence,9.05
+cardiovasculaire,2023,Normandie,incidence,244.0
+cardiovasculaire,2023,Normandie,mortalite,154.0
+cardiovasculaire,2023,Normandie,prevalence,9.15
+cardiovasculaire,2023,Nouvelle-Aquitaine,incidence,251.0
+cardiovasculaire,2023,Nouvelle-Aquitaine,mortalite,151.0
+cardiovasculaire,2023,Nouvelle-Aquitaine,prevalence,9.85
+cardiovasculaire,2023,Occitanie,incidence,229.0
+cardiovasculaire,2023,Occitanie,mortalite,149.0
+cardiovasculaire,2023,Occitanie,prevalence,9.15
+cardiovasculaire,2023,Pays de la Loire,incidence,232.0
+cardiovasculaire,2023,Pays de la Loire,mortalite,152.0
+cardiovasculaire,2023,Pays de la Loire,prevalence,9.45
+cardiovasculaire,2023,Provence-Alpes-Côte d'Azur,incidence,237.0
+cardiovasculaire,2023,Provence-Alpes-Côte d'Azur,mortalite,137.0
+cardiovasculaire,2023,Provence-Alpes-Côte d'Azur,prevalence,9.95
+cardiovasculaire,2023,Île-de-France,incidence,244.0
+cardiovasculaire,2023,Île-de-France,mortalite,144.0
+cardiovasculaire,2023,Île-de-France,prevalence,9.15
+diabete,2023,Auvergne-Rhône-Alpes,incidence,451.0
+diabete,2023,Auvergne-Rhône-Alpes,mortalite,46.0
+diabete,2023,Auvergne-Rhône-Alpes,prevalence,6.1
+diabete,2023,Bourgogne-Franche-Comté,incidence,470.0
+diabete,2023,Bourgogne-Franche-Comté,mortalite,45.0
+diabete,2023,Bourgogne-Franche-Comté,prevalence,6.0
+diabete,2023,Bretagne,incidence,476.0
+diabete,2023,Bretagne,mortalite,51.0
+diabete,2023,Bretagne,prevalence,6.6
+diabete,2023,Centre-Val de Loire,incidence,469.0
+diabete,2023,Centre-Val de Loire,mortalite,54.0
+diabete,2023,Centre-Val de Loire,prevalence,6.9
+diabete,2023,Corse,incidence,461.0
+diabete,2023,Corse,mortalite,46.0
+diabete,2023,Corse,prevalence,6.1
+diabete,2023,Grand Est,incidence,475.0
+diabete,2023,Grand Est,mortalite,50.0
+diabete,2023,Grand Est,prevalence,6.5
+diabete,2023,Hauts-de-France,incidence,458.0
+diabete,2023,Hauts-de-France,mortalite,53.0
+diabete,2023,Hauts-de-France,prevalence,6.8
+diabete,2023,Normandie,incidence,499.0
+diabete,2023,Normandie,mortalite,54.0
+diabete,2023,Normandie,prevalence,6.9
+diabete,2023,Nouvelle-Aquitaine,incidence,466.0
+diabete,2023,Nouvelle-Aquitaine,mortalite,51.0
+diabete,2023,Nouvelle-Aquitaine,prevalence,6.6
+diabete,2023,Occitanie,incidence,454.0
+diabete,2023,Occitanie,mortalite,49.0
+diabete,2023,Occitanie,prevalence,6.4
+diabete,2023,Pays de la Loire,incidence,487.0
+diabete,2023,Pays de la Loire,mortalite,52.0
+diabete,2023,Pays de la Loire,prevalence,6.7
+diabete,2023,Provence-Alpes-Côte d'Azur,incidence,482.0
+diabete,2023,Provence-Alpes-Côte d'Azur,mortalite,47.0
+diabete,2023,Provence-Alpes-Côte d'Azur,prevalence,6.2
+diabete,2023,Île-de-France,incidence,469.0
+diabete,2023,Île-de-France,mortalite,54.0
+diabete,2023,Île-de-France,prevalence,6.9

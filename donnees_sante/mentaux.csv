@@ -1,0 +1,235 @@
+﻿maladie,annee,region,indicateur,valeur,unite
+troubles_mentaux,2018,Auvergne-Rhône-Alpes,prevalence,15.0,%
+troubles_mentaux,2018,Auvergne-Rhône-Alpes,incidence,332.0,pour 100 000 hab
+troubles_mentaux,2018,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2018,Bourgogne-Franche-Comté,prevalence,15.4,%
+troubles_mentaux,2018,Bourgogne-Franche-Comté,incidence,306.0,pour 100 000 hab
+troubles_mentaux,2018,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2018,Bretagne,prevalence,15.1,%
+troubles_mentaux,2018,Bretagne,incidence,301.0,pour 100 000 hab
+troubles_mentaux,2018,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2018,Centre-Val de Loire,prevalence,15.6,%
+troubles_mentaux,2018,Centre-Val de Loire,incidence,332.0,pour 100 000 hab
+troubles_mentaux,2018,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2018,Corse,prevalence,15.5,%
+troubles_mentaux,2018,Corse,incidence,341.0,pour 100 000 hab
+troubles_mentaux,2018,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2018,Grand Est,prevalence,16.1,%
+troubles_mentaux,2018,Grand Est,incidence,301.0,pour 100 000 hab
+troubles_mentaux,2018,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2018,Hauts-de-France,prevalence,15.5,%
+troubles_mentaux,2018,Hauts-de-France,incidence,311.0,pour 100 000 hab
+troubles_mentaux,2018,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2018,Normandie,prevalence,15.1,%
+troubles_mentaux,2018,Normandie,incidence,349.0,pour 100 000 hab
+troubles_mentaux,2018,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2018,Nouvelle-Aquitaine,prevalence,15.1,%
+troubles_mentaux,2018,Nouvelle-Aquitaine,incidence,343.0,pour 100 000 hab
+troubles_mentaux,2018,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2018,Occitanie,prevalence,15.8,%
+troubles_mentaux,2018,Occitanie,incidence,308.0,pour 100 000 hab
+troubles_mentaux,2018,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2018,Pays de la Loire,prevalence,15.5,%
+troubles_mentaux,2018,Pays de la Loire,incidence,303.0,pour 100 000 hab
+troubles_mentaux,2018,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2018,Provence-Alpes-Côte d'Azur,prevalence,15.8,%
+troubles_mentaux,2018,Provence-Alpes-Côte d'Azur,incidence,302.0,pour 100 000 hab
+troubles_mentaux,2018,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2018,Île-de-France,prevalence,16.0,%
+troubles_mentaux,2018,Île-de-France,incidence,342.0,pour 100 000 hab
+troubles_mentaux,2018,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2019,Auvergne-Rhône-Alpes,prevalence,15.2,%
+troubles_mentaux,2019,Auvergne-Rhône-Alpes,incidence,338.0,pour 100 000 hab
+troubles_mentaux,2019,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2019,Bourgogne-Franche-Comté,prevalence,15.6,%
+troubles_mentaux,2019,Bourgogne-Franche-Comté,incidence,312.0,pour 100 000 hab
+troubles_mentaux,2019,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2019,Bretagne,prevalence,15.3,%
+troubles_mentaux,2019,Bretagne,incidence,307.0,pour 100 000 hab
+troubles_mentaux,2019,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2019,Centre-Val de Loire,prevalence,15.8,%
+troubles_mentaux,2019,Centre-Val de Loire,incidence,338.0,pour 100 000 hab
+troubles_mentaux,2019,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2019,Corse,prevalence,15.7,%
+troubles_mentaux,2019,Corse,incidence,347.0,pour 100 000 hab
+troubles_mentaux,2019,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2019,Grand Est,prevalence,16.3,%
+troubles_mentaux,2019,Grand Est,incidence,307.0,pour 100 000 hab
+troubles_mentaux,2019,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2019,Hauts-de-France,prevalence,15.7,%
+troubles_mentaux,2019,Hauts-de-France,incidence,317.0,pour 100 000 hab
+troubles_mentaux,2019,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2019,Normandie,prevalence,15.3,%
+troubles_mentaux,2019,Normandie,incidence,355.0,pour 100 000 hab
+troubles_mentaux,2019,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2019,Nouvelle-Aquitaine,prevalence,15.3,%
+troubles_mentaux,2019,Nouvelle-Aquitaine,incidence,349.0,pour 100 000 hab
+troubles_mentaux,2019,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2019,Occitanie,prevalence,16.0,%
+troubles_mentaux,2019,Occitanie,incidence,314.0,pour 100 000 hab
+troubles_mentaux,2019,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2019,Pays de la Loire,prevalence,15.7,%
+troubles_mentaux,2019,Pays de la Loire,incidence,309.0,pour 100 000 hab
+troubles_mentaux,2019,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2019,Provence-Alpes-Côte d'Azur,prevalence,16.0,%
+troubles_mentaux,2019,Provence-Alpes-Côte d'Azur,incidence,308.0,pour 100 000 hab
+troubles_mentaux,2019,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2019,Île-de-France,prevalence,16.2,%
+troubles_mentaux,2019,Île-de-France,incidence,348.0,pour 100 000 hab
+troubles_mentaux,2019,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2020,Auvergne-Rhône-Alpes,prevalence,15.4,%
+troubles_mentaux,2020,Auvergne-Rhône-Alpes,incidence,344.0,pour 100 000 hab
+troubles_mentaux,2020,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2020,Bourgogne-Franche-Comté,prevalence,15.8,%
+troubles_mentaux,2020,Bourgogne-Franche-Comté,incidence,318.0,pour 100 000 hab
+troubles_mentaux,2020,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2020,Bretagne,prevalence,15.5,%
+troubles_mentaux,2020,Bretagne,incidence,313.0,pour 100 000 hab
+troubles_mentaux,2020,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2020,Centre-Val de Loire,prevalence,16.0,%
+troubles_mentaux,2020,Centre-Val de Loire,incidence,344.0,pour 100 000 hab
+troubles_mentaux,2020,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2020,Corse,prevalence,15.9,%
+troubles_mentaux,2020,Corse,incidence,353.0,pour 100 000 hab
+troubles_mentaux,2020,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2020,Grand Est,prevalence,16.5,%
+troubles_mentaux,2020,Grand Est,incidence,313.0,pour 100 000 hab
+troubles_mentaux,2020,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2020,Hauts-de-France,prevalence,15.9,%
+troubles_mentaux,2020,Hauts-de-France,incidence,323.0,pour 100 000 hab
+troubles_mentaux,2020,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2020,Normandie,prevalence,15.5,%
+troubles_mentaux,2020,Normandie,incidence,361.0,pour 100 000 hab
+troubles_mentaux,2020,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2020,Nouvelle-Aquitaine,prevalence,15.5,%
+troubles_mentaux,2020,Nouvelle-Aquitaine,incidence,355.0,pour 100 000 hab
+troubles_mentaux,2020,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2020,Occitanie,prevalence,16.2,%
+troubles_mentaux,2020,Occitanie,incidence,320.0,pour 100 000 hab
+troubles_mentaux,2020,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2020,Pays de la Loire,prevalence,15.9,%
+troubles_mentaux,2020,Pays de la Loire,incidence,315.0,pour 100 000 hab
+troubles_mentaux,2020,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2020,Provence-Alpes-Côte d'Azur,prevalence,16.2,%
+troubles_mentaux,2020,Provence-Alpes-Côte d'Azur,incidence,314.0,pour 100 000 hab
+troubles_mentaux,2020,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2020,Île-de-France,prevalence,16.4,%
+troubles_mentaux,2020,Île-de-France,incidence,354.0,pour 100 000 hab
+troubles_mentaux,2020,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2021,Auvergne-Rhône-Alpes,prevalence,15.6,%
+troubles_mentaux,2021,Auvergne-Rhône-Alpes,incidence,350.0,pour 100 000 hab
+troubles_mentaux,2021,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2021,Bourgogne-Franche-Comté,prevalence,16.0,%
+troubles_mentaux,2021,Bourgogne-Franche-Comté,incidence,324.0,pour 100 000 hab
+troubles_mentaux,2021,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2021,Bretagne,prevalence,15.7,%
+troubles_mentaux,2021,Bretagne,incidence,319.0,pour 100 000 hab
+troubles_mentaux,2021,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2021,Centre-Val de Loire,prevalence,16.2,%
+troubles_mentaux,2021,Centre-Val de Loire,incidence,350.0,pour 100 000 hab
+troubles_mentaux,2021,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2021,Corse,prevalence,16.1,%
+troubles_mentaux,2021,Corse,incidence,359.0,pour 100 000 hab
+troubles_mentaux,2021,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2021,Grand Est,prevalence,16.7,%
+troubles_mentaux,2021,Grand Est,incidence,319.0,pour 100 000 hab
+troubles_mentaux,2021,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2021,Hauts-de-France,prevalence,16.1,%
+troubles_mentaux,2021,Hauts-de-France,incidence,329.0,pour 100 000 hab
+troubles_mentaux,2021,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2021,Normandie,prevalence,15.7,%
+troubles_mentaux,2021,Normandie,incidence,367.0,pour 100 000 hab
+troubles_mentaux,2021,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2021,Nouvelle-Aquitaine,prevalence,15.7,%
+troubles_mentaux,2021,Nouvelle-Aquitaine,incidence,361.0,pour 100 000 hab
+troubles_mentaux,2021,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2021,Occitanie,prevalence,16.4,%
+troubles_mentaux,2021,Occitanie,incidence,326.0,pour 100 000 hab
+troubles_mentaux,2021,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2021,Pays de la Loire,prevalence,16.1,%
+troubles_mentaux,2021,Pays de la Loire,incidence,321.0,pour 100 000 hab
+troubles_mentaux,2021,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2021,Provence-Alpes-Côte d'Azur,prevalence,16.4,%
+troubles_mentaux,2021,Provence-Alpes-Côte d'Azur,incidence,320.0,pour 100 000 hab
+troubles_mentaux,2021,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2021,Île-de-France,prevalence,16.6,%
+troubles_mentaux,2021,Île-de-France,incidence,360.0,pour 100 000 hab
+troubles_mentaux,2021,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2022,Auvergne-Rhône-Alpes,prevalence,15.8,%
+troubles_mentaux,2022,Auvergne-Rhône-Alpes,incidence,356.0,pour 100 000 hab
+troubles_mentaux,2022,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2022,Bourgogne-Franche-Comté,prevalence,16.2,%
+troubles_mentaux,2022,Bourgogne-Franche-Comté,incidence,330.0,pour 100 000 hab
+troubles_mentaux,2022,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2022,Bretagne,prevalence,15.9,%
+troubles_mentaux,2022,Bretagne,incidence,325.0,pour 100 000 hab
+troubles_mentaux,2022,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2022,Centre-Val de Loire,prevalence,16.4,%
+troubles_mentaux,2022,Centre-Val de Loire,incidence,356.0,pour 100 000 hab
+troubles_mentaux,2022,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2022,Corse,prevalence,16.3,%
+troubles_mentaux,2022,Corse,incidence,365.0,pour 100 000 hab
+troubles_mentaux,2022,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2022,Grand Est,prevalence,16.9,%
+troubles_mentaux,2022,Grand Est,incidence,325.0,pour 100 000 hab
+troubles_mentaux,2022,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2022,Hauts-de-France,prevalence,16.3,%
+troubles_mentaux,2022,Hauts-de-France,incidence,335.0,pour 100 000 hab
+troubles_mentaux,2022,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2022,Normandie,prevalence,15.9,%
+troubles_mentaux,2022,Normandie,incidence,373.0,pour 100 000 hab
+troubles_mentaux,2022,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2022,Nouvelle-Aquitaine,prevalence,15.9,%
+troubles_mentaux,2022,Nouvelle-Aquitaine,incidence,367.0,pour 100 000 hab
+troubles_mentaux,2022,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2022,Occitanie,prevalence,16.6,%
+troubles_mentaux,2022,Occitanie,incidence,332.0,pour 100 000 hab
+troubles_mentaux,2022,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2022,Pays de la Loire,prevalence,16.3,%
+troubles_mentaux,2022,Pays de la Loire,incidence,327.0,pour 100 000 hab
+troubles_mentaux,2022,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2022,Provence-Alpes-Côte d'Azur,prevalence,16.6,%
+troubles_mentaux,2022,Provence-Alpes-Côte d'Azur,incidence,326.0,pour 100 000 hab
+troubles_mentaux,2022,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2022,Île-de-France,prevalence,16.8,%
+troubles_mentaux,2022,Île-de-France,incidence,366.0,pour 100 000 hab
+troubles_mentaux,2022,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2023,Auvergne-Rhône-Alpes,prevalence,16.0,%
+troubles_mentaux,2023,Auvergne-Rhône-Alpes,incidence,362.0,pour 100 000 hab
+troubles_mentaux,2023,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2023,Bourgogne-Franche-Comté,prevalence,16.4,%
+troubles_mentaux,2023,Bourgogne-Franche-Comté,incidence,336.0,pour 100 000 hab
+troubles_mentaux,2023,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2023,Bretagne,prevalence,16.1,%
+troubles_mentaux,2023,Bretagne,incidence,331.0,pour 100 000 hab
+troubles_mentaux,2023,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2023,Centre-Val de Loire,prevalence,16.6,%
+troubles_mentaux,2023,Centre-Val de Loire,incidence,362.0,pour 100 000 hab
+troubles_mentaux,2023,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2023,Corse,prevalence,16.5,%
+troubles_mentaux,2023,Corse,incidence,371.0,pour 100 000 hab
+troubles_mentaux,2023,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2023,Grand Est,prevalence,17.1,%
+troubles_mentaux,2023,Grand Est,incidence,331.0,pour 100 000 hab
+troubles_mentaux,2023,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2023,Hauts-de-France,prevalence,16.5,%
+troubles_mentaux,2023,Hauts-de-France,incidence,341.0,pour 100 000 hab
+troubles_mentaux,2023,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2023,Normandie,prevalence,16.1,%
+troubles_mentaux,2023,Normandie,incidence,379.0,pour 100 000 hab
+troubles_mentaux,2023,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2023,Nouvelle-Aquitaine,prevalence,16.1,%
+troubles_mentaux,2023,Nouvelle-Aquitaine,incidence,373.0,pour 100 000 hab
+troubles_mentaux,2023,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2023,Occitanie,prevalence,16.8,%
+troubles_mentaux,2023,Occitanie,incidence,338.0,pour 100 000 hab
+troubles_mentaux,2023,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2023,Pays de la Loire,prevalence,16.5,%
+troubles_mentaux,2023,Pays de la Loire,incidence,333.0,pour 100 000 hab
+troubles_mentaux,2023,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2023,Provence-Alpes-Côte d'Azur,prevalence,16.8,%
+troubles_mentaux,2023,Provence-Alpes-Côte d'Azur,incidence,332.0,pour 100 000 hab
+troubles_mentaux,2023,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2023,Île-de-France,prevalence,17.0,%
+troubles_mentaux,2023,Île-de-France,incidence,372.0,pour 100 000 hab
+troubles_mentaux,2023,Île-de-France,mortalite,14.0,pour 100 000 hab

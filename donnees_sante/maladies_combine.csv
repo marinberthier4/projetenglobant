@@ -1,0 +1,1873 @@
+﻿maladie,annee,region,indicateur,valeur,unite
+cancer,2018,Auvergne-Rhône-Alpes,incidence,362.0,pour 100 000 hab
+cancer,2018,Auvergne-Rhône-Alpes,mortalite,152.0,pour 100 000 hab
+cancer,2018,Bourgogne-Franche-Comté,incidence,386.0,pour 100 000 hab
+cancer,2018,Bourgogne-Franche-Comté,mortalite,141.0,pour 100 000 hab
+cancer,2018,Bretagne,incidence,351.0,pour 100 000 hab
+cancer,2018,Bretagne,mortalite,141.0,pour 100 000 hab
+cancer,2018,Centre-Val de Loire,incidence,352.0,pour 100 000 hab
+cancer,2018,Centre-Val de Loire,mortalite,152.0,pour 100 000 hab
+cancer,2018,Corse,incidence,351.0,pour 100 000 hab
+cancer,2018,Corse,mortalite,151.0,pour 100 000 hab
+cancer,2018,Grand Est,incidence,381.0,pour 100 000 hab
+cancer,2018,Grand Est,mortalite,151.0,pour 100 000 hab
+cancer,2018,Hauts-de-France,incidence,371.0,pour 100 000 hab
+cancer,2018,Hauts-de-France,mortalite,151.0,pour 100 000 hab
+cancer,2018,Normandie,incidence,359.0,pour 100 000 hab
+cancer,2018,Normandie,mortalite,144.0,pour 100 000 hab
+cancer,2018,Nouvelle-Aquitaine,incidence,363.0,pour 100 000 hab
+cancer,2018,Nouvelle-Aquitaine,mortalite,153.0,pour 100 000 hab
+cancer,2018,Occitanie,incidence,378.0,pour 100 000 hab
+cancer,2018,Occitanie,mortalite,148.0,pour 100 000 hab
+cancer,2018,Pays de la Loire,incidence,363.0,pour 100 000 hab
+cancer,2018,Pays de la Loire,mortalite,148.0,pour 100 000 hab
+cancer,2018,Provence-Alpes-Côte d'Azur,incidence,382.0,pour 100 000 hab
+cancer,2018,Provence-Alpes-Côte d'Azur,mortalite,142.0,pour 100 000 hab
+cancer,2018,Île-de-France,incidence,352.0,pour 100 000 hab
+cancer,2018,Île-de-France,mortalite,147.0,pour 100 000 hab
+cardiovasculaire,2018,Auvergne-Rhône-Alpes,prevalence,9.2,%
+cardiovasculaire,2018,Auvergne-Rhône-Alpes,mortalite,162.0,pour 100 000 hab
+cardiovasculaire,2018,Bourgogne-Franche-Comté,prevalence,8.1,%
+cardiovasculaire,2018,Bourgogne-Franche-Comté,mortalite,166.0,pour 100 000 hab
+cardiovasculaire,2018,Bretagne,prevalence,8.1,%
+cardiovasculaire,2018,Bretagne,mortalite,151.0,pour 100 000 hab
+cardiovasculaire,2018,Centre-Val de Loire,prevalence,9.2,%
+cardiovasculaire,2018,Centre-Val de Loire,mortalite,152.0,pour 100 000 hab
+cardiovasculaire,2018,Corse,prevalence,9.1,%
+cardiovasculaire,2018,Corse,mortalite,151.0,pour 100 000 hab
+cardiovasculaire,2018,Grand Est,prevalence,9.1,%
+cardiovasculaire,2018,Grand Est,mortalite,161.0,pour 100 000 hab
+cardiovasculaire,2018,Hauts-de-France,prevalence,9.1,%
+cardiovasculaire,2018,Hauts-de-France,mortalite,151.0,pour 100 000 hab
+cardiovasculaire,2018,Normandie,prevalence,8.4,%
+cardiovasculaire,2018,Normandie,mortalite,159.0,pour 100 000 hab
+cardiovasculaire,2018,Nouvelle-Aquitaine,prevalence,9.3,%
+cardiovasculaire,2018,Nouvelle-Aquitaine,mortalite,163.0,pour 100 000 hab
+cardiovasculaire,2018,Occitanie,prevalence,8.8,%
+cardiovasculaire,2018,Occitanie,mortalite,158.0,pour 100 000 hab
+cardiovasculaire,2018,Pays de la Loire,prevalence,8.8,%
+cardiovasculaire,2018,Pays de la Loire,mortalite,163.0,pour 100 000 hab
+cardiovasculaire,2018,Provence-Alpes-Côte d'Azur,prevalence,8.2,%
+cardiovasculaire,2018,Provence-Alpes-Côte d'Azur,mortalite,162.0,pour 100 000 hab
+cardiovasculaire,2018,Île-de-France,prevalence,8.7,%
+cardiovasculaire,2018,Île-de-France,mortalite,152.0,pour 100 000 hab
+diabete,2018,Auvergne-Rhône-Alpes,prevalence,5.2,%
+diabete,2018,Auvergne-Rhône-Alpes,incidence,432.0,pour 100 000 hab
+diabete,2018,Bourgogne-Franche-Comté,prevalence,5.6,%
+diabete,2018,Bourgogne-Franche-Comté,incidence,406.0,pour 100 000 hab
+diabete,2018,Bretagne,prevalence,5.1,%
+diabete,2018,Bretagne,incidence,401.0,pour 100 000 hab
+diabete,2018,Centre-Val de Loire,prevalence,5.2,%
+diabete,2018,Centre-Val de Loire,incidence,432.0,pour 100 000 hab
+diabete,2018,Corse,prevalence,5.1,%
+diabete,2018,Corse,incidence,441.0,pour 100 000 hab
+diabete,2018,Grand Est,prevalence,5.1,%
+diabete,2018,Grand Est,incidence,401.0,pour 100 000 hab
+diabete,2018,Hauts-de-France,prevalence,5.1,%
+diabete,2018,Hauts-de-France,incidence,411.0,pour 100 000 hab
+diabete,2018,Normandie,prevalence,5.9,%
+diabete,2018,Normandie,incidence,449.0,pour 100 000 hab
+diabete,2018,Nouvelle-Aquitaine,prevalence,5.3,%
+diabete,2018,Nouvelle-Aquitaine,incidence,443.0,pour 100 000 hab
+diabete,2018,Occitanie,prevalence,5.8,%
+diabete,2018,Occitanie,incidence,408.0,pour 100 000 hab
+diabete,2018,Pays de la Loire,prevalence,5.3,%
+diabete,2018,Pays de la Loire,incidence,403.0,pour 100 000 hab
+diabete,2018,Provence-Alpes-Côte d'Azur,prevalence,5.2,%
+diabete,2018,Provence-Alpes-Côte d'Azur,incidence,402.0,pour 100 000 hab
+diabete,2018,Île-de-France,prevalence,5.2,%
+diabete,2018,Île-de-France,incidence,442.0,pour 100 000 hab
+digestive,2018,Auvergne-Rhône-Alpes,prevalence,7.2,%
+digestive,2018,Auvergne-Rhône-Alpes,incidence,212.0,pour 100 000 hab
+digestive,2018,Auvergne-Rhône-Alpes,mortalite,32.0,pour 100 000 hab
+digestive,2018,Bourgogne-Franche-Comté,prevalence,7.6,%
+digestive,2018,Bourgogne-Franche-Comté,incidence,216.0,pour 100 000 hab
+digestive,2018,Bourgogne-Franche-Comté,mortalite,21.0,pour 100 000 hab
+digestive,2018,Bretagne,prevalence,7.1,%
+digestive,2018,Bretagne,incidence,201.0,pour 100 000 hab
+digestive,2018,Bretagne,mortalite,21.0,pour 100 000 hab
+digestive,2018,Centre-Val de Loire,prevalence,7.2,%
+digestive,2018,Centre-Val de Loire,incidence,212.0,pour 100 000 hab
+digestive,2018,Centre-Val de Loire,mortalite,32.0,pour 100 000 hab
+digestive,2018,Corse,prevalence,7.1,%
+digestive,2018,Corse,incidence,211.0,pour 100 000 hab
+digestive,2018,Corse,mortalite,31.0,pour 100 000 hab
+digestive,2018,Grand Est,prevalence,7.1,%
+digestive,2018,Grand Est,incidence,211.0,pour 100 000 hab
+digestive,2018,Grand Est,mortalite,31.0,pour 100 000 hab
+digestive,2018,Hauts-de-France,prevalence,7.1,%
+digestive,2018,Hauts-de-France,incidence,211.0,pour 100 000 hab
+digestive,2018,Hauts-de-France,mortalite,31.0,pour 100 000 hab
+digestive,2018,Normandie,prevalence,7.9,%
+digestive,2018,Normandie,incidence,219.0,pour 100 000 hab
+digestive,2018,Normandie,mortalite,24.0,pour 100 000 hab
+digestive,2018,Nouvelle-Aquitaine,prevalence,7.3,%
+digestive,2018,Nouvelle-Aquitaine,incidence,213.0,pour 100 000 hab
+digestive,2018,Nouvelle-Aquitaine,mortalite,33.0,pour 100 000 hab
+digestive,2018,Occitanie,prevalence,7.8,%
+digestive,2018,Occitanie,incidence,208.0,pour 100 000 hab
+digestive,2018,Occitanie,mortalite,28.0,pour 100 000 hab
+digestive,2018,Pays de la Loire,prevalence,7.3,%
+digestive,2018,Pays de la Loire,incidence,223.0,pour 100 000 hab
+digestive,2018,Pays de la Loire,mortalite,28.0,pour 100 000 hab
+digestive,2018,Provence-Alpes-Côte d'Azur,prevalence,7.2,%
+digestive,2018,Provence-Alpes-Côte d'Azur,incidence,202.0,pour 100 000 hab
+digestive,2018,Provence-Alpes-Côte d'Azur,mortalite,22.0,pour 100 000 hab
+digestive,2018,Île-de-France,prevalence,7.2,%
+digestive,2018,Île-de-France,incidence,222.0,pour 100 000 hab
+digestive,2018,Île-de-France,mortalite,27.0,pour 100 000 hab
+obesite,2018,Auvergne-Rhône-Alpes,prevalence,12.0,%
+obesite,2018,Auvergne-Rhône-Alpes,incidence,262.0,pour 100 000 hab
+obesite,2018,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2018,Bourgogne-Franche-Comté,prevalence,12.4,%
+obesite,2018,Bourgogne-Franche-Comté,incidence,286.0,pour 100 000 hab
+obesite,2018,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2018,Bretagne,prevalence,12.1,%
+obesite,2018,Bretagne,incidence,251.0,pour 100 000 hab
+obesite,2018,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2018,Centre-Val de Loire,prevalence,12.6,%
+obesite,2018,Centre-Val de Loire,incidence,252.0,pour 100 000 hab
+obesite,2018,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2018,Corse,prevalence,12.5,%
+obesite,2018,Corse,incidence,251.0,pour 100 000 hab
+obesite,2018,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2018,Grand Est,prevalence,13.1,%
+obesite,2018,Grand Est,incidence,281.0,pour 100 000 hab
+obesite,2018,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2018,Hauts-de-France,prevalence,12.5,%
+obesite,2018,Hauts-de-France,incidence,271.0,pour 100 000 hab
+obesite,2018,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2018,Normandie,prevalence,12.1,%
+obesite,2018,Normandie,incidence,259.0,pour 100 000 hab
+obesite,2018,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2018,Nouvelle-Aquitaine,prevalence,12.1,%
+obesite,2018,Nouvelle-Aquitaine,incidence,263.0,pour 100 000 hab
+obesite,2018,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2018,Occitanie,prevalence,12.8,%
+obesite,2018,Occitanie,incidence,278.0,pour 100 000 hab
+obesite,2018,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2018,Pays de la Loire,prevalence,12.5,%
+obesite,2018,Pays de la Loire,incidence,263.0,pour 100 000 hab
+obesite,2018,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2018,Provence-Alpes-Côte d'Azur,prevalence,12.8,%
+obesite,2018,Provence-Alpes-Côte d'Azur,incidence,282.0,pour 100 000 hab
+obesite,2018,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2018,Île-de-France,prevalence,13.0,%
+obesite,2018,Île-de-France,incidence,252.0,pour 100 000 hab
+obesite,2018,Île-de-France,mortalite,9.0,pour 100 000 hab
+respiratoire_asthme,2018,Auvergne-Rhône-Alpes,prevalence,6.4,%
+respiratoire_asthme,2018,Auvergne-Rhône-Alpes,incidence,92.0,pour 100 000 hab
+respiratoire_asthme,2018,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2018,Bourgogne-Franche-Comté,prevalence,6.4,%
+respiratoire_asthme,2018,Bourgogne-Franche-Comté,incidence,96.0,pour 100 000 hab
+respiratoire_asthme,2018,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2018,Bretagne,prevalence,6.1,%
+respiratoire_asthme,2018,Bretagne,incidence,81.0,pour 100 000 hab
+respiratoire_asthme,2018,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2018,Centre-Val de Loire,prevalence,6.2,%
+respiratoire_asthme,2018,Centre-Val de Loire,incidence,92.0,pour 100 000 hab
+respiratoire_asthme,2018,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2018,Corse,prevalence,6.1,%
+respiratoire_asthme,2018,Corse,incidence,91.0,pour 100 000 hab
+respiratoire_asthme,2018,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Grand Est,prevalence,6.7,%
+respiratoire_asthme,2018,Grand Est,incidence,91.0,pour 100 000 hab
+respiratoire_asthme,2018,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Hauts-de-France,prevalence,6.5,%
+respiratoire_asthme,2018,Hauts-de-France,incidence,91.0,pour 100 000 hab
+respiratoire_asthme,2018,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Normandie,prevalence,6.1,%
+respiratoire_asthme,2018,Normandie,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2018,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2018,Nouvelle-Aquitaine,prevalence,6.5,%
+respiratoire_asthme,2018,Nouvelle-Aquitaine,incidence,93.0,pour 100 000 hab
+respiratoire_asthme,2018,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2018,Occitanie,prevalence,6.4,%
+respiratoire_asthme,2018,Occitanie,incidence,88.0,pour 100 000 hab
+respiratoire_asthme,2018,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Pays de la Loire,prevalence,6.5,%
+respiratoire_asthme,2018,Pays de la Loire,incidence,103.0,pour 100 000 hab
+respiratoire_asthme,2018,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Provence-Alpes-Côte d'Azur,prevalence,6.0,%
+respiratoire_asthme,2018,Provence-Alpes-Côte d'Azur,incidence,82.0,pour 100 000 hab
+respiratoire_asthme,2018,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2018,Île-de-France,prevalence,6.2,%
+respiratoire_asthme,2018,Île-de-France,incidence,102.0,pour 100 000 hab
+respiratoire_asthme,2018,Île-de-France,mortalite,3.0,pour 100 000 hab
+sida,2018,Auvergne-Rhône-Alpes,prevalence,0.42,%
+sida,2018,Auvergne-Rhône-Alpes,incidence,17.0,pour 100 000 hab
+sida,2018,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2018,Bourgogne-Franche-Comté,prevalence,0.41,%
+sida,2018,Bourgogne-Franche-Comté,incidence,21.0,pour 100 000 hab
+sida,2018,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2018,Bretagne,prevalence,0.41,%
+sida,2018,Bretagne,incidence,16.0,pour 100 000 hab
+sida,2018,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2018,Centre-Val de Loire,prevalence,0.42,%
+sida,2018,Centre-Val de Loire,incidence,17.0,pour 100 000 hab
+sida,2018,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2018,Corse,prevalence,0.41,%
+sida,2018,Corse,incidence,16.0,pour 100 000 hab
+sida,2018,Corse,mortalite,4.0,pour 100 000 hab
+sida,2018,Grand Est,prevalence,0.41,%
+sida,2018,Grand Est,incidence,16.0,pour 100 000 hab
+sida,2018,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2018,Hauts-de-France,prevalence,0.41,%
+sida,2018,Hauts-de-France,incidence,16.0,pour 100 000 hab
+sida,2018,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2018,Normandie,prevalence,0.44,%
+sida,2018,Normandie,incidence,24.0,pour 100 000 hab
+sida,2018,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2018,Nouvelle-Aquitaine,prevalence,0.43,%
+sida,2018,Nouvelle-Aquitaine,incidence,18.0,pour 100 000 hab
+sida,2018,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2018,Occitanie,prevalence,0.43,%
+sida,2018,Occitanie,incidence,23.0,pour 100 000 hab
+sida,2018,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2018,Pays de la Loire,prevalence,0.43,%
+sida,2018,Pays de la Loire,incidence,18.0,pour 100 000 hab
+sida,2018,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2018,Provence-Alpes-Côte d'Azur,prevalence,0.42,%
+sida,2018,Provence-Alpes-Côte d'Azur,incidence,17.0,pour 100 000 hab
+sida,2018,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2018,Île-de-France,prevalence,0.42,%
+sida,2018,Île-de-France,incidence,17.0,pour 100 000 hab
+sida,2018,Île-de-France,mortalite,5.0,pour 100 000 hab
+troubles_mentaux,2018,Auvergne-Rhône-Alpes,prevalence,15.0,%
+troubles_mentaux,2018,Auvergne-Rhône-Alpes,incidence,332.0,pour 100 000 hab
+troubles_mentaux,2018,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2018,Bourgogne-Franche-Comté,prevalence,15.4,%
+troubles_mentaux,2018,Bourgogne-Franche-Comté,incidence,306.0,pour 100 000 hab
+troubles_mentaux,2018,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2018,Bretagne,prevalence,15.1,%
+troubles_mentaux,2018,Bretagne,incidence,301.0,pour 100 000 hab
+troubles_mentaux,2018,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2018,Centre-Val de Loire,prevalence,15.6,%
+troubles_mentaux,2018,Centre-Val de Loire,incidence,332.0,pour 100 000 hab
+troubles_mentaux,2018,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2018,Corse,prevalence,15.5,%
+troubles_mentaux,2018,Corse,incidence,341.0,pour 100 000 hab
+troubles_mentaux,2018,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2018,Grand Est,prevalence,16.1,%
+troubles_mentaux,2018,Grand Est,incidence,301.0,pour 100 000 hab
+troubles_mentaux,2018,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2018,Hauts-de-France,prevalence,15.5,%
+troubles_mentaux,2018,Hauts-de-France,incidence,311.0,pour 100 000 hab
+troubles_mentaux,2018,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2018,Normandie,prevalence,15.1,%
+troubles_mentaux,2018,Normandie,incidence,349.0,pour 100 000 hab
+troubles_mentaux,2018,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2018,Nouvelle-Aquitaine,prevalence,15.1,%
+troubles_mentaux,2018,Nouvelle-Aquitaine,incidence,343.0,pour 100 000 hab
+troubles_mentaux,2018,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2018,Occitanie,prevalence,15.8,%
+troubles_mentaux,2018,Occitanie,incidence,308.0,pour 100 000 hab
+troubles_mentaux,2018,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2018,Pays de la Loire,prevalence,15.5,%
+troubles_mentaux,2018,Pays de la Loire,incidence,303.0,pour 100 000 hab
+troubles_mentaux,2018,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2018,Provence-Alpes-Côte d'Azur,prevalence,15.8,%
+troubles_mentaux,2018,Provence-Alpes-Côte d'Azur,incidence,302.0,pour 100 000 hab
+troubles_mentaux,2018,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2018,Île-de-France,prevalence,16.0,%
+troubles_mentaux,2018,Île-de-France,incidence,342.0,pour 100 000 hab
+troubles_mentaux,2018,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_neurologiques,2018,Auvergne-Rhône-Alpes,prevalence,4.4,%
+troubles_neurologiques,2018,Auvergne-Rhône-Alpes,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2018,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2018,Bourgogne-Franche-Comté,prevalence,4.4,%
+troubles_neurologiques,2018,Bourgogne-Franche-Comté,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2018,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2018,Bretagne,prevalence,4.1,%
+troubles_neurologiques,2018,Bretagne,incidence,61.0,pour 100 000 hab
+troubles_neurologiques,2018,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2018,Centre-Val de Loire,prevalence,4.2,%
+troubles_neurologiques,2018,Centre-Val de Loire,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2018,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2018,Corse,prevalence,4.1,%
+troubles_neurologiques,2018,Corse,incidence,61.0,pour 100 000 hab
+troubles_neurologiques,2018,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2018,Grand Est,prevalence,4.7,%
+troubles_neurologiques,2018,Grand Est,incidence,71.0,pour 100 000 hab
+troubles_neurologiques,2018,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2018,Hauts-de-France,prevalence,4.5,%
+troubles_neurologiques,2018,Hauts-de-France,incidence,61.0,pour 100 000 hab
+troubles_neurologiques,2018,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2018,Normandie,prevalence,4.1,%
+troubles_neurologiques,2018,Normandie,incidence,69.0,pour 100 000 hab
+troubles_neurologiques,2018,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2018,Nouvelle-Aquitaine,prevalence,4.5,%
+troubles_neurologiques,2018,Nouvelle-Aquitaine,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2018,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2018,Occitanie,prevalence,4.4,%
+troubles_neurologiques,2018,Occitanie,incidence,68.0,pour 100 000 hab
+troubles_neurologiques,2018,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2018,Pays de la Loire,prevalence,4.5,%
+troubles_neurologiques,2018,Pays de la Loire,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2018,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2018,Provence-Alpes-Côte d'Azur,prevalence,4.0,%
+troubles_neurologiques,2018,Provence-Alpes-Côte d'Azur,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2018,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2018,Île-de-France,prevalence,4.2,%
+troubles_neurologiques,2018,Île-de-France,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2018,Île-de-France,mortalite,12.0,pour 100 000 hab
+cancer,2019,Auvergne-Rhône-Alpes,incidence,370.0,pour 100 000 hab
+cancer,2019,Auvergne-Rhône-Alpes,mortalite,150.0,pour 100 000 hab
+cancer,2019,Bourgogne-Franche-Comté,incidence,394.0,pour 100 000 hab
+cancer,2019,Bourgogne-Franche-Comté,mortalite,139.0,pour 100 000 hab
+cancer,2019,Bretagne,incidence,359.0,pour 100 000 hab
+cancer,2019,Bretagne,mortalite,139.0,pour 100 000 hab
+cancer,2019,Centre-Val de Loire,incidence,360.0,pour 100 000 hab
+cancer,2019,Centre-Val de Loire,mortalite,150.0,pour 100 000 hab
+cancer,2019,Corse,incidence,359.0,pour 100 000 hab
+cancer,2019,Corse,mortalite,149.0,pour 100 000 hab
+cancer,2019,Grand Est,incidence,389.0,pour 100 000 hab
+cancer,2019,Grand Est,mortalite,149.0,pour 100 000 hab
+cancer,2019,Hauts-de-France,incidence,379.0,pour 100 000 hab
+cancer,2019,Hauts-de-France,mortalite,149.0,pour 100 000 hab
+cancer,2019,Normandie,incidence,367.0,pour 100 000 hab
+cancer,2019,Normandie,mortalite,142.0,pour 100 000 hab
+cancer,2019,Nouvelle-Aquitaine,incidence,371.0,pour 100 000 hab
+cancer,2019,Nouvelle-Aquitaine,mortalite,151.0,pour 100 000 hab
+cancer,2019,Occitanie,incidence,386.0,pour 100 000 hab
+cancer,2019,Occitanie,mortalite,146.0,pour 100 000 hab
+cancer,2019,Pays de la Loire,incidence,371.0,pour 100 000 hab
+cancer,2019,Pays de la Loire,mortalite,146.0,pour 100 000 hab
+cancer,2019,Provence-Alpes-Côte d'Azur,incidence,390.0,pour 100 000 hab
+cancer,2019,Provence-Alpes-Côte d'Azur,mortalite,140.0,pour 100 000 hab
+cancer,2019,Île-de-France,incidence,360.0,pour 100 000 hab
+cancer,2019,Île-de-France,mortalite,145.0,pour 100 000 hab
+cardiovasculaire,2019,Auvergne-Rhône-Alpes,prevalence,9.35,%
+cardiovasculaire,2019,Auvergne-Rhône-Alpes,mortalite,159.0,pour 100 000 hab
+cardiovasculaire,2019,Bourgogne-Franche-Comté,prevalence,8.25,%
+cardiovasculaire,2019,Bourgogne-Franche-Comté,mortalite,163.0,pour 100 000 hab
+cardiovasculaire,2019,Bretagne,prevalence,8.25,%
+cardiovasculaire,2019,Bretagne,mortalite,148.0,pour 100 000 hab
+cardiovasculaire,2019,Centre-Val de Loire,prevalence,9.35,%
+cardiovasculaire,2019,Centre-Val de Loire,mortalite,149.0,pour 100 000 hab
+cardiovasculaire,2019,Corse,prevalence,9.25,%
+cardiovasculaire,2019,Corse,mortalite,148.0,pour 100 000 hab
+cardiovasculaire,2019,Grand Est,prevalence,9.25,%
+cardiovasculaire,2019,Grand Est,mortalite,158.0,pour 100 000 hab
+cardiovasculaire,2019,Hauts-de-France,prevalence,9.25,%
+cardiovasculaire,2019,Hauts-de-France,mortalite,148.0,pour 100 000 hab
+cardiovasculaire,2019,Normandie,prevalence,8.55,%
+cardiovasculaire,2019,Normandie,mortalite,156.0,pour 100 000 hab
+cardiovasculaire,2019,Nouvelle-Aquitaine,prevalence,9.45,%
+cardiovasculaire,2019,Nouvelle-Aquitaine,mortalite,160.0,pour 100 000 hab
+cardiovasculaire,2019,Occitanie,prevalence,8.95,%
+cardiovasculaire,2019,Occitanie,mortalite,155.0,pour 100 000 hab
+cardiovasculaire,2019,Pays de la Loire,prevalence,8.95,%
+cardiovasculaire,2019,Pays de la Loire,mortalite,160.0,pour 100 000 hab
+cardiovasculaire,2019,Provence-Alpes-Côte d'Azur,prevalence,8.35,%
+cardiovasculaire,2019,Provence-Alpes-Côte d'Azur,mortalite,159.0,pour 100 000 hab
+cardiovasculaire,2019,Île-de-France,prevalence,8.85,%
+cardiovasculaire,2019,Île-de-France,mortalite,149.0,pour 100 000 hab
+diabete,2019,Auvergne-Rhône-Alpes,prevalence,5.4,%
+diabete,2019,Auvergne-Rhône-Alpes,incidence,442.0,pour 100 000 hab
+diabete,2019,Bourgogne-Franche-Comté,prevalence,5.8,%
+diabete,2019,Bourgogne-Franche-Comté,incidence,416.0,pour 100 000 hab
+diabete,2019,Bretagne,prevalence,5.3,%
+diabete,2019,Bretagne,incidence,411.0,pour 100 000 hab
+diabete,2019,Centre-Val de Loire,prevalence,5.4,%
+diabete,2019,Centre-Val de Loire,incidence,442.0,pour 100 000 hab
+diabete,2019,Corse,prevalence,5.3,%
+diabete,2019,Corse,incidence,451.0,pour 100 000 hab
+diabete,2019,Grand Est,prevalence,5.3,%
+diabete,2019,Grand Est,incidence,411.0,pour 100 000 hab
+diabete,2019,Hauts-de-France,prevalence,5.3,%
+diabete,2019,Hauts-de-France,incidence,421.0,pour 100 000 hab
+diabete,2019,Normandie,prevalence,6.1,%
+diabete,2019,Normandie,incidence,459.0,pour 100 000 hab
+diabete,2019,Nouvelle-Aquitaine,prevalence,5.5,%
+diabete,2019,Nouvelle-Aquitaine,incidence,453.0,pour 100 000 hab
+diabete,2019,Occitanie,prevalence,6.0,%
+diabete,2019,Occitanie,incidence,418.0,pour 100 000 hab
+diabete,2019,Pays de la Loire,prevalence,5.5,%
+diabete,2019,Pays de la Loire,incidence,413.0,pour 100 000 hab
+diabete,2019,Provence-Alpes-Côte d'Azur,prevalence,5.4,%
+diabete,2019,Provence-Alpes-Côte d'Azur,incidence,412.0,pour 100 000 hab
+diabete,2019,Île-de-France,prevalence,5.4,%
+diabete,2019,Île-de-France,incidence,452.0,pour 100 000 hab
+digestive,2019,Auvergne-Rhône-Alpes,prevalence,7.32,%
+digestive,2019,Auvergne-Rhône-Alpes,incidence,216.0,pour 100 000 hab
+digestive,2019,Auvergne-Rhône-Alpes,mortalite,32.0,pour 100 000 hab
+digestive,2019,Bourgogne-Franche-Comté,prevalence,7.72,%
+digestive,2019,Bourgogne-Franche-Comté,incidence,220.0,pour 100 000 hab
+digestive,2019,Bourgogne-Franche-Comté,mortalite,21.0,pour 100 000 hab
+digestive,2019,Bretagne,prevalence,7.22,%
+digestive,2019,Bretagne,incidence,205.0,pour 100 000 hab
+digestive,2019,Bretagne,mortalite,21.0,pour 100 000 hab
+digestive,2019,Centre-Val de Loire,prevalence,7.32,%
+digestive,2019,Centre-Val de Loire,incidence,216.0,pour 100 000 hab
+digestive,2019,Centre-Val de Loire,mortalite,32.0,pour 100 000 hab
+digestive,2019,Corse,prevalence,7.22,%
+digestive,2019,Corse,incidence,215.0,pour 100 000 hab
+digestive,2019,Corse,mortalite,31.0,pour 100 000 hab
+digestive,2019,Grand Est,prevalence,7.22,%
+digestive,2019,Grand Est,incidence,215.0,pour 100 000 hab
+digestive,2019,Grand Est,mortalite,31.0,pour 100 000 hab
+digestive,2019,Hauts-de-France,prevalence,7.22,%
+digestive,2019,Hauts-de-France,incidence,215.0,pour 100 000 hab
+digestive,2019,Hauts-de-France,mortalite,31.0,pour 100 000 hab
+digestive,2019,Normandie,prevalence,8.02,%
+digestive,2019,Normandie,incidence,223.0,pour 100 000 hab
+digestive,2019,Normandie,mortalite,24.0,pour 100 000 hab
+digestive,2019,Nouvelle-Aquitaine,prevalence,7.42,%
+digestive,2019,Nouvelle-Aquitaine,incidence,217.0,pour 100 000 hab
+digestive,2019,Nouvelle-Aquitaine,mortalite,33.0,pour 100 000 hab
+digestive,2019,Occitanie,prevalence,7.92,%
+digestive,2019,Occitanie,incidence,212.0,pour 100 000 hab
+digestive,2019,Occitanie,mortalite,28.0,pour 100 000 hab
+digestive,2019,Pays de la Loire,prevalence,7.42,%
+digestive,2019,Pays de la Loire,incidence,227.0,pour 100 000 hab
+digestive,2019,Pays de la Loire,mortalite,28.0,pour 100 000 hab
+digestive,2019,Provence-Alpes-Côte d'Azur,prevalence,7.32,%
+digestive,2019,Provence-Alpes-Côte d'Azur,incidence,206.0,pour 100 000 hab
+digestive,2019,Provence-Alpes-Côte d'Azur,mortalite,22.0,pour 100 000 hab
+digestive,2019,Île-de-France,prevalence,7.32,%
+digestive,2019,Île-de-France,incidence,226.0,pour 100 000 hab
+digestive,2019,Île-de-France,mortalite,27.0,pour 100 000 hab
+obesite,2019,Auvergne-Rhône-Alpes,prevalence,12.3,%
+obesite,2019,Auvergne-Rhône-Alpes,incidence,267.0,pour 100 000 hab
+obesite,2019,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2019,Bourgogne-Franche-Comté,prevalence,12.7,%
+obesite,2019,Bourgogne-Franche-Comté,incidence,291.0,pour 100 000 hab
+obesite,2019,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2019,Bretagne,prevalence,12.4,%
+obesite,2019,Bretagne,incidence,256.0,pour 100 000 hab
+obesite,2019,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2019,Centre-Val de Loire,prevalence,12.9,%
+obesite,2019,Centre-Val de Loire,incidence,257.0,pour 100 000 hab
+obesite,2019,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2019,Corse,prevalence,12.8,%
+obesite,2019,Corse,incidence,256.0,pour 100 000 hab
+obesite,2019,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2019,Grand Est,prevalence,13.4,%
+obesite,2019,Grand Est,incidence,286.0,pour 100 000 hab
+obesite,2019,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2019,Hauts-de-France,prevalence,12.8,%
+obesite,2019,Hauts-de-France,incidence,276.0,pour 100 000 hab
+obesite,2019,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2019,Normandie,prevalence,12.4,%
+obesite,2019,Normandie,incidence,264.0,pour 100 000 hab
+obesite,2019,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2019,Nouvelle-Aquitaine,prevalence,12.4,%
+obesite,2019,Nouvelle-Aquitaine,incidence,268.0,pour 100 000 hab
+obesite,2019,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2019,Occitanie,prevalence,13.1,%
+obesite,2019,Occitanie,incidence,283.0,pour 100 000 hab
+obesite,2019,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2019,Pays de la Loire,prevalence,12.8,%
+obesite,2019,Pays de la Loire,incidence,268.0,pour 100 000 hab
+obesite,2019,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2019,Provence-Alpes-Côte d'Azur,prevalence,13.1,%
+obesite,2019,Provence-Alpes-Côte d'Azur,incidence,287.0,pour 100 000 hab
+obesite,2019,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2019,Île-de-France,prevalence,13.3,%
+obesite,2019,Île-de-France,incidence,257.0,pour 100 000 hab
+obesite,2019,Île-de-France,mortalite,9.0,pour 100 000 hab
+respiratoire_asthme,2019,Auvergne-Rhône-Alpes,prevalence,6.5,%
+respiratoire_asthme,2019,Auvergne-Rhône-Alpes,incidence,94.0,pour 100 000 hab
+respiratoire_asthme,2019,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2019,Bourgogne-Franche-Comté,prevalence,6.5,%
+respiratoire_asthme,2019,Bourgogne-Franche-Comté,incidence,98.0,pour 100 000 hab
+respiratoire_asthme,2019,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Bretagne,prevalence,6.2,%
+respiratoire_asthme,2019,Bretagne,incidence,83.0,pour 100 000 hab
+respiratoire_asthme,2019,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Centre-Val de Loire,prevalence,6.3,%
+respiratoire_asthme,2019,Centre-Val de Loire,incidence,94.0,pour 100 000 hab
+respiratoire_asthme,2019,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2019,Corse,prevalence,6.2,%
+respiratoire_asthme,2019,Corse,incidence,93.0,pour 100 000 hab
+respiratoire_asthme,2019,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Grand Est,prevalence,6.8,%
+respiratoire_asthme,2019,Grand Est,incidence,93.0,pour 100 000 hab
+respiratoire_asthme,2019,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Hauts-de-France,prevalence,6.6,%
+respiratoire_asthme,2019,Hauts-de-France,incidence,93.0,pour 100 000 hab
+respiratoire_asthme,2019,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Normandie,prevalence,6.2,%
+respiratoire_asthme,2019,Normandie,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2019,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Nouvelle-Aquitaine,prevalence,6.6,%
+respiratoire_asthme,2019,Nouvelle-Aquitaine,incidence,95.0,pour 100 000 hab
+respiratoire_asthme,2019,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2019,Occitanie,prevalence,6.5,%
+respiratoire_asthme,2019,Occitanie,incidence,90.0,pour 100 000 hab
+respiratoire_asthme,2019,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Pays de la Loire,prevalence,6.6,%
+respiratoire_asthme,2019,Pays de la Loire,incidence,105.0,pour 100 000 hab
+respiratoire_asthme,2019,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Provence-Alpes-Côte d'Azur,prevalence,6.1,%
+respiratoire_asthme,2019,Provence-Alpes-Côte d'Azur,incidence,84.0,pour 100 000 hab
+respiratoire_asthme,2019,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2019,Île-de-France,prevalence,6.3,%
+respiratoire_asthme,2019,Île-de-France,incidence,104.0,pour 100 000 hab
+respiratoire_asthme,2019,Île-de-France,mortalite,3.0,pour 100 000 hab
+sida,2019,Auvergne-Rhône-Alpes,prevalence,0.43,%
+sida,2019,Auvergne-Rhône-Alpes,incidence,18.0,pour 100 000 hab
+sida,2019,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2019,Bourgogne-Franche-Comté,prevalence,0.42,%
+sida,2019,Bourgogne-Franche-Comté,incidence,22.0,pour 100 000 hab
+sida,2019,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2019,Bretagne,prevalence,0.42,%
+sida,2019,Bretagne,incidence,17.0,pour 100 000 hab
+sida,2019,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2019,Centre-Val de Loire,prevalence,0.43,%
+sida,2019,Centre-Val de Loire,incidence,18.0,pour 100 000 hab
+sida,2019,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2019,Corse,prevalence,0.42,%
+sida,2019,Corse,incidence,17.0,pour 100 000 hab
+sida,2019,Corse,mortalite,4.0,pour 100 000 hab
+sida,2019,Grand Est,prevalence,0.42,%
+sida,2019,Grand Est,incidence,17.0,pour 100 000 hab
+sida,2019,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2019,Hauts-de-France,prevalence,0.42,%
+sida,2019,Hauts-de-France,incidence,17.0,pour 100 000 hab
+sida,2019,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2019,Normandie,prevalence,0.45,%
+sida,2019,Normandie,incidence,25.0,pour 100 000 hab
+sida,2019,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2019,Nouvelle-Aquitaine,prevalence,0.44,%
+sida,2019,Nouvelle-Aquitaine,incidence,19.0,pour 100 000 hab
+sida,2019,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2019,Occitanie,prevalence,0.44,%
+sida,2019,Occitanie,incidence,24.0,pour 100 000 hab
+sida,2019,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2019,Pays de la Loire,prevalence,0.44,%
+sida,2019,Pays de la Loire,incidence,19.0,pour 100 000 hab
+sida,2019,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2019,Provence-Alpes-Côte d'Azur,prevalence,0.43,%
+sida,2019,Provence-Alpes-Côte d'Azur,incidence,18.0,pour 100 000 hab
+sida,2019,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2019,Île-de-France,prevalence,0.43,%
+sida,2019,Île-de-France,incidence,18.0,pour 100 000 hab
+sida,2019,Île-de-France,mortalite,5.0,pour 100 000 hab
+troubles_mentaux,2019,Auvergne-Rhône-Alpes,prevalence,15.2,%
+troubles_mentaux,2019,Auvergne-Rhône-Alpes,incidence,338.0,pour 100 000 hab
+troubles_mentaux,2019,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2019,Bourgogne-Franche-Comté,prevalence,15.6,%
+troubles_mentaux,2019,Bourgogne-Franche-Comté,incidence,312.0,pour 100 000 hab
+troubles_mentaux,2019,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2019,Bretagne,prevalence,15.3,%
+troubles_mentaux,2019,Bretagne,incidence,307.0,pour 100 000 hab
+troubles_mentaux,2019,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2019,Centre-Val de Loire,prevalence,15.8,%
+troubles_mentaux,2019,Centre-Val de Loire,incidence,338.0,pour 100 000 hab
+troubles_mentaux,2019,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2019,Corse,prevalence,15.7,%
+troubles_mentaux,2019,Corse,incidence,347.0,pour 100 000 hab
+troubles_mentaux,2019,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2019,Grand Est,prevalence,16.3,%
+troubles_mentaux,2019,Grand Est,incidence,307.0,pour 100 000 hab
+troubles_mentaux,2019,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2019,Hauts-de-France,prevalence,15.7,%
+troubles_mentaux,2019,Hauts-de-France,incidence,317.0,pour 100 000 hab
+troubles_mentaux,2019,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2019,Normandie,prevalence,15.3,%
+troubles_mentaux,2019,Normandie,incidence,355.0,pour 100 000 hab
+troubles_mentaux,2019,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2019,Nouvelle-Aquitaine,prevalence,15.3,%
+troubles_mentaux,2019,Nouvelle-Aquitaine,incidence,349.0,pour 100 000 hab
+troubles_mentaux,2019,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2019,Occitanie,prevalence,16.0,%
+troubles_mentaux,2019,Occitanie,incidence,314.0,pour 100 000 hab
+troubles_mentaux,2019,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2019,Pays de la Loire,prevalence,15.7,%
+troubles_mentaux,2019,Pays de la Loire,incidence,309.0,pour 100 000 hab
+troubles_mentaux,2019,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2019,Provence-Alpes-Côte d'Azur,prevalence,16.0,%
+troubles_mentaux,2019,Provence-Alpes-Côte d'Azur,incidence,308.0,pour 100 000 hab
+troubles_mentaux,2019,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2019,Île-de-France,prevalence,16.2,%
+troubles_mentaux,2019,Île-de-France,incidence,348.0,pour 100 000 hab
+troubles_mentaux,2019,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_neurologiques,2019,Auvergne-Rhône-Alpes,prevalence,4.45,%
+troubles_neurologiques,2019,Auvergne-Rhône-Alpes,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2019,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2019,Bourgogne-Franche-Comté,prevalence,4.45,%
+troubles_neurologiques,2019,Bourgogne-Franche-Comté,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2019,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2019,Bretagne,prevalence,4.15,%
+troubles_neurologiques,2019,Bretagne,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2019,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2019,Centre-Val de Loire,prevalence,4.25,%
+troubles_neurologiques,2019,Centre-Val de Loire,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2019,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2019,Corse,prevalence,4.15,%
+troubles_neurologiques,2019,Corse,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2019,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2019,Grand Est,prevalence,4.75,%
+troubles_neurologiques,2019,Grand Est,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2019,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2019,Hauts-de-France,prevalence,4.55,%
+troubles_neurologiques,2019,Hauts-de-France,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2019,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2019,Normandie,prevalence,4.15,%
+troubles_neurologiques,2019,Normandie,incidence,70.0,pour 100 000 hab
+troubles_neurologiques,2019,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2019,Nouvelle-Aquitaine,prevalence,4.55,%
+troubles_neurologiques,2019,Nouvelle-Aquitaine,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2019,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2019,Occitanie,prevalence,4.45,%
+troubles_neurologiques,2019,Occitanie,incidence,69.0,pour 100 000 hab
+troubles_neurologiques,2019,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2019,Pays de la Loire,prevalence,4.55,%
+troubles_neurologiques,2019,Pays de la Loire,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2019,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2019,Provence-Alpes-Côte d'Azur,prevalence,4.05,%
+troubles_neurologiques,2019,Provence-Alpes-Côte d'Azur,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2019,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2019,Île-de-France,prevalence,4.25,%
+troubles_neurologiques,2019,Île-de-France,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2019,Île-de-France,mortalite,12.0,pour 100 000 hab
+cancer,2020,Auvergne-Rhône-Alpes,incidence,378.0,pour 100 000 hab
+cancer,2020,Auvergne-Rhône-Alpes,mortalite,148.0,pour 100 000 hab
+cancer,2020,Bourgogne-Franche-Comté,incidence,402.0,pour 100 000 hab
+cancer,2020,Bourgogne-Franche-Comté,mortalite,137.0,pour 100 000 hab
+cancer,2020,Bretagne,incidence,367.0,pour 100 000 hab
+cancer,2020,Bretagne,mortalite,137.0,pour 100 000 hab
+cancer,2020,Centre-Val de Loire,incidence,368.0,pour 100 000 hab
+cancer,2020,Centre-Val de Loire,mortalite,148.0,pour 100 000 hab
+cancer,2020,Corse,incidence,367.0,pour 100 000 hab
+cancer,2020,Corse,mortalite,147.0,pour 100 000 hab
+cancer,2020,Grand Est,incidence,397.0,pour 100 000 hab
+cancer,2020,Grand Est,mortalite,147.0,pour 100 000 hab
+cancer,2020,Hauts-de-France,incidence,387.0,pour 100 000 hab
+cancer,2020,Hauts-de-France,mortalite,147.0,pour 100 000 hab
+cancer,2020,Normandie,incidence,375.0,pour 100 000 hab
+cancer,2020,Normandie,mortalite,140.0,pour 100 000 hab
+cancer,2020,Nouvelle-Aquitaine,incidence,379.0,pour 100 000 hab
+cancer,2020,Nouvelle-Aquitaine,mortalite,149.0,pour 100 000 hab
+cancer,2020,Occitanie,incidence,394.0,pour 100 000 hab
+cancer,2020,Occitanie,mortalite,144.0,pour 100 000 hab
+cancer,2020,Pays de la Loire,incidence,379.0,pour 100 000 hab
+cancer,2020,Pays de la Loire,mortalite,144.0,pour 100 000 hab
+cancer,2020,Provence-Alpes-Côte d'Azur,incidence,398.0,pour 100 000 hab
+cancer,2020,Provence-Alpes-Côte d'Azur,mortalite,138.0,pour 100 000 hab
+cancer,2020,Île-de-France,incidence,368.0,pour 100 000 hab
+cancer,2020,Île-de-France,mortalite,143.0,pour 100 000 hab
+cardiovasculaire,2020,Auvergne-Rhône-Alpes,prevalence,9.5,%
+cardiovasculaire,2020,Auvergne-Rhône-Alpes,mortalite,156.0,pour 100 000 hab
+cardiovasculaire,2020,Bourgogne-Franche-Comté,prevalence,8.4,%
+cardiovasculaire,2020,Bourgogne-Franche-Comté,mortalite,160.0,pour 100 000 hab
+cardiovasculaire,2020,Bretagne,prevalence,8.4,%
+cardiovasculaire,2020,Bretagne,mortalite,145.0,pour 100 000 hab
+cardiovasculaire,2020,Centre-Val de Loire,prevalence,9.5,%
+cardiovasculaire,2020,Centre-Val de Loire,mortalite,146.0,pour 100 000 hab
+cardiovasculaire,2020,Corse,prevalence,9.4,%
+cardiovasculaire,2020,Corse,mortalite,145.0,pour 100 000 hab
+cardiovasculaire,2020,Grand Est,prevalence,9.4,%
+cardiovasculaire,2020,Grand Est,mortalite,155.0,pour 100 000 hab
+cardiovasculaire,2020,Hauts-de-France,prevalence,9.4,%
+cardiovasculaire,2020,Hauts-de-France,mortalite,145.0,pour 100 000 hab
+cardiovasculaire,2020,Normandie,prevalence,8.7,%
+cardiovasculaire,2020,Normandie,mortalite,153.0,pour 100 000 hab
+cardiovasculaire,2020,Nouvelle-Aquitaine,prevalence,9.6,%
+cardiovasculaire,2020,Nouvelle-Aquitaine,mortalite,157.0,pour 100 000 hab
+cardiovasculaire,2020,Occitanie,prevalence,9.1,%
+cardiovasculaire,2020,Occitanie,mortalite,152.0,pour 100 000 hab
+cardiovasculaire,2020,Pays de la Loire,prevalence,9.1,%
+cardiovasculaire,2020,Pays de la Loire,mortalite,157.0,pour 100 000 hab
+cardiovasculaire,2020,Provence-Alpes-Côte d'Azur,prevalence,8.5,%
+cardiovasculaire,2020,Provence-Alpes-Côte d'Azur,mortalite,156.0,pour 100 000 hab
+cardiovasculaire,2020,Île-de-France,prevalence,9.0,%
+cardiovasculaire,2020,Île-de-France,mortalite,146.0,pour 100 000 hab
+diabete,2020,Auvergne-Rhône-Alpes,prevalence,5.6,%
+diabete,2020,Auvergne-Rhône-Alpes,incidence,452.0,pour 100 000 hab
+diabete,2020,Bourgogne-Franche-Comté,prevalence,6.0,%
+diabete,2020,Bourgogne-Franche-Comté,incidence,426.0,pour 100 000 hab
+diabete,2020,Bretagne,prevalence,5.5,%
+diabete,2020,Bretagne,incidence,421.0,pour 100 000 hab
+diabete,2020,Centre-Val de Loire,prevalence,5.6,%
+diabete,2020,Centre-Val de Loire,incidence,452.0,pour 100 000 hab
+diabete,2020,Corse,prevalence,5.5,%
+diabete,2020,Corse,incidence,461.0,pour 100 000 hab
+diabete,2020,Grand Est,prevalence,5.5,%
+diabete,2020,Grand Est,incidence,421.0,pour 100 000 hab
+diabete,2020,Hauts-de-France,prevalence,5.5,%
+diabete,2020,Hauts-de-France,incidence,431.0,pour 100 000 hab
+diabete,2020,Normandie,prevalence,6.3,%
+diabete,2020,Normandie,incidence,469.0,pour 100 000 hab
+diabete,2020,Nouvelle-Aquitaine,prevalence,5.7,%
+diabete,2020,Nouvelle-Aquitaine,incidence,463.0,pour 100 000 hab
+diabete,2020,Occitanie,prevalence,6.2,%
+diabete,2020,Occitanie,incidence,428.0,pour 100 000 hab
+diabete,2020,Pays de la Loire,prevalence,5.7,%
+diabete,2020,Pays de la Loire,incidence,423.0,pour 100 000 hab
+diabete,2020,Provence-Alpes-Côte d'Azur,prevalence,5.6,%
+diabete,2020,Provence-Alpes-Côte d'Azur,incidence,422.0,pour 100 000 hab
+diabete,2020,Île-de-France,prevalence,5.6,%
+diabete,2020,Île-de-France,incidence,462.0,pour 100 000 hab
+digestive,2020,Auvergne-Rhône-Alpes,prevalence,7.44,%
+digestive,2020,Auvergne-Rhône-Alpes,incidence,220.0,pour 100 000 hab
+digestive,2020,Auvergne-Rhône-Alpes,mortalite,32.0,pour 100 000 hab
+digestive,2020,Bourgogne-Franche-Comté,prevalence,7.84,%
+digestive,2020,Bourgogne-Franche-Comté,incidence,224.0,pour 100 000 hab
+digestive,2020,Bourgogne-Franche-Comté,mortalite,21.0,pour 100 000 hab
+digestive,2020,Bretagne,prevalence,7.34,%
+digestive,2020,Bretagne,incidence,209.0,pour 100 000 hab
+digestive,2020,Bretagne,mortalite,21.0,pour 100 000 hab
+digestive,2020,Centre-Val de Loire,prevalence,7.44,%
+digestive,2020,Centre-Val de Loire,incidence,220.0,pour 100 000 hab
+digestive,2020,Centre-Val de Loire,mortalite,32.0,pour 100 000 hab
+digestive,2020,Corse,prevalence,7.34,%
+digestive,2020,Corse,incidence,219.0,pour 100 000 hab
+digestive,2020,Corse,mortalite,31.0,pour 100 000 hab
+digestive,2020,Grand Est,prevalence,7.34,%
+digestive,2020,Grand Est,incidence,219.0,pour 100 000 hab
+digestive,2020,Grand Est,mortalite,31.0,pour 100 000 hab
+digestive,2020,Hauts-de-France,prevalence,7.34,%
+digestive,2020,Hauts-de-France,incidence,219.0,pour 100 000 hab
+digestive,2020,Hauts-de-France,mortalite,31.0,pour 100 000 hab
+digestive,2020,Normandie,prevalence,8.14,%
+digestive,2020,Normandie,incidence,227.0,pour 100 000 hab
+digestive,2020,Normandie,mortalite,24.0,pour 100 000 hab
+digestive,2020,Nouvelle-Aquitaine,prevalence,7.54,%
+digestive,2020,Nouvelle-Aquitaine,incidence,221.0,pour 100 000 hab
+digestive,2020,Nouvelle-Aquitaine,mortalite,33.0,pour 100 000 hab
+digestive,2020,Occitanie,prevalence,8.04,%
+digestive,2020,Occitanie,incidence,216.0,pour 100 000 hab
+digestive,2020,Occitanie,mortalite,28.0,pour 100 000 hab
+digestive,2020,Pays de la Loire,prevalence,7.54,%
+digestive,2020,Pays de la Loire,incidence,231.0,pour 100 000 hab
+digestive,2020,Pays de la Loire,mortalite,28.0,pour 100 000 hab
+digestive,2020,Provence-Alpes-Côte d'Azur,prevalence,7.44,%
+digestive,2020,Provence-Alpes-Côte d'Azur,incidence,210.0,pour 100 000 hab
+digestive,2020,Provence-Alpes-Côte d'Azur,mortalite,22.0,pour 100 000 hab
+digestive,2020,Île-de-France,prevalence,7.44,%
+digestive,2020,Île-de-France,incidence,230.0,pour 100 000 hab
+digestive,2020,Île-de-France,mortalite,27.0,pour 100 000 hab
+obesite,2020,Auvergne-Rhône-Alpes,prevalence,12.6,%
+obesite,2020,Auvergne-Rhône-Alpes,incidence,272.0,pour 100 000 hab
+obesite,2020,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2020,Bourgogne-Franche-Comté,prevalence,13.0,%
+obesite,2020,Bourgogne-Franche-Comté,incidence,296.0,pour 100 000 hab
+obesite,2020,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2020,Bretagne,prevalence,12.7,%
+obesite,2020,Bretagne,incidence,261.0,pour 100 000 hab
+obesite,2020,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2020,Centre-Val de Loire,prevalence,13.2,%
+obesite,2020,Centre-Val de Loire,incidence,262.0,pour 100 000 hab
+obesite,2020,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2020,Corse,prevalence,13.1,%
+obesite,2020,Corse,incidence,261.0,pour 100 000 hab
+obesite,2020,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2020,Grand Est,prevalence,13.7,%
+obesite,2020,Grand Est,incidence,291.0,pour 100 000 hab
+obesite,2020,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2020,Hauts-de-France,prevalence,13.1,%
+obesite,2020,Hauts-de-France,incidence,281.0,pour 100 000 hab
+obesite,2020,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2020,Normandie,prevalence,12.7,%
+obesite,2020,Normandie,incidence,269.0,pour 100 000 hab
+obesite,2020,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2020,Nouvelle-Aquitaine,prevalence,12.7,%
+obesite,2020,Nouvelle-Aquitaine,incidence,273.0,pour 100 000 hab
+obesite,2020,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2020,Occitanie,prevalence,13.4,%
+obesite,2020,Occitanie,incidence,288.0,pour 100 000 hab
+obesite,2020,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2020,Pays de la Loire,prevalence,13.1,%
+obesite,2020,Pays de la Loire,incidence,273.0,pour 100 000 hab
+obesite,2020,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2020,Provence-Alpes-Côte d'Azur,prevalence,13.4,%
+obesite,2020,Provence-Alpes-Côte d'Azur,incidence,292.0,pour 100 000 hab
+obesite,2020,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2020,Île-de-France,prevalence,13.6,%
+obesite,2020,Île-de-France,incidence,262.0,pour 100 000 hab
+obesite,2020,Île-de-France,mortalite,9.0,pour 100 000 hab
+respiratoire_asthme,2020,Auvergne-Rhône-Alpes,prevalence,6.6,%
+respiratoire_asthme,2020,Auvergne-Rhône-Alpes,incidence,96.0,pour 100 000 hab
+respiratoire_asthme,2020,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2020,Bourgogne-Franche-Comté,prevalence,6.6,%
+respiratoire_asthme,2020,Bourgogne-Franche-Comté,incidence,100.0,pour 100 000 hab
+respiratoire_asthme,2020,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Bretagne,prevalence,6.3,%
+respiratoire_asthme,2020,Bretagne,incidence,85.0,pour 100 000 hab
+respiratoire_asthme,2020,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Centre-Val de Loire,prevalence,6.4,%
+respiratoire_asthme,2020,Centre-Val de Loire,incidence,96.0,pour 100 000 hab
+respiratoire_asthme,2020,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2020,Corse,prevalence,6.3,%
+respiratoire_asthme,2020,Corse,incidence,95.0,pour 100 000 hab
+respiratoire_asthme,2020,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Grand Est,prevalence,6.9,%
+respiratoire_asthme,2020,Grand Est,incidence,95.0,pour 100 000 hab
+respiratoire_asthme,2020,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Hauts-de-France,prevalence,6.7,%
+respiratoire_asthme,2020,Hauts-de-France,incidence,95.0,pour 100 000 hab
+respiratoire_asthme,2020,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Normandie,prevalence,6.3,%
+respiratoire_asthme,2020,Normandie,incidence,103.0,pour 100 000 hab
+respiratoire_asthme,2020,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Nouvelle-Aquitaine,prevalence,6.7,%
+respiratoire_asthme,2020,Nouvelle-Aquitaine,incidence,97.0,pour 100 000 hab
+respiratoire_asthme,2020,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2020,Occitanie,prevalence,6.6,%
+respiratoire_asthme,2020,Occitanie,incidence,92.0,pour 100 000 hab
+respiratoire_asthme,2020,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Pays de la Loire,prevalence,6.7,%
+respiratoire_asthme,2020,Pays de la Loire,incidence,107.0,pour 100 000 hab
+respiratoire_asthme,2020,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Provence-Alpes-Côte d'Azur,prevalence,6.2,%
+respiratoire_asthme,2020,Provence-Alpes-Côte d'Azur,incidence,86.0,pour 100 000 hab
+respiratoire_asthme,2020,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2020,Île-de-France,prevalence,6.4,%
+respiratoire_asthme,2020,Île-de-France,incidence,106.0,pour 100 000 hab
+respiratoire_asthme,2020,Île-de-France,mortalite,3.0,pour 100 000 hab
+sida,2020,Auvergne-Rhône-Alpes,prevalence,0.44,%
+sida,2020,Auvergne-Rhône-Alpes,incidence,19.0,pour 100 000 hab
+sida,2020,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2020,Bourgogne-Franche-Comté,prevalence,0.43,%
+sida,2020,Bourgogne-Franche-Comté,incidence,23.0,pour 100 000 hab
+sida,2020,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2020,Bretagne,prevalence,0.43,%
+sida,2020,Bretagne,incidence,18.0,pour 100 000 hab
+sida,2020,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2020,Centre-Val de Loire,prevalence,0.44,%
+sida,2020,Centre-Val de Loire,incidence,19.0,pour 100 000 hab
+sida,2020,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2020,Corse,prevalence,0.43,%
+sida,2020,Corse,incidence,18.0,pour 100 000 hab
+sida,2020,Corse,mortalite,4.0,pour 100 000 hab
+sida,2020,Grand Est,prevalence,0.43,%
+sida,2020,Grand Est,incidence,18.0,pour 100 000 hab
+sida,2020,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2020,Hauts-de-France,prevalence,0.43,%
+sida,2020,Hauts-de-France,incidence,18.0,pour 100 000 hab
+sida,2020,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2020,Normandie,prevalence,0.46,%
+sida,2020,Normandie,incidence,26.0,pour 100 000 hab
+sida,2020,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2020,Nouvelle-Aquitaine,prevalence,0.45,%
+sida,2020,Nouvelle-Aquitaine,incidence,20.0,pour 100 000 hab
+sida,2020,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2020,Occitanie,prevalence,0.45,%
+sida,2020,Occitanie,incidence,25.0,pour 100 000 hab
+sida,2020,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2020,Pays de la Loire,prevalence,0.45,%
+sida,2020,Pays de la Loire,incidence,20.0,pour 100 000 hab
+sida,2020,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2020,Provence-Alpes-Côte d'Azur,prevalence,0.44,%
+sida,2020,Provence-Alpes-Côte d'Azur,incidence,19.0,pour 100 000 hab
+sida,2020,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2020,Île-de-France,prevalence,0.44,%
+sida,2020,Île-de-France,incidence,19.0,pour 100 000 hab
+sida,2020,Île-de-France,mortalite,5.0,pour 100 000 hab
+troubles_mentaux,2020,Auvergne-Rhône-Alpes,prevalence,15.4,%
+troubles_mentaux,2020,Auvergne-Rhône-Alpes,incidence,344.0,pour 100 000 hab
+troubles_mentaux,2020,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2020,Bourgogne-Franche-Comté,prevalence,15.8,%
+troubles_mentaux,2020,Bourgogne-Franche-Comté,incidence,318.0,pour 100 000 hab
+troubles_mentaux,2020,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2020,Bretagne,prevalence,15.5,%
+troubles_mentaux,2020,Bretagne,incidence,313.0,pour 100 000 hab
+troubles_mentaux,2020,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2020,Centre-Val de Loire,prevalence,16.0,%
+troubles_mentaux,2020,Centre-Val de Loire,incidence,344.0,pour 100 000 hab
+troubles_mentaux,2020,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2020,Corse,prevalence,15.9,%
+troubles_mentaux,2020,Corse,incidence,353.0,pour 100 000 hab
+troubles_mentaux,2020,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2020,Grand Est,prevalence,16.5,%
+troubles_mentaux,2020,Grand Est,incidence,313.0,pour 100 000 hab
+troubles_mentaux,2020,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2020,Hauts-de-France,prevalence,15.9,%
+troubles_mentaux,2020,Hauts-de-France,incidence,323.0,pour 100 000 hab
+troubles_mentaux,2020,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2020,Normandie,prevalence,15.5,%
+troubles_mentaux,2020,Normandie,incidence,361.0,pour 100 000 hab
+troubles_mentaux,2020,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2020,Nouvelle-Aquitaine,prevalence,15.5,%
+troubles_mentaux,2020,Nouvelle-Aquitaine,incidence,355.0,pour 100 000 hab
+troubles_mentaux,2020,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2020,Occitanie,prevalence,16.2,%
+troubles_mentaux,2020,Occitanie,incidence,320.0,pour 100 000 hab
+troubles_mentaux,2020,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2020,Pays de la Loire,prevalence,15.9,%
+troubles_mentaux,2020,Pays de la Loire,incidence,315.0,pour 100 000 hab
+troubles_mentaux,2020,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2020,Provence-Alpes-Côte d'Azur,prevalence,16.2,%
+troubles_mentaux,2020,Provence-Alpes-Côte d'Azur,incidence,314.0,pour 100 000 hab
+troubles_mentaux,2020,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2020,Île-de-France,prevalence,16.4,%
+troubles_mentaux,2020,Île-de-France,incidence,354.0,pour 100 000 hab
+troubles_mentaux,2020,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_neurologiques,2020,Auvergne-Rhône-Alpes,prevalence,4.5,%
+troubles_neurologiques,2020,Auvergne-Rhône-Alpes,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2020,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2020,Bourgogne-Franche-Comté,prevalence,4.5,%
+troubles_neurologiques,2020,Bourgogne-Franche-Comté,incidence,78.0,pour 100 000 hab
+troubles_neurologiques,2020,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2020,Bretagne,prevalence,4.2,%
+troubles_neurologiques,2020,Bretagne,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2020,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2020,Centre-Val de Loire,prevalence,4.3,%
+troubles_neurologiques,2020,Centre-Val de Loire,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2020,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2020,Corse,prevalence,4.2,%
+troubles_neurologiques,2020,Corse,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2020,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2020,Grand Est,prevalence,4.8,%
+troubles_neurologiques,2020,Grand Est,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2020,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2020,Hauts-de-France,prevalence,4.6,%
+troubles_neurologiques,2020,Hauts-de-France,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2020,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2020,Normandie,prevalence,4.2,%
+troubles_neurologiques,2020,Normandie,incidence,71.0,pour 100 000 hab
+troubles_neurologiques,2020,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2020,Nouvelle-Aquitaine,prevalence,4.6,%
+troubles_neurologiques,2020,Nouvelle-Aquitaine,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2020,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2020,Occitanie,prevalence,4.5,%
+troubles_neurologiques,2020,Occitanie,incidence,70.0,pour 100 000 hab
+troubles_neurologiques,2020,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2020,Pays de la Loire,prevalence,4.6,%
+troubles_neurologiques,2020,Pays de la Loire,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2020,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2020,Provence-Alpes-Côte d'Azur,prevalence,4.1,%
+troubles_neurologiques,2020,Provence-Alpes-Côte d'Azur,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2020,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2020,Île-de-France,prevalence,4.3,%
+troubles_neurologiques,2020,Île-de-France,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2020,Île-de-France,mortalite,12.0,pour 100 000 hab
+cancer,2021,Auvergne-Rhône-Alpes,incidence,386.0,pour 100 000 hab
+cancer,2021,Auvergne-Rhône-Alpes,mortalite,146.0,pour 100 000 hab
+cancer,2021,Bourgogne-Franche-Comté,incidence,410.0,pour 100 000 hab
+cancer,2021,Bourgogne-Franche-Comté,mortalite,135.0,pour 100 000 hab
+cancer,2021,Bretagne,incidence,375.0,pour 100 000 hab
+cancer,2021,Bretagne,mortalite,135.0,pour 100 000 hab
+cancer,2021,Centre-Val de Loire,incidence,376.0,pour 100 000 hab
+cancer,2021,Centre-Val de Loire,mortalite,146.0,pour 100 000 hab
+cancer,2021,Corse,incidence,375.0,pour 100 000 hab
+cancer,2021,Corse,mortalite,145.0,pour 100 000 hab
+cancer,2021,Grand Est,incidence,405.0,pour 100 000 hab
+cancer,2021,Grand Est,mortalite,145.0,pour 100 000 hab
+cancer,2021,Hauts-de-France,incidence,395.0,pour 100 000 hab
+cancer,2021,Hauts-de-France,mortalite,145.0,pour 100 000 hab
+cancer,2021,Normandie,incidence,383.0,pour 100 000 hab
+cancer,2021,Normandie,mortalite,138.0,pour 100 000 hab
+cancer,2021,Nouvelle-Aquitaine,incidence,387.0,pour 100 000 hab
+cancer,2021,Nouvelle-Aquitaine,mortalite,147.0,pour 100 000 hab
+cancer,2021,Occitanie,incidence,402.0,pour 100 000 hab
+cancer,2021,Occitanie,mortalite,142.0,pour 100 000 hab
+cancer,2021,Pays de la Loire,incidence,387.0,pour 100 000 hab
+cancer,2021,Pays de la Loire,mortalite,142.0,pour 100 000 hab
+cancer,2021,Provence-Alpes-Côte d'Azur,incidence,406.0,pour 100 000 hab
+cancer,2021,Provence-Alpes-Côte d'Azur,mortalite,136.0,pour 100 000 hab
+cancer,2021,Île-de-France,incidence,376.0,pour 100 000 hab
+cancer,2021,Île-de-France,mortalite,141.0,pour 100 000 hab
+cardiovasculaire,2021,Auvergne-Rhône-Alpes,prevalence,9.65,%
+cardiovasculaire,2021,Auvergne-Rhône-Alpes,mortalite,153.0,pour 100 000 hab
+cardiovasculaire,2021,Bourgogne-Franche-Comté,prevalence,8.55,%
+cardiovasculaire,2021,Bourgogne-Franche-Comté,mortalite,157.0,pour 100 000 hab
+cardiovasculaire,2021,Bretagne,prevalence,8.55,%
+cardiovasculaire,2021,Bretagne,mortalite,142.0,pour 100 000 hab
+cardiovasculaire,2021,Centre-Val de Loire,prevalence,9.65,%
+cardiovasculaire,2021,Centre-Val de Loire,mortalite,143.0,pour 100 000 hab
+cardiovasculaire,2021,Corse,prevalence,9.55,%
+cardiovasculaire,2021,Corse,mortalite,142.0,pour 100 000 hab
+cardiovasculaire,2021,Grand Est,prevalence,9.55,%
+cardiovasculaire,2021,Grand Est,mortalite,152.0,pour 100 000 hab
+cardiovasculaire,2021,Hauts-de-France,prevalence,9.55,%
+cardiovasculaire,2021,Hauts-de-France,mortalite,142.0,pour 100 000 hab
+cardiovasculaire,2021,Normandie,prevalence,8.85,%
+cardiovasculaire,2021,Normandie,mortalite,150.0,pour 100 000 hab
+cardiovasculaire,2021,Nouvelle-Aquitaine,prevalence,9.75,%
+cardiovasculaire,2021,Nouvelle-Aquitaine,mortalite,154.0,pour 100 000 hab
+cardiovasculaire,2021,Occitanie,prevalence,9.25,%
+cardiovasculaire,2021,Occitanie,mortalite,149.0,pour 100 000 hab
+cardiovasculaire,2021,Pays de la Loire,prevalence,9.25,%
+cardiovasculaire,2021,Pays de la Loire,mortalite,154.0,pour 100 000 hab
+cardiovasculaire,2021,Provence-Alpes-Côte d'Azur,prevalence,8.65,%
+cardiovasculaire,2021,Provence-Alpes-Côte d'Azur,mortalite,153.0,pour 100 000 hab
+cardiovasculaire,2021,Île-de-France,prevalence,9.15,%
+cardiovasculaire,2021,Île-de-France,mortalite,143.0,pour 100 000 hab
+diabete,2021,Auvergne-Rhône-Alpes,prevalence,5.8,%
+diabete,2021,Auvergne-Rhône-Alpes,incidence,462.0,pour 100 000 hab
+diabete,2021,Bourgogne-Franche-Comté,prevalence,6.2,%
+diabete,2021,Bourgogne-Franche-Comté,incidence,436.0,pour 100 000 hab
+diabete,2021,Bretagne,prevalence,5.7,%
+diabete,2021,Bretagne,incidence,431.0,pour 100 000 hab
+diabete,2021,Centre-Val de Loire,prevalence,5.8,%
+diabete,2021,Centre-Val de Loire,incidence,462.0,pour 100 000 hab
+diabete,2021,Corse,prevalence,5.7,%
+diabete,2021,Corse,incidence,471.0,pour 100 000 hab
+diabete,2021,Grand Est,prevalence,5.7,%
+diabete,2021,Grand Est,incidence,431.0,pour 100 000 hab
+diabete,2021,Hauts-de-France,prevalence,5.7,%
+diabete,2021,Hauts-de-France,incidence,441.0,pour 100 000 hab
+diabete,2021,Normandie,prevalence,6.5,%
+diabete,2021,Normandie,incidence,479.0,pour 100 000 hab
+diabete,2021,Nouvelle-Aquitaine,prevalence,5.9,%
+diabete,2021,Nouvelle-Aquitaine,incidence,473.0,pour 100 000 hab
+diabete,2021,Occitanie,prevalence,6.4,%
+diabete,2021,Occitanie,incidence,438.0,pour 100 000 hab
+diabete,2021,Pays de la Loire,prevalence,5.9,%
+diabete,2021,Pays de la Loire,incidence,433.0,pour 100 000 hab
+diabete,2021,Provence-Alpes-Côte d'Azur,prevalence,5.8,%
+diabete,2021,Provence-Alpes-Côte d'Azur,incidence,432.0,pour 100 000 hab
+diabete,2021,Île-de-France,prevalence,5.8,%
+diabete,2021,Île-de-France,incidence,472.0,pour 100 000 hab
+digestive,2021,Auvergne-Rhône-Alpes,prevalence,7.56,%
+digestive,2021,Auvergne-Rhône-Alpes,incidence,224.0,pour 100 000 hab
+digestive,2021,Auvergne-Rhône-Alpes,mortalite,32.0,pour 100 000 hab
+digestive,2021,Bourgogne-Franche-Comté,prevalence,7.96,%
+digestive,2021,Bourgogne-Franche-Comté,incidence,228.0,pour 100 000 hab
+digestive,2021,Bourgogne-Franche-Comté,mortalite,21.0,pour 100 000 hab
+digestive,2021,Bretagne,prevalence,7.46,%
+digestive,2021,Bretagne,incidence,213.0,pour 100 000 hab
+digestive,2021,Bretagne,mortalite,21.0,pour 100 000 hab
+digestive,2021,Centre-Val de Loire,prevalence,7.56,%
+digestive,2021,Centre-Val de Loire,incidence,224.0,pour 100 000 hab
+digestive,2021,Centre-Val de Loire,mortalite,32.0,pour 100 000 hab
+digestive,2021,Corse,prevalence,7.46,%
+digestive,2021,Corse,incidence,223.0,pour 100 000 hab
+digestive,2021,Corse,mortalite,31.0,pour 100 000 hab
+digestive,2021,Grand Est,prevalence,7.46,%
+digestive,2021,Grand Est,incidence,223.0,pour 100 000 hab
+digestive,2021,Grand Est,mortalite,31.0,pour 100 000 hab
+digestive,2021,Hauts-de-France,prevalence,7.46,%
+digestive,2021,Hauts-de-France,incidence,223.0,pour 100 000 hab
+digestive,2021,Hauts-de-France,mortalite,31.0,pour 100 000 hab
+digestive,2021,Normandie,prevalence,8.26,%
+digestive,2021,Normandie,incidence,231.0,pour 100 000 hab
+digestive,2021,Normandie,mortalite,24.0,pour 100 000 hab
+digestive,2021,Nouvelle-Aquitaine,prevalence,7.66,%
+digestive,2021,Nouvelle-Aquitaine,incidence,225.0,pour 100 000 hab
+digestive,2021,Nouvelle-Aquitaine,mortalite,33.0,pour 100 000 hab
+digestive,2021,Occitanie,prevalence,8.16,%
+digestive,2021,Occitanie,incidence,220.0,pour 100 000 hab
+digestive,2021,Occitanie,mortalite,28.0,pour 100 000 hab
+digestive,2021,Pays de la Loire,prevalence,7.66,%
+digestive,2021,Pays de la Loire,incidence,235.0,pour 100 000 hab
+digestive,2021,Pays de la Loire,mortalite,28.0,pour 100 000 hab
+digestive,2021,Provence-Alpes-Côte d'Azur,prevalence,7.56,%
+digestive,2021,Provence-Alpes-Côte d'Azur,incidence,214.0,pour 100 000 hab
+digestive,2021,Provence-Alpes-Côte d'Azur,mortalite,22.0,pour 100 000 hab
+digestive,2021,Île-de-France,prevalence,7.56,%
+digestive,2021,Île-de-France,incidence,234.0,pour 100 000 hab
+digestive,2021,Île-de-France,mortalite,27.0,pour 100 000 hab
+obesite,2021,Auvergne-Rhône-Alpes,prevalence,12.9,%
+obesite,2021,Auvergne-Rhône-Alpes,incidence,277.0,pour 100 000 hab
+obesite,2021,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2021,Bourgogne-Franche-Comté,prevalence,13.3,%
+obesite,2021,Bourgogne-Franche-Comté,incidence,301.0,pour 100 000 hab
+obesite,2021,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2021,Bretagne,prevalence,13.0,%
+obesite,2021,Bretagne,incidence,266.0,pour 100 000 hab
+obesite,2021,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2021,Centre-Val de Loire,prevalence,13.5,%
+obesite,2021,Centre-Val de Loire,incidence,267.0,pour 100 000 hab
+obesite,2021,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2021,Corse,prevalence,13.4,%
+obesite,2021,Corse,incidence,266.0,pour 100 000 hab
+obesite,2021,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2021,Grand Est,prevalence,14.0,%
+obesite,2021,Grand Est,incidence,296.0,pour 100 000 hab
+obesite,2021,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2021,Hauts-de-France,prevalence,13.4,%
+obesite,2021,Hauts-de-France,incidence,286.0,pour 100 000 hab
+obesite,2021,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2021,Normandie,prevalence,13.0,%
+obesite,2021,Normandie,incidence,274.0,pour 100 000 hab
+obesite,2021,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2021,Nouvelle-Aquitaine,prevalence,13.0,%
+obesite,2021,Nouvelle-Aquitaine,incidence,278.0,pour 100 000 hab
+obesite,2021,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2021,Occitanie,prevalence,13.7,%
+obesite,2021,Occitanie,incidence,293.0,pour 100 000 hab
+obesite,2021,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2021,Pays de la Loire,prevalence,13.4,%
+obesite,2021,Pays de la Loire,incidence,278.0,pour 100 000 hab
+obesite,2021,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2021,Provence-Alpes-Côte d'Azur,prevalence,13.7,%
+obesite,2021,Provence-Alpes-Côte d'Azur,incidence,297.0,pour 100 000 hab
+obesite,2021,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2021,Île-de-France,prevalence,13.9,%
+obesite,2021,Île-de-France,incidence,267.0,pour 100 000 hab
+obesite,2021,Île-de-France,mortalite,9.0,pour 100 000 hab
+respiratoire_asthme,2021,Auvergne-Rhône-Alpes,prevalence,6.7,%
+respiratoire_asthme,2021,Auvergne-Rhône-Alpes,incidence,98.0,pour 100 000 hab
+respiratoire_asthme,2021,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2021,Bourgogne-Franche-Comté,prevalence,6.7,%
+respiratoire_asthme,2021,Bourgogne-Franche-Comté,incidence,102.0,pour 100 000 hab
+respiratoire_asthme,2021,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Bretagne,prevalence,6.4,%
+respiratoire_asthme,2021,Bretagne,incidence,87.0,pour 100 000 hab
+respiratoire_asthme,2021,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Centre-Val de Loire,prevalence,6.5,%
+respiratoire_asthme,2021,Centre-Val de Loire,incidence,98.0,pour 100 000 hab
+respiratoire_asthme,2021,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2021,Corse,prevalence,6.4,%
+respiratoire_asthme,2021,Corse,incidence,97.0,pour 100 000 hab
+respiratoire_asthme,2021,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Grand Est,prevalence,7.0,%
+respiratoire_asthme,2021,Grand Est,incidence,97.0,pour 100 000 hab
+respiratoire_asthme,2021,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Hauts-de-France,prevalence,6.8,%
+respiratoire_asthme,2021,Hauts-de-France,incidence,97.0,pour 100 000 hab
+respiratoire_asthme,2021,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Normandie,prevalence,6.4,%
+respiratoire_asthme,2021,Normandie,incidence,105.0,pour 100 000 hab
+respiratoire_asthme,2021,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Nouvelle-Aquitaine,prevalence,6.8,%
+respiratoire_asthme,2021,Nouvelle-Aquitaine,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2021,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2021,Occitanie,prevalence,6.7,%
+respiratoire_asthme,2021,Occitanie,incidence,94.0,pour 100 000 hab
+respiratoire_asthme,2021,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Pays de la Loire,prevalence,6.8,%
+respiratoire_asthme,2021,Pays de la Loire,incidence,109.0,pour 100 000 hab
+respiratoire_asthme,2021,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Provence-Alpes-Côte d'Azur,prevalence,6.3,%
+respiratoire_asthme,2021,Provence-Alpes-Côte d'Azur,incidence,88.0,pour 100 000 hab
+respiratoire_asthme,2021,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2021,Île-de-France,prevalence,6.5,%
+respiratoire_asthme,2021,Île-de-France,incidence,108.0,pour 100 000 hab
+respiratoire_asthme,2021,Île-de-France,mortalite,3.0,pour 100 000 hab
+sida,2021,Auvergne-Rhône-Alpes,prevalence,0.45,%
+sida,2021,Auvergne-Rhône-Alpes,incidence,20.0,pour 100 000 hab
+sida,2021,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2021,Bourgogne-Franche-Comté,prevalence,0.44,%
+sida,2021,Bourgogne-Franche-Comté,incidence,24.0,pour 100 000 hab
+sida,2021,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2021,Bretagne,prevalence,0.44,%
+sida,2021,Bretagne,incidence,19.0,pour 100 000 hab
+sida,2021,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2021,Centre-Val de Loire,prevalence,0.45,%
+sida,2021,Centre-Val de Loire,incidence,20.0,pour 100 000 hab
+sida,2021,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2021,Corse,prevalence,0.44,%
+sida,2021,Corse,incidence,19.0,pour 100 000 hab
+sida,2021,Corse,mortalite,4.0,pour 100 000 hab
+sida,2021,Grand Est,prevalence,0.44,%
+sida,2021,Grand Est,incidence,19.0,pour 100 000 hab
+sida,2021,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2021,Hauts-de-France,prevalence,0.44,%
+sida,2021,Hauts-de-France,incidence,19.0,pour 100 000 hab
+sida,2021,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2021,Normandie,prevalence,0.47,%
+sida,2021,Normandie,incidence,27.0,pour 100 000 hab
+sida,2021,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2021,Nouvelle-Aquitaine,prevalence,0.46,%
+sida,2021,Nouvelle-Aquitaine,incidence,21.0,pour 100 000 hab
+sida,2021,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2021,Occitanie,prevalence,0.46,%
+sida,2021,Occitanie,incidence,26.0,pour 100 000 hab
+sida,2021,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2021,Pays de la Loire,prevalence,0.46,%
+sida,2021,Pays de la Loire,incidence,21.0,pour 100 000 hab
+sida,2021,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2021,Provence-Alpes-Côte d'Azur,prevalence,0.45,%
+sida,2021,Provence-Alpes-Côte d'Azur,incidence,20.0,pour 100 000 hab
+sida,2021,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2021,Île-de-France,prevalence,0.45,%
+sida,2021,Île-de-France,incidence,20.0,pour 100 000 hab
+sida,2021,Île-de-France,mortalite,5.0,pour 100 000 hab
+troubles_mentaux,2021,Auvergne-Rhône-Alpes,prevalence,15.6,%
+troubles_mentaux,2021,Auvergne-Rhône-Alpes,incidence,350.0,pour 100 000 hab
+troubles_mentaux,2021,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2021,Bourgogne-Franche-Comté,prevalence,16.0,%
+troubles_mentaux,2021,Bourgogne-Franche-Comté,incidence,324.0,pour 100 000 hab
+troubles_mentaux,2021,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2021,Bretagne,prevalence,15.7,%
+troubles_mentaux,2021,Bretagne,incidence,319.0,pour 100 000 hab
+troubles_mentaux,2021,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2021,Centre-Val de Loire,prevalence,16.2,%
+troubles_mentaux,2021,Centre-Val de Loire,incidence,350.0,pour 100 000 hab
+troubles_mentaux,2021,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2021,Corse,prevalence,16.1,%
+troubles_mentaux,2021,Corse,incidence,359.0,pour 100 000 hab
+troubles_mentaux,2021,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2021,Grand Est,prevalence,16.7,%
+troubles_mentaux,2021,Grand Est,incidence,319.0,pour 100 000 hab
+troubles_mentaux,2021,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2021,Hauts-de-France,prevalence,16.1,%
+troubles_mentaux,2021,Hauts-de-France,incidence,329.0,pour 100 000 hab
+troubles_mentaux,2021,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2021,Normandie,prevalence,15.7,%
+troubles_mentaux,2021,Normandie,incidence,367.0,pour 100 000 hab
+troubles_mentaux,2021,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2021,Nouvelle-Aquitaine,prevalence,15.7,%
+troubles_mentaux,2021,Nouvelle-Aquitaine,incidence,361.0,pour 100 000 hab
+troubles_mentaux,2021,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2021,Occitanie,prevalence,16.4,%
+troubles_mentaux,2021,Occitanie,incidence,326.0,pour 100 000 hab
+troubles_mentaux,2021,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2021,Pays de la Loire,prevalence,16.1,%
+troubles_mentaux,2021,Pays de la Loire,incidence,321.0,pour 100 000 hab
+troubles_mentaux,2021,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2021,Provence-Alpes-Côte d'Azur,prevalence,16.4,%
+troubles_mentaux,2021,Provence-Alpes-Côte d'Azur,incidence,320.0,pour 100 000 hab
+troubles_mentaux,2021,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2021,Île-de-France,prevalence,16.6,%
+troubles_mentaux,2021,Île-de-France,incidence,360.0,pour 100 000 hab
+troubles_mentaux,2021,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_neurologiques,2021,Auvergne-Rhône-Alpes,prevalence,4.55,%
+troubles_neurologiques,2021,Auvergne-Rhône-Alpes,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2021,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2021,Bourgogne-Franche-Comté,prevalence,4.55,%
+troubles_neurologiques,2021,Bourgogne-Franche-Comté,incidence,79.0,pour 100 000 hab
+troubles_neurologiques,2021,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2021,Bretagne,prevalence,4.25,%
+troubles_neurologiques,2021,Bretagne,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2021,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2021,Centre-Val de Loire,prevalence,4.35,%
+troubles_neurologiques,2021,Centre-Val de Loire,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2021,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2021,Corse,prevalence,4.25,%
+troubles_neurologiques,2021,Corse,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2021,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2021,Grand Est,prevalence,4.85,%
+troubles_neurologiques,2021,Grand Est,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2021,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2021,Hauts-de-France,prevalence,4.65,%
+troubles_neurologiques,2021,Hauts-de-France,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2021,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2021,Normandie,prevalence,4.25,%
+troubles_neurologiques,2021,Normandie,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2021,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2021,Nouvelle-Aquitaine,prevalence,4.65,%
+troubles_neurologiques,2021,Nouvelle-Aquitaine,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2021,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2021,Occitanie,prevalence,4.55,%
+troubles_neurologiques,2021,Occitanie,incidence,71.0,pour 100 000 hab
+troubles_neurologiques,2021,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2021,Pays de la Loire,prevalence,4.65,%
+troubles_neurologiques,2021,Pays de la Loire,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2021,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2021,Provence-Alpes-Côte d'Azur,prevalence,4.15,%
+troubles_neurologiques,2021,Provence-Alpes-Côte d'Azur,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2021,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2021,Île-de-France,prevalence,4.35,%
+troubles_neurologiques,2021,Île-de-France,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2021,Île-de-France,mortalite,12.0,pour 100 000 hab
+cancer,2022,Auvergne-Rhône-Alpes,incidence,394.0,pour 100 000 hab
+cancer,2022,Auvergne-Rhône-Alpes,mortalite,144.0,pour 100 000 hab
+cancer,2022,Bourgogne-Franche-Comté,incidence,418.0,pour 100 000 hab
+cancer,2022,Bourgogne-Franche-Comté,mortalite,133.0,pour 100 000 hab
+cancer,2022,Bretagne,incidence,383.0,pour 100 000 hab
+cancer,2022,Bretagne,mortalite,133.0,pour 100 000 hab
+cancer,2022,Centre-Val de Loire,incidence,384.0,pour 100 000 hab
+cancer,2022,Centre-Val de Loire,mortalite,144.0,pour 100 000 hab
+cancer,2022,Corse,incidence,383.0,pour 100 000 hab
+cancer,2022,Corse,mortalite,143.0,pour 100 000 hab
+cancer,2022,Grand Est,incidence,413.0,pour 100 000 hab
+cancer,2022,Grand Est,mortalite,143.0,pour 100 000 hab
+cancer,2022,Hauts-de-France,incidence,403.0,pour 100 000 hab
+cancer,2022,Hauts-de-France,mortalite,143.0,pour 100 000 hab
+cancer,2022,Normandie,incidence,391.0,pour 100 000 hab
+cancer,2022,Normandie,mortalite,136.0,pour 100 000 hab
+cancer,2022,Nouvelle-Aquitaine,incidence,395.0,pour 100 000 hab
+cancer,2022,Nouvelle-Aquitaine,mortalite,145.0,pour 100 000 hab
+cancer,2022,Occitanie,incidence,410.0,pour 100 000 hab
+cancer,2022,Occitanie,mortalite,140.0,pour 100 000 hab
+cancer,2022,Pays de la Loire,incidence,395.0,pour 100 000 hab
+cancer,2022,Pays de la Loire,mortalite,140.0,pour 100 000 hab
+cancer,2022,Provence-Alpes-Côte d'Azur,incidence,414.0,pour 100 000 hab
+cancer,2022,Provence-Alpes-Côte d'Azur,mortalite,134.0,pour 100 000 hab
+cancer,2022,Île-de-France,incidence,384.0,pour 100 000 hab
+cancer,2022,Île-de-France,mortalite,139.0,pour 100 000 hab
+cardiovasculaire,2022,Auvergne-Rhône-Alpes,prevalence,9.8,%
+cardiovasculaire,2022,Auvergne-Rhône-Alpes,mortalite,150.0,pour 100 000 hab
+cardiovasculaire,2022,Bourgogne-Franche-Comté,prevalence,8.7,%
+cardiovasculaire,2022,Bourgogne-Franche-Comté,mortalite,154.0,pour 100 000 hab
+cardiovasculaire,2022,Bretagne,prevalence,8.7,%
+cardiovasculaire,2022,Bretagne,mortalite,139.0,pour 100 000 hab
+cardiovasculaire,2022,Centre-Val de Loire,prevalence,9.8,%
+cardiovasculaire,2022,Centre-Val de Loire,mortalite,140.0,pour 100 000 hab
+cardiovasculaire,2022,Corse,prevalence,9.7,%
+cardiovasculaire,2022,Corse,mortalite,139.0,pour 100 000 hab
+cardiovasculaire,2022,Grand Est,prevalence,9.7,%
+cardiovasculaire,2022,Grand Est,mortalite,149.0,pour 100 000 hab
+cardiovasculaire,2022,Hauts-de-France,prevalence,9.7,%
+cardiovasculaire,2022,Hauts-de-France,mortalite,139.0,pour 100 000 hab
+cardiovasculaire,2022,Normandie,prevalence,9.0,%
+cardiovasculaire,2022,Normandie,mortalite,147.0,pour 100 000 hab
+cardiovasculaire,2022,Nouvelle-Aquitaine,prevalence,9.9,%
+cardiovasculaire,2022,Nouvelle-Aquitaine,mortalite,151.0,pour 100 000 hab
+cardiovasculaire,2022,Occitanie,prevalence,9.4,%
+cardiovasculaire,2022,Occitanie,mortalite,146.0,pour 100 000 hab
+cardiovasculaire,2022,Pays de la Loire,prevalence,9.4,%
+cardiovasculaire,2022,Pays de la Loire,mortalite,151.0,pour 100 000 hab
+cardiovasculaire,2022,Provence-Alpes-Côte d'Azur,prevalence,8.8,%
+cardiovasculaire,2022,Provence-Alpes-Côte d'Azur,mortalite,150.0,pour 100 000 hab
+cardiovasculaire,2022,Île-de-France,prevalence,9.3,%
+cardiovasculaire,2022,Île-de-France,mortalite,140.0,pour 100 000 hab
+diabete,2022,Auvergne-Rhône-Alpes,prevalence,6.0,%
+diabete,2022,Auvergne-Rhône-Alpes,incidence,472.0,pour 100 000 hab
+diabete,2022,Bourgogne-Franche-Comté,prevalence,6.4,%
+diabete,2022,Bourgogne-Franche-Comté,incidence,446.0,pour 100 000 hab
+diabete,2022,Bretagne,prevalence,5.9,%
+diabete,2022,Bretagne,incidence,441.0,pour 100 000 hab
+diabete,2022,Centre-Val de Loire,prevalence,6.0,%
+diabete,2022,Centre-Val de Loire,incidence,472.0,pour 100 000 hab
+diabete,2022,Corse,prevalence,5.9,%
+diabete,2022,Corse,incidence,481.0,pour 100 000 hab
+diabete,2022,Grand Est,prevalence,5.9,%
+diabete,2022,Grand Est,incidence,441.0,pour 100 000 hab
+diabete,2022,Hauts-de-France,prevalence,5.9,%
+diabete,2022,Hauts-de-France,incidence,451.0,pour 100 000 hab
+diabete,2022,Normandie,prevalence,6.7,%
+diabete,2022,Normandie,incidence,489.0,pour 100 000 hab
+diabete,2022,Nouvelle-Aquitaine,prevalence,6.1,%
+diabete,2022,Nouvelle-Aquitaine,incidence,483.0,pour 100 000 hab
+diabete,2022,Occitanie,prevalence,6.6,%
+diabete,2022,Occitanie,incidence,448.0,pour 100 000 hab
+diabete,2022,Pays de la Loire,prevalence,6.1,%
+diabete,2022,Pays de la Loire,incidence,443.0,pour 100 000 hab
+diabete,2022,Provence-Alpes-Côte d'Azur,prevalence,6.0,%
+diabete,2022,Provence-Alpes-Côte d'Azur,incidence,442.0,pour 100 000 hab
+diabete,2022,Île-de-France,prevalence,6.0,%
+diabete,2022,Île-de-France,incidence,482.0,pour 100 000 hab
+digestive,2022,Auvergne-Rhône-Alpes,prevalence,7.68,%
+digestive,2022,Auvergne-Rhône-Alpes,incidence,228.0,pour 100 000 hab
+digestive,2022,Auvergne-Rhône-Alpes,mortalite,32.0,pour 100 000 hab
+digestive,2022,Bourgogne-Franche-Comté,prevalence,8.08,%
+digestive,2022,Bourgogne-Franche-Comté,incidence,232.0,pour 100 000 hab
+digestive,2022,Bourgogne-Franche-Comté,mortalite,21.0,pour 100 000 hab
+digestive,2022,Bretagne,prevalence,7.58,%
+digestive,2022,Bretagne,incidence,217.0,pour 100 000 hab
+digestive,2022,Bretagne,mortalite,21.0,pour 100 000 hab
+digestive,2022,Centre-Val de Loire,prevalence,7.68,%
+digestive,2022,Centre-Val de Loire,incidence,228.0,pour 100 000 hab
+digestive,2022,Centre-Val de Loire,mortalite,32.0,pour 100 000 hab
+digestive,2022,Corse,prevalence,7.58,%
+digestive,2022,Corse,incidence,227.0,pour 100 000 hab
+digestive,2022,Corse,mortalite,31.0,pour 100 000 hab
+digestive,2022,Grand Est,prevalence,7.58,%
+digestive,2022,Grand Est,incidence,227.0,pour 100 000 hab
+digestive,2022,Grand Est,mortalite,31.0,pour 100 000 hab
+digestive,2022,Hauts-de-France,prevalence,7.58,%
+digestive,2022,Hauts-de-France,incidence,227.0,pour 100 000 hab
+digestive,2022,Hauts-de-France,mortalite,31.0,pour 100 000 hab
+digestive,2022,Normandie,prevalence,8.38,%
+digestive,2022,Normandie,incidence,235.0,pour 100 000 hab
+digestive,2022,Normandie,mortalite,24.0,pour 100 000 hab
+digestive,2022,Nouvelle-Aquitaine,prevalence,7.78,%
+digestive,2022,Nouvelle-Aquitaine,incidence,229.0,pour 100 000 hab
+digestive,2022,Nouvelle-Aquitaine,mortalite,33.0,pour 100 000 hab
+digestive,2022,Occitanie,prevalence,8.28,%
+digestive,2022,Occitanie,incidence,224.0,pour 100 000 hab
+digestive,2022,Occitanie,mortalite,28.0,pour 100 000 hab
+digestive,2022,Pays de la Loire,prevalence,7.78,%
+digestive,2022,Pays de la Loire,incidence,239.0,pour 100 000 hab
+digestive,2022,Pays de la Loire,mortalite,28.0,pour 100 000 hab
+digestive,2022,Provence-Alpes-Côte d'Azur,prevalence,7.68,%
+digestive,2022,Provence-Alpes-Côte d'Azur,incidence,218.0,pour 100 000 hab
+digestive,2022,Provence-Alpes-Côte d'Azur,mortalite,22.0,pour 100 000 hab
+digestive,2022,Île-de-France,prevalence,7.68,%
+digestive,2022,Île-de-France,incidence,238.0,pour 100 000 hab
+digestive,2022,Île-de-France,mortalite,27.0,pour 100 000 hab
+obesite,2022,Auvergne-Rhône-Alpes,prevalence,13.2,%
+obesite,2022,Auvergne-Rhône-Alpes,incidence,282.0,pour 100 000 hab
+obesite,2022,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2022,Bourgogne-Franche-Comté,prevalence,13.6,%
+obesite,2022,Bourgogne-Franche-Comté,incidence,306.0,pour 100 000 hab
+obesite,2022,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2022,Bretagne,prevalence,13.3,%
+obesite,2022,Bretagne,incidence,271.0,pour 100 000 hab
+obesite,2022,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2022,Centre-Val de Loire,prevalence,13.8,%
+obesite,2022,Centre-Val de Loire,incidence,272.0,pour 100 000 hab
+obesite,2022,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2022,Corse,prevalence,13.7,%
+obesite,2022,Corse,incidence,271.0,pour 100 000 hab
+obesite,2022,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2022,Grand Est,prevalence,14.3,%
+obesite,2022,Grand Est,incidence,301.0,pour 100 000 hab
+obesite,2022,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2022,Hauts-de-France,prevalence,13.7,%
+obesite,2022,Hauts-de-France,incidence,291.0,pour 100 000 hab
+obesite,2022,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2022,Normandie,prevalence,13.3,%
+obesite,2022,Normandie,incidence,279.0,pour 100 000 hab
+obesite,2022,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2022,Nouvelle-Aquitaine,prevalence,13.3,%
+obesite,2022,Nouvelle-Aquitaine,incidence,283.0,pour 100 000 hab
+obesite,2022,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2022,Occitanie,prevalence,14.0,%
+obesite,2022,Occitanie,incidence,298.0,pour 100 000 hab
+obesite,2022,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2022,Pays de la Loire,prevalence,13.7,%
+obesite,2022,Pays de la Loire,incidence,283.0,pour 100 000 hab
+obesite,2022,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2022,Provence-Alpes-Côte d'Azur,prevalence,14.0,%
+obesite,2022,Provence-Alpes-Côte d'Azur,incidence,302.0,pour 100 000 hab
+obesite,2022,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2022,Île-de-France,prevalence,14.2,%
+obesite,2022,Île-de-France,incidence,272.0,pour 100 000 hab
+obesite,2022,Île-de-France,mortalite,9.0,pour 100 000 hab
+respiratoire_asthme,2022,Auvergne-Rhône-Alpes,prevalence,6.8,%
+respiratoire_asthme,2022,Auvergne-Rhône-Alpes,incidence,100.0,pour 100 000 hab
+respiratoire_asthme,2022,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2022,Bourgogne-Franche-Comté,prevalence,6.8,%
+respiratoire_asthme,2022,Bourgogne-Franche-Comté,incidence,104.0,pour 100 000 hab
+respiratoire_asthme,2022,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Bretagne,prevalence,6.5,%
+respiratoire_asthme,2022,Bretagne,incidence,89.0,pour 100 000 hab
+respiratoire_asthme,2022,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Centre-Val de Loire,prevalence,6.6,%
+respiratoire_asthme,2022,Centre-Val de Loire,incidence,100.0,pour 100 000 hab
+respiratoire_asthme,2022,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2022,Corse,prevalence,6.5,%
+respiratoire_asthme,2022,Corse,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2022,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Grand Est,prevalence,7.1,%
+respiratoire_asthme,2022,Grand Est,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2022,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Hauts-de-France,prevalence,6.9,%
+respiratoire_asthme,2022,Hauts-de-France,incidence,99.0,pour 100 000 hab
+respiratoire_asthme,2022,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Normandie,prevalence,6.5,%
+respiratoire_asthme,2022,Normandie,incidence,107.0,pour 100 000 hab
+respiratoire_asthme,2022,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Nouvelle-Aquitaine,prevalence,6.9,%
+respiratoire_asthme,2022,Nouvelle-Aquitaine,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2022,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2022,Occitanie,prevalence,6.8,%
+respiratoire_asthme,2022,Occitanie,incidence,96.0,pour 100 000 hab
+respiratoire_asthme,2022,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Pays de la Loire,prevalence,6.9,%
+respiratoire_asthme,2022,Pays de la Loire,incidence,111.0,pour 100 000 hab
+respiratoire_asthme,2022,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Provence-Alpes-Côte d'Azur,prevalence,6.4,%
+respiratoire_asthme,2022,Provence-Alpes-Côte d'Azur,incidence,90.0,pour 100 000 hab
+respiratoire_asthme,2022,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2022,Île-de-France,prevalence,6.6,%
+respiratoire_asthme,2022,Île-de-France,incidence,110.0,pour 100 000 hab
+respiratoire_asthme,2022,Île-de-France,mortalite,3.0,pour 100 000 hab
+sida,2022,Auvergne-Rhône-Alpes,prevalence,0.46,%
+sida,2022,Auvergne-Rhône-Alpes,incidence,21.0,pour 100 000 hab
+sida,2022,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2022,Bourgogne-Franche-Comté,prevalence,0.45,%
+sida,2022,Bourgogne-Franche-Comté,incidence,25.0,pour 100 000 hab
+sida,2022,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2022,Bretagne,prevalence,0.45,%
+sida,2022,Bretagne,incidence,20.0,pour 100 000 hab
+sida,2022,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2022,Centre-Val de Loire,prevalence,0.46,%
+sida,2022,Centre-Val de Loire,incidence,21.0,pour 100 000 hab
+sida,2022,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2022,Corse,prevalence,0.45,%
+sida,2022,Corse,incidence,20.0,pour 100 000 hab
+sida,2022,Corse,mortalite,4.0,pour 100 000 hab
+sida,2022,Grand Est,prevalence,0.45,%
+sida,2022,Grand Est,incidence,20.0,pour 100 000 hab
+sida,2022,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2022,Hauts-de-France,prevalence,0.45,%
+sida,2022,Hauts-de-France,incidence,20.0,pour 100 000 hab
+sida,2022,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2022,Normandie,prevalence,0.48,%
+sida,2022,Normandie,incidence,28.0,pour 100 000 hab
+sida,2022,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2022,Nouvelle-Aquitaine,prevalence,0.47,%
+sida,2022,Nouvelle-Aquitaine,incidence,22.0,pour 100 000 hab
+sida,2022,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2022,Occitanie,prevalence,0.47,%
+sida,2022,Occitanie,incidence,27.0,pour 100 000 hab
+sida,2022,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2022,Pays de la Loire,prevalence,0.47,%
+sida,2022,Pays de la Loire,incidence,22.0,pour 100 000 hab
+sida,2022,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2022,Provence-Alpes-Côte d'Azur,prevalence,0.46,%
+sida,2022,Provence-Alpes-Côte d'Azur,incidence,21.0,pour 100 000 hab
+sida,2022,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2022,Île-de-France,prevalence,0.46,%
+sida,2022,Île-de-France,incidence,21.0,pour 100 000 hab
+sida,2022,Île-de-France,mortalite,5.0,pour 100 000 hab
+troubles_mentaux,2022,Auvergne-Rhône-Alpes,prevalence,15.8,%
+troubles_mentaux,2022,Auvergne-Rhône-Alpes,incidence,356.0,pour 100 000 hab
+troubles_mentaux,2022,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2022,Bourgogne-Franche-Comté,prevalence,16.2,%
+troubles_mentaux,2022,Bourgogne-Franche-Comté,incidence,330.0,pour 100 000 hab
+troubles_mentaux,2022,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2022,Bretagne,prevalence,15.9,%
+troubles_mentaux,2022,Bretagne,incidence,325.0,pour 100 000 hab
+troubles_mentaux,2022,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2022,Centre-Val de Loire,prevalence,16.4,%
+troubles_mentaux,2022,Centre-Val de Loire,incidence,356.0,pour 100 000 hab
+troubles_mentaux,2022,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2022,Corse,prevalence,16.3,%
+troubles_mentaux,2022,Corse,incidence,365.0,pour 100 000 hab
+troubles_mentaux,2022,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2022,Grand Est,prevalence,16.9,%
+troubles_mentaux,2022,Grand Est,incidence,325.0,pour 100 000 hab
+troubles_mentaux,2022,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2022,Hauts-de-France,prevalence,16.3,%
+troubles_mentaux,2022,Hauts-de-France,incidence,335.0,pour 100 000 hab
+troubles_mentaux,2022,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2022,Normandie,prevalence,15.9,%
+troubles_mentaux,2022,Normandie,incidence,373.0,pour 100 000 hab
+troubles_mentaux,2022,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2022,Nouvelle-Aquitaine,prevalence,15.9,%
+troubles_mentaux,2022,Nouvelle-Aquitaine,incidence,367.0,pour 100 000 hab
+troubles_mentaux,2022,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2022,Occitanie,prevalence,16.6,%
+troubles_mentaux,2022,Occitanie,incidence,332.0,pour 100 000 hab
+troubles_mentaux,2022,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2022,Pays de la Loire,prevalence,16.3,%
+troubles_mentaux,2022,Pays de la Loire,incidence,327.0,pour 100 000 hab
+troubles_mentaux,2022,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2022,Provence-Alpes-Côte d'Azur,prevalence,16.6,%
+troubles_mentaux,2022,Provence-Alpes-Côte d'Azur,incidence,326.0,pour 100 000 hab
+troubles_mentaux,2022,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2022,Île-de-France,prevalence,16.8,%
+troubles_mentaux,2022,Île-de-France,incidence,366.0,pour 100 000 hab
+troubles_mentaux,2022,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_neurologiques,2022,Auvergne-Rhône-Alpes,prevalence,4.6,%
+troubles_neurologiques,2022,Auvergne-Rhône-Alpes,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2022,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2022,Bourgogne-Franche-Comté,prevalence,4.6,%
+troubles_neurologiques,2022,Bourgogne-Franche-Comté,incidence,80.0,pour 100 000 hab
+troubles_neurologiques,2022,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2022,Bretagne,prevalence,4.3,%
+troubles_neurologiques,2022,Bretagne,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2022,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2022,Centre-Val de Loire,prevalence,4.4,%
+troubles_neurologiques,2022,Centre-Val de Loire,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2022,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2022,Corse,prevalence,4.3,%
+troubles_neurologiques,2022,Corse,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2022,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2022,Grand Est,prevalence,4.9,%
+troubles_neurologiques,2022,Grand Est,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2022,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2022,Hauts-de-France,prevalence,4.7,%
+troubles_neurologiques,2022,Hauts-de-France,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2022,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2022,Normandie,prevalence,4.3,%
+troubles_neurologiques,2022,Normandie,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2022,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2022,Nouvelle-Aquitaine,prevalence,4.7,%
+troubles_neurologiques,2022,Nouvelle-Aquitaine,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2022,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2022,Occitanie,prevalence,4.6,%
+troubles_neurologiques,2022,Occitanie,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2022,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2022,Pays de la Loire,prevalence,4.7,%
+troubles_neurologiques,2022,Pays de la Loire,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2022,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2022,Provence-Alpes-Côte d'Azur,prevalence,4.2,%
+troubles_neurologiques,2022,Provence-Alpes-Côte d'Azur,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2022,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2022,Île-de-France,prevalence,4.4,%
+troubles_neurologiques,2022,Île-de-France,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2022,Île-de-France,mortalite,12.0,pour 100 000 hab
+cancer,2023,Auvergne-Rhône-Alpes,incidence,402.0,pour 100 000 hab
+cancer,2023,Auvergne-Rhône-Alpes,mortalite,142.0,pour 100 000 hab
+cancer,2023,Bourgogne-Franche-Comté,incidence,426.0,pour 100 000 hab
+cancer,2023,Bourgogne-Franche-Comté,mortalite,131.0,pour 100 000 hab
+cancer,2023,Bretagne,incidence,391.0,pour 100 000 hab
+cancer,2023,Bretagne,mortalite,131.0,pour 100 000 hab
+cancer,2023,Centre-Val de Loire,incidence,392.0,pour 100 000 hab
+cancer,2023,Centre-Val de Loire,mortalite,142.0,pour 100 000 hab
+cancer,2023,Corse,incidence,391.0,pour 100 000 hab
+cancer,2023,Corse,mortalite,141.0,pour 100 000 hab
+cancer,2023,Grand Est,incidence,421.0,pour 100 000 hab
+cancer,2023,Grand Est,mortalite,141.0,pour 100 000 hab
+cancer,2023,Hauts-de-France,incidence,411.0,pour 100 000 hab
+cancer,2023,Hauts-de-France,mortalite,141.0,pour 100 000 hab
+cancer,2023,Normandie,incidence,399.0,pour 100 000 hab
+cancer,2023,Normandie,mortalite,134.0,pour 100 000 hab
+cancer,2023,Nouvelle-Aquitaine,incidence,403.0,pour 100 000 hab
+cancer,2023,Nouvelle-Aquitaine,mortalite,143.0,pour 100 000 hab
+cancer,2023,Occitanie,incidence,418.0,pour 100 000 hab
+cancer,2023,Occitanie,mortalite,138.0,pour 100 000 hab
+cancer,2023,Pays de la Loire,incidence,403.0,pour 100 000 hab
+cancer,2023,Pays de la Loire,mortalite,138.0,pour 100 000 hab
+cancer,2023,Provence-Alpes-Côte d'Azur,incidence,422.0,pour 100 000 hab
+cancer,2023,Provence-Alpes-Côte d'Azur,mortalite,132.0,pour 100 000 hab
+cancer,2023,Île-de-France,incidence,392.0,pour 100 000 hab
+cancer,2023,Île-de-France,mortalite,137.0,pour 100 000 hab
+cardiovasculaire,2023,Auvergne-Rhône-Alpes,prevalence,9.95,%
+cardiovasculaire,2023,Auvergne-Rhône-Alpes,mortalite,147.0,pour 100 000 hab
+cardiovasculaire,2023,Bourgogne-Franche-Comté,prevalence,8.85,%
+cardiovasculaire,2023,Bourgogne-Franche-Comté,mortalite,151.0,pour 100 000 hab
+cardiovasculaire,2023,Bretagne,prevalence,8.85,%
+cardiovasculaire,2023,Bretagne,mortalite,136.0,pour 100 000 hab
+cardiovasculaire,2023,Centre-Val de Loire,prevalence,9.95,%
+cardiovasculaire,2023,Centre-Val de Loire,mortalite,137.0,pour 100 000 hab
+cardiovasculaire,2023,Corse,prevalence,9.85,%
+cardiovasculaire,2023,Corse,mortalite,136.0,pour 100 000 hab
+cardiovasculaire,2023,Grand Est,prevalence,9.85,%
+cardiovasculaire,2023,Grand Est,mortalite,146.0,pour 100 000 hab
+cardiovasculaire,2023,Hauts-de-France,prevalence,9.85,%
+cardiovasculaire,2023,Hauts-de-France,mortalite,136.0,pour 100 000 hab
+cardiovasculaire,2023,Normandie,prevalence,9.15,%
+cardiovasculaire,2023,Normandie,mortalite,144.0,pour 100 000 hab
+cardiovasculaire,2023,Nouvelle-Aquitaine,prevalence,10.05,%
+cardiovasculaire,2023,Nouvelle-Aquitaine,mortalite,148.0,pour 100 000 hab
+cardiovasculaire,2023,Occitanie,prevalence,9.55,%
+cardiovasculaire,2023,Occitanie,mortalite,143.0,pour 100 000 hab
+cardiovasculaire,2023,Pays de la Loire,prevalence,9.55,%
+cardiovasculaire,2023,Pays de la Loire,mortalite,148.0,pour 100 000 hab
+cardiovasculaire,2023,Provence-Alpes-Côte d'Azur,prevalence,8.95,%
+cardiovasculaire,2023,Provence-Alpes-Côte d'Azur,mortalite,147.0,pour 100 000 hab
+cardiovasculaire,2023,Île-de-France,prevalence,9.45,%
+cardiovasculaire,2023,Île-de-France,mortalite,137.0,pour 100 000 hab
+diabete,2023,Auvergne-Rhône-Alpes,prevalence,6.2,%
+diabete,2023,Auvergne-Rhône-Alpes,incidence,482.0,pour 100 000 hab
+diabete,2023,Bourgogne-Franche-Comté,prevalence,6.6,%
+diabete,2023,Bourgogne-Franche-Comté,incidence,456.0,pour 100 000 hab
+diabete,2023,Bretagne,prevalence,6.1,%
+diabete,2023,Bretagne,incidence,451.0,pour 100 000 hab
+diabete,2023,Centre-Val de Loire,prevalence,6.2,%
+diabete,2023,Centre-Val de Loire,incidence,482.0,pour 100 000 hab
+diabete,2023,Corse,prevalence,6.1,%
+diabete,2023,Corse,incidence,491.0,pour 100 000 hab
+diabete,2023,Grand Est,prevalence,6.1,%
+diabete,2023,Grand Est,incidence,451.0,pour 100 000 hab
+diabete,2023,Hauts-de-France,prevalence,6.1,%
+diabete,2023,Hauts-de-France,incidence,461.0,pour 100 000 hab
+diabete,2023,Normandie,prevalence,6.9,%
+diabete,2023,Normandie,incidence,499.0,pour 100 000 hab
+diabete,2023,Nouvelle-Aquitaine,prevalence,6.3,%
+diabete,2023,Nouvelle-Aquitaine,incidence,493.0,pour 100 000 hab
+diabete,2023,Occitanie,prevalence,6.8,%
+diabete,2023,Occitanie,incidence,458.0,pour 100 000 hab
+diabete,2023,Pays de la Loire,prevalence,6.3,%
+diabete,2023,Pays de la Loire,incidence,453.0,pour 100 000 hab
+diabete,2023,Provence-Alpes-Côte d'Azur,prevalence,6.2,%
+diabete,2023,Provence-Alpes-Côte d'Azur,incidence,452.0,pour 100 000 hab
+diabete,2023,Île-de-France,prevalence,6.2,%
+diabete,2023,Île-de-France,incidence,492.0,pour 100 000 hab
+digestive,2023,Auvergne-Rhône-Alpes,prevalence,7.8,%
+digestive,2023,Auvergne-Rhône-Alpes,incidence,232.0,pour 100 000 hab
+digestive,2023,Auvergne-Rhône-Alpes,mortalite,32.0,pour 100 000 hab
+digestive,2023,Bourgogne-Franche-Comté,prevalence,8.2,%
+digestive,2023,Bourgogne-Franche-Comté,incidence,236.0,pour 100 000 hab
+digestive,2023,Bourgogne-Franche-Comté,mortalite,21.0,pour 100 000 hab
+digestive,2023,Bretagne,prevalence,7.7,%
+digestive,2023,Bretagne,incidence,221.0,pour 100 000 hab
+digestive,2023,Bretagne,mortalite,21.0,pour 100 000 hab
+digestive,2023,Centre-Val de Loire,prevalence,7.8,%
+digestive,2023,Centre-Val de Loire,incidence,232.0,pour 100 000 hab
+digestive,2023,Centre-Val de Loire,mortalite,32.0,pour 100 000 hab
+digestive,2023,Corse,prevalence,7.7,%
+digestive,2023,Corse,incidence,231.0,pour 100 000 hab
+digestive,2023,Corse,mortalite,31.0,pour 100 000 hab
+digestive,2023,Grand Est,prevalence,7.7,%
+digestive,2023,Grand Est,incidence,231.0,pour 100 000 hab
+digestive,2023,Grand Est,mortalite,31.0,pour 100 000 hab
+digestive,2023,Hauts-de-France,prevalence,7.7,%
+digestive,2023,Hauts-de-France,incidence,231.0,pour 100 000 hab
+digestive,2023,Hauts-de-France,mortalite,31.0,pour 100 000 hab
+digestive,2023,Normandie,prevalence,8.5,%
+digestive,2023,Normandie,incidence,239.0,pour 100 000 hab
+digestive,2023,Normandie,mortalite,24.0,pour 100 000 hab
+digestive,2023,Nouvelle-Aquitaine,prevalence,7.9,%
+digestive,2023,Nouvelle-Aquitaine,incidence,233.0,pour 100 000 hab
+digestive,2023,Nouvelle-Aquitaine,mortalite,33.0,pour 100 000 hab
+digestive,2023,Occitanie,prevalence,8.4,%
+digestive,2023,Occitanie,incidence,228.0,pour 100 000 hab
+digestive,2023,Occitanie,mortalite,28.0,pour 100 000 hab
+digestive,2023,Pays de la Loire,prevalence,7.9,%
+digestive,2023,Pays de la Loire,incidence,243.0,pour 100 000 hab
+digestive,2023,Pays de la Loire,mortalite,28.0,pour 100 000 hab
+digestive,2023,Provence-Alpes-Côte d'Azur,prevalence,7.8,%
+digestive,2023,Provence-Alpes-Côte d'Azur,incidence,222.0,pour 100 000 hab
+digestive,2023,Provence-Alpes-Côte d'Azur,mortalite,22.0,pour 100 000 hab
+digestive,2023,Île-de-France,prevalence,7.8,%
+digestive,2023,Île-de-France,incidence,242.0,pour 100 000 hab
+digestive,2023,Île-de-France,mortalite,27.0,pour 100 000 hab
+obesite,2023,Auvergne-Rhône-Alpes,prevalence,13.5,%
+obesite,2023,Auvergne-Rhône-Alpes,incidence,287.0,pour 100 000 hab
+obesite,2023,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2023,Bourgogne-Franche-Comté,prevalence,13.9,%
+obesite,2023,Bourgogne-Franche-Comté,incidence,311.0,pour 100 000 hab
+obesite,2023,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2023,Bretagne,prevalence,13.6,%
+obesite,2023,Bretagne,incidence,276.0,pour 100 000 hab
+obesite,2023,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2023,Centre-Val de Loire,prevalence,14.1,%
+obesite,2023,Centre-Val de Loire,incidence,277.0,pour 100 000 hab
+obesite,2023,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2023,Corse,prevalence,14.0,%
+obesite,2023,Corse,incidence,276.0,pour 100 000 hab
+obesite,2023,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2023,Grand Est,prevalence,14.6,%
+obesite,2023,Grand Est,incidence,306.0,pour 100 000 hab
+obesite,2023,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2023,Hauts-de-France,prevalence,14.0,%
+obesite,2023,Hauts-de-France,incidence,296.0,pour 100 000 hab
+obesite,2023,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2023,Normandie,prevalence,13.6,%
+obesite,2023,Normandie,incidence,284.0,pour 100 000 hab
+obesite,2023,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2023,Nouvelle-Aquitaine,prevalence,13.6,%
+obesite,2023,Nouvelle-Aquitaine,incidence,288.0,pour 100 000 hab
+obesite,2023,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2023,Occitanie,prevalence,14.3,%
+obesite,2023,Occitanie,incidence,303.0,pour 100 000 hab
+obesite,2023,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2023,Pays de la Loire,prevalence,14.0,%
+obesite,2023,Pays de la Loire,incidence,288.0,pour 100 000 hab
+obesite,2023,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2023,Provence-Alpes-Côte d'Azur,prevalence,14.3,%
+obesite,2023,Provence-Alpes-Côte d'Azur,incidence,307.0,pour 100 000 hab
+obesite,2023,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2023,Île-de-France,prevalence,14.5,%
+obesite,2023,Île-de-France,incidence,277.0,pour 100 000 hab
+obesite,2023,Île-de-France,mortalite,9.0,pour 100 000 hab
+respiratoire_asthme,2023,Auvergne-Rhône-Alpes,prevalence,6.9,%
+respiratoire_asthme,2023,Auvergne-Rhône-Alpes,incidence,102.0,pour 100 000 hab
+respiratoire_asthme,2023,Auvergne-Rhône-Alpes,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2023,Bourgogne-Franche-Comté,prevalence,6.9,%
+respiratoire_asthme,2023,Bourgogne-Franche-Comté,incidence,106.0,pour 100 000 hab
+respiratoire_asthme,2023,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Bretagne,prevalence,6.6,%
+respiratoire_asthme,2023,Bretagne,incidence,91.0,pour 100 000 hab
+respiratoire_asthme,2023,Bretagne,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Centre-Val de Loire,prevalence,6.7,%
+respiratoire_asthme,2023,Centre-Val de Loire,incidence,102.0,pour 100 000 hab
+respiratoire_asthme,2023,Centre-Val de Loire,mortalite,2.0,pour 100 000 hab
+respiratoire_asthme,2023,Corse,prevalence,6.6,%
+respiratoire_asthme,2023,Corse,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2023,Corse,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Grand Est,prevalence,7.2,%
+respiratoire_asthme,2023,Grand Est,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2023,Grand Est,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Hauts-de-France,prevalence,7.0,%
+respiratoire_asthme,2023,Hauts-de-France,incidence,101.0,pour 100 000 hab
+respiratoire_asthme,2023,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Normandie,prevalence,6.6,%
+respiratoire_asthme,2023,Normandie,incidence,109.0,pour 100 000 hab
+respiratoire_asthme,2023,Normandie,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Nouvelle-Aquitaine,prevalence,7.0,%
+respiratoire_asthme,2023,Nouvelle-Aquitaine,incidence,103.0,pour 100 000 hab
+respiratoire_asthme,2023,Nouvelle-Aquitaine,mortalite,3.0,pour 100 000 hab
+respiratoire_asthme,2023,Occitanie,prevalence,6.9,%
+respiratoire_asthme,2023,Occitanie,incidence,98.0,pour 100 000 hab
+respiratoire_asthme,2023,Occitanie,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Pays de la Loire,prevalence,7.0,%
+respiratoire_asthme,2023,Pays de la Loire,incidence,113.0,pour 100 000 hab
+respiratoire_asthme,2023,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Provence-Alpes-Côte d'Azur,prevalence,6.5,%
+respiratoire_asthme,2023,Provence-Alpes-Côte d'Azur,incidence,92.0,pour 100 000 hab
+respiratoire_asthme,2023,Provence-Alpes-Côte d'Azur,mortalite,4.0,pour 100 000 hab
+respiratoire_asthme,2023,Île-de-France,prevalence,6.7,%
+respiratoire_asthme,2023,Île-de-France,incidence,112.0,pour 100 000 hab
+respiratoire_asthme,2023,Île-de-France,mortalite,3.0,pour 100 000 hab
+sida,2023,Auvergne-Rhône-Alpes,prevalence,0.47,%
+sida,2023,Auvergne-Rhône-Alpes,incidence,22.0,pour 100 000 hab
+sida,2023,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2023,Bourgogne-Franche-Comté,prevalence,0.46,%
+sida,2023,Bourgogne-Franche-Comté,incidence,26.0,pour 100 000 hab
+sida,2023,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2023,Bretagne,prevalence,0.46,%
+sida,2023,Bretagne,incidence,21.0,pour 100 000 hab
+sida,2023,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2023,Centre-Val de Loire,prevalence,0.47,%
+sida,2023,Centre-Val de Loire,incidence,22.0,pour 100 000 hab
+sida,2023,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2023,Corse,prevalence,0.46,%
+sida,2023,Corse,incidence,21.0,pour 100 000 hab
+sida,2023,Corse,mortalite,4.0,pour 100 000 hab
+sida,2023,Grand Est,prevalence,0.46,%
+sida,2023,Grand Est,incidence,21.0,pour 100 000 hab
+sida,2023,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2023,Hauts-de-France,prevalence,0.46,%
+sida,2023,Hauts-de-France,incidence,21.0,pour 100 000 hab
+sida,2023,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2023,Normandie,prevalence,0.49,%
+sida,2023,Normandie,incidence,29.0,pour 100 000 hab
+sida,2023,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2023,Nouvelle-Aquitaine,prevalence,0.48,%
+sida,2023,Nouvelle-Aquitaine,incidence,23.0,pour 100 000 hab
+sida,2023,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2023,Occitanie,prevalence,0.48,%
+sida,2023,Occitanie,incidence,28.0,pour 100 000 hab
+sida,2023,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2023,Pays de la Loire,prevalence,0.48,%
+sida,2023,Pays de la Loire,incidence,23.0,pour 100 000 hab
+sida,2023,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2023,Provence-Alpes-Côte d'Azur,prevalence,0.47,%
+sida,2023,Provence-Alpes-Côte d'Azur,incidence,22.0,pour 100 000 hab
+sida,2023,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2023,Île-de-France,prevalence,0.47,%
+sida,2023,Île-de-France,incidence,22.0,pour 100 000 hab
+sida,2023,Île-de-France,mortalite,5.0,pour 100 000 hab
+troubles_mentaux,2023,Auvergne-Rhône-Alpes,prevalence,16.0,%
+troubles_mentaux,2023,Auvergne-Rhône-Alpes,incidence,362.0,pour 100 000 hab
+troubles_mentaux,2023,Auvergne-Rhône-Alpes,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2023,Bourgogne-Franche-Comté,prevalence,16.4,%
+troubles_mentaux,2023,Bourgogne-Franche-Comté,incidence,336.0,pour 100 000 hab
+troubles_mentaux,2023,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2023,Bretagne,prevalence,16.1,%
+troubles_mentaux,2023,Bretagne,incidence,331.0,pour 100 000 hab
+troubles_mentaux,2023,Bretagne,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2023,Centre-Val de Loire,prevalence,16.6,%
+troubles_mentaux,2023,Centre-Val de Loire,incidence,362.0,pour 100 000 hab
+troubles_mentaux,2023,Centre-Val de Loire,mortalite,14.0,pour 100 000 hab
+troubles_mentaux,2023,Corse,prevalence,16.5,%
+troubles_mentaux,2023,Corse,incidence,371.0,pour 100 000 hab
+troubles_mentaux,2023,Corse,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2023,Grand Est,prevalence,17.1,%
+troubles_mentaux,2023,Grand Est,incidence,331.0,pour 100 000 hab
+troubles_mentaux,2023,Grand Est,mortalite,19.0,pour 100 000 hab
+troubles_mentaux,2023,Hauts-de-France,prevalence,16.5,%
+troubles_mentaux,2023,Hauts-de-France,incidence,341.0,pour 100 000 hab
+troubles_mentaux,2023,Hauts-de-France,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2023,Normandie,prevalence,16.1,%
+troubles_mentaux,2023,Normandie,incidence,379.0,pour 100 000 hab
+troubles_mentaux,2023,Normandie,mortalite,13.0,pour 100 000 hab
+troubles_mentaux,2023,Nouvelle-Aquitaine,prevalence,16.1,%
+troubles_mentaux,2023,Nouvelle-Aquitaine,incidence,373.0,pour 100 000 hab
+troubles_mentaux,2023,Nouvelle-Aquitaine,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2023,Occitanie,prevalence,16.8,%
+troubles_mentaux,2023,Occitanie,incidence,338.0,pour 100 000 hab
+troubles_mentaux,2023,Occitanie,mortalite,16.0,pour 100 000 hab
+troubles_mentaux,2023,Pays de la Loire,prevalence,16.5,%
+troubles_mentaux,2023,Pays de la Loire,incidence,333.0,pour 100 000 hab
+troubles_mentaux,2023,Pays de la Loire,mortalite,17.0,pour 100 000 hab
+troubles_mentaux,2023,Provence-Alpes-Côte d'Azur,prevalence,16.8,%
+troubles_mentaux,2023,Provence-Alpes-Côte d'Azur,incidence,332.0,pour 100 000 hab
+troubles_mentaux,2023,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_mentaux,2023,Île-de-France,prevalence,17.0,%
+troubles_mentaux,2023,Île-de-France,incidence,372.0,pour 100 000 hab
+troubles_mentaux,2023,Île-de-France,mortalite,14.0,pour 100 000 hab
+troubles_neurologiques,2023,Auvergne-Rhône-Alpes,prevalence,4.65,%
+troubles_neurologiques,2023,Auvergne-Rhône-Alpes,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2023,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2023,Bourgogne-Franche-Comté,prevalence,4.65,%
+troubles_neurologiques,2023,Bourgogne-Franche-Comté,incidence,81.0,pour 100 000 hab
+troubles_neurologiques,2023,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2023,Bretagne,prevalence,4.35,%
+troubles_neurologiques,2023,Bretagne,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2023,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2023,Centre-Val de Loire,prevalence,4.45,%
+troubles_neurologiques,2023,Centre-Val de Loire,incidence,67.0,pour 100 000 hab
+troubles_neurologiques,2023,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2023,Corse,prevalence,4.35,%
+troubles_neurologiques,2023,Corse,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2023,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2023,Grand Est,prevalence,4.95,%
+troubles_neurologiques,2023,Grand Est,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2023,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2023,Hauts-de-France,prevalence,4.75,%
+troubles_neurologiques,2023,Hauts-de-France,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2023,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2023,Normandie,prevalence,4.35,%
+troubles_neurologiques,2023,Normandie,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2023,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2023,Nouvelle-Aquitaine,prevalence,4.75,%
+troubles_neurologiques,2023,Nouvelle-Aquitaine,incidence,78.0,pour 100 000 hab
+troubles_neurologiques,2023,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2023,Occitanie,prevalence,4.65,%
+troubles_neurologiques,2023,Occitanie,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2023,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2023,Pays de la Loire,prevalence,4.75,%
+troubles_neurologiques,2023,Pays de la Loire,incidence,78.0,pour 100 000 hab
+troubles_neurologiques,2023,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2023,Provence-Alpes-Côte d'Azur,prevalence,4.25,%
+troubles_neurologiques,2023,Provence-Alpes-Côte d'Azur,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2023,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2023,Île-de-France,prevalence,4.45,%
+troubles_neurologiques,2023,Île-de-France,incidence,67.0,pour 100 000 hab
+troubles_neurologiques,2023,Île-de-France,mortalite,12.0,pour 100 000 hab

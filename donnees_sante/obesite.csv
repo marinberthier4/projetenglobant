@@ -1,0 +1,235 @@
+﻿maladie,annee,region,indicateur,valeur,unite
+obesite,2018,Auvergne-Rhône-Alpes,prevalence,12.0,%
+obesite,2018,Auvergne-Rhône-Alpes,incidence,262.0,pour 100 000 hab
+obesite,2018,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2018,Bourgogne-Franche-Comté,prevalence,12.4,%
+obesite,2018,Bourgogne-Franche-Comté,incidence,286.0,pour 100 000 hab
+obesite,2018,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2018,Bretagne,prevalence,12.1,%
+obesite,2018,Bretagne,incidence,251.0,pour 100 000 hab
+obesite,2018,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2018,Centre-Val de Loire,prevalence,12.6,%
+obesite,2018,Centre-Val de Loire,incidence,252.0,pour 100 000 hab
+obesite,2018,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2018,Corse,prevalence,12.5,%
+obesite,2018,Corse,incidence,251.0,pour 100 000 hab
+obesite,2018,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2018,Grand Est,prevalence,13.1,%
+obesite,2018,Grand Est,incidence,281.0,pour 100 000 hab
+obesite,2018,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2018,Hauts-de-France,prevalence,12.5,%
+obesite,2018,Hauts-de-France,incidence,271.0,pour 100 000 hab
+obesite,2018,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2018,Normandie,prevalence,12.1,%
+obesite,2018,Normandie,incidence,259.0,pour 100 000 hab
+obesite,2018,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2018,Nouvelle-Aquitaine,prevalence,12.1,%
+obesite,2018,Nouvelle-Aquitaine,incidence,263.0,pour 100 000 hab
+obesite,2018,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2018,Occitanie,prevalence,12.8,%
+obesite,2018,Occitanie,incidence,278.0,pour 100 000 hab
+obesite,2018,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2018,Pays de la Loire,prevalence,12.5,%
+obesite,2018,Pays de la Loire,incidence,263.0,pour 100 000 hab
+obesite,2018,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2018,Provence-Alpes-Côte d'Azur,prevalence,12.8,%
+obesite,2018,Provence-Alpes-Côte d'Azur,incidence,282.0,pour 100 000 hab
+obesite,2018,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2018,Île-de-France,prevalence,13.0,%
+obesite,2018,Île-de-France,incidence,252.0,pour 100 000 hab
+obesite,2018,Île-de-France,mortalite,9.0,pour 100 000 hab
+obesite,2019,Auvergne-Rhône-Alpes,prevalence,12.3,%
+obesite,2019,Auvergne-Rhône-Alpes,incidence,267.0,pour 100 000 hab
+obesite,2019,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2019,Bourgogne-Franche-Comté,prevalence,12.7,%
+obesite,2019,Bourgogne-Franche-Comté,incidence,291.0,pour 100 000 hab
+obesite,2019,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2019,Bretagne,prevalence,12.4,%
+obesite,2019,Bretagne,incidence,256.0,pour 100 000 hab
+obesite,2019,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2019,Centre-Val de Loire,prevalence,12.9,%
+obesite,2019,Centre-Val de Loire,incidence,257.0,pour 100 000 hab
+obesite,2019,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2019,Corse,prevalence,12.8,%
+obesite,2019,Corse,incidence,256.0,pour 100 000 hab
+obesite,2019,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2019,Grand Est,prevalence,13.4,%
+obesite,2019,Grand Est,incidence,286.0,pour 100 000 hab
+obesite,2019,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2019,Hauts-de-France,prevalence,12.8,%
+obesite,2019,Hauts-de-France,incidence,276.0,pour 100 000 hab
+obesite,2019,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2019,Normandie,prevalence,12.4,%
+obesite,2019,Normandie,incidence,264.0,pour 100 000 hab
+obesite,2019,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2019,Nouvelle-Aquitaine,prevalence,12.4,%
+obesite,2019,Nouvelle-Aquitaine,incidence,268.0,pour 100 000 hab
+obesite,2019,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2019,Occitanie,prevalence,13.1,%
+obesite,2019,Occitanie,incidence,283.0,pour 100 000 hab
+obesite,2019,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2019,Pays de la Loire,prevalence,12.8,%
+obesite,2019,Pays de la Loire,incidence,268.0,pour 100 000 hab
+obesite,2019,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2019,Provence-Alpes-Côte d'Azur,prevalence,13.1,%
+obesite,2019,Provence-Alpes-Côte d'Azur,incidence,287.0,pour 100 000 hab
+obesite,2019,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2019,Île-de-France,prevalence,13.3,%
+obesite,2019,Île-de-France,incidence,257.0,pour 100 000 hab
+obesite,2019,Île-de-France,mortalite,9.0,pour 100 000 hab
+obesite,2020,Auvergne-Rhône-Alpes,prevalence,12.6,%
+obesite,2020,Auvergne-Rhône-Alpes,incidence,272.0,pour 100 000 hab
+obesite,2020,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2020,Bourgogne-Franche-Comté,prevalence,13.0,%
+obesite,2020,Bourgogne-Franche-Comté,incidence,296.0,pour 100 000 hab
+obesite,2020,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2020,Bretagne,prevalence,12.7,%
+obesite,2020,Bretagne,incidence,261.0,pour 100 000 hab
+obesite,2020,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2020,Centre-Val de Loire,prevalence,13.2,%
+obesite,2020,Centre-Val de Loire,incidence,262.0,pour 100 000 hab
+obesite,2020,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2020,Corse,prevalence,13.1,%
+obesite,2020,Corse,incidence,261.0,pour 100 000 hab
+obesite,2020,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2020,Grand Est,prevalence,13.7,%
+obesite,2020,Grand Est,incidence,291.0,pour 100 000 hab
+obesite,2020,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2020,Hauts-de-France,prevalence,13.1,%
+obesite,2020,Hauts-de-France,incidence,281.0,pour 100 000 hab
+obesite,2020,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2020,Normandie,prevalence,12.7,%
+obesite,2020,Normandie,incidence,269.0,pour 100 000 hab
+obesite,2020,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2020,Nouvelle-Aquitaine,prevalence,12.7,%
+obesite,2020,Nouvelle-Aquitaine,incidence,273.0,pour 100 000 hab
+obesite,2020,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2020,Occitanie,prevalence,13.4,%
+obesite,2020,Occitanie,incidence,288.0,pour 100 000 hab
+obesite,2020,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2020,Pays de la Loire,prevalence,13.1,%
+obesite,2020,Pays de la Loire,incidence,273.0,pour 100 000 hab
+obesite,2020,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2020,Provence-Alpes-Côte d'Azur,prevalence,13.4,%
+obesite,2020,Provence-Alpes-Côte d'Azur,incidence,292.0,pour 100 000 hab
+obesite,2020,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2020,Île-de-France,prevalence,13.6,%
+obesite,2020,Île-de-France,incidence,262.0,pour 100 000 hab
+obesite,2020,Île-de-France,mortalite,9.0,pour 100 000 hab
+obesite,2021,Auvergne-Rhône-Alpes,prevalence,12.9,%
+obesite,2021,Auvergne-Rhône-Alpes,incidence,277.0,pour 100 000 hab
+obesite,2021,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2021,Bourgogne-Franche-Comté,prevalence,13.3,%
+obesite,2021,Bourgogne-Franche-Comté,incidence,301.0,pour 100 000 hab
+obesite,2021,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2021,Bretagne,prevalence,13.0,%
+obesite,2021,Bretagne,incidence,266.0,pour 100 000 hab
+obesite,2021,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2021,Centre-Val de Loire,prevalence,13.5,%
+obesite,2021,Centre-Val de Loire,incidence,267.0,pour 100 000 hab
+obesite,2021,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2021,Corse,prevalence,13.4,%
+obesite,2021,Corse,incidence,266.0,pour 100 000 hab
+obesite,2021,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2021,Grand Est,prevalence,14.0,%
+obesite,2021,Grand Est,incidence,296.0,pour 100 000 hab
+obesite,2021,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2021,Hauts-de-France,prevalence,13.4,%
+obesite,2021,Hauts-de-France,incidence,286.0,pour 100 000 hab
+obesite,2021,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2021,Normandie,prevalence,13.0,%
+obesite,2021,Normandie,incidence,274.0,pour 100 000 hab
+obesite,2021,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2021,Nouvelle-Aquitaine,prevalence,13.0,%
+obesite,2021,Nouvelle-Aquitaine,incidence,278.0,pour 100 000 hab
+obesite,2021,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2021,Occitanie,prevalence,13.7,%
+obesite,2021,Occitanie,incidence,293.0,pour 100 000 hab
+obesite,2021,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2021,Pays de la Loire,prevalence,13.4,%
+obesite,2021,Pays de la Loire,incidence,278.0,pour 100 000 hab
+obesite,2021,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2021,Provence-Alpes-Côte d'Azur,prevalence,13.7,%
+obesite,2021,Provence-Alpes-Côte d'Azur,incidence,297.0,pour 100 000 hab
+obesite,2021,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2021,Île-de-France,prevalence,13.9,%
+obesite,2021,Île-de-France,incidence,267.0,pour 100 000 hab
+obesite,2021,Île-de-France,mortalite,9.0,pour 100 000 hab
+obesite,2022,Auvergne-Rhône-Alpes,prevalence,13.2,%
+obesite,2022,Auvergne-Rhône-Alpes,incidence,282.0,pour 100 000 hab
+obesite,2022,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2022,Bourgogne-Franche-Comté,prevalence,13.6,%
+obesite,2022,Bourgogne-Franche-Comté,incidence,306.0,pour 100 000 hab
+obesite,2022,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2022,Bretagne,prevalence,13.3,%
+obesite,2022,Bretagne,incidence,271.0,pour 100 000 hab
+obesite,2022,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2022,Centre-Val de Loire,prevalence,13.8,%
+obesite,2022,Centre-Val de Loire,incidence,272.0,pour 100 000 hab
+obesite,2022,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2022,Corse,prevalence,13.7,%
+obesite,2022,Corse,incidence,271.0,pour 100 000 hab
+obesite,2022,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2022,Grand Est,prevalence,14.3,%
+obesite,2022,Grand Est,incidence,301.0,pour 100 000 hab
+obesite,2022,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2022,Hauts-de-France,prevalence,13.7,%
+obesite,2022,Hauts-de-France,incidence,291.0,pour 100 000 hab
+obesite,2022,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2022,Normandie,prevalence,13.3,%
+obesite,2022,Normandie,incidence,279.0,pour 100 000 hab
+obesite,2022,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2022,Nouvelle-Aquitaine,prevalence,13.3,%
+obesite,2022,Nouvelle-Aquitaine,incidence,283.0,pour 100 000 hab
+obesite,2022,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2022,Occitanie,prevalence,14.0,%
+obesite,2022,Occitanie,incidence,298.0,pour 100 000 hab
+obesite,2022,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2022,Pays de la Loire,prevalence,13.7,%
+obesite,2022,Pays de la Loire,incidence,283.0,pour 100 000 hab
+obesite,2022,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2022,Provence-Alpes-Côte d'Azur,prevalence,14.0,%
+obesite,2022,Provence-Alpes-Côte d'Azur,incidence,302.0,pour 100 000 hab
+obesite,2022,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2022,Île-de-France,prevalence,14.2,%
+obesite,2022,Île-de-France,incidence,272.0,pour 100 000 hab
+obesite,2022,Île-de-France,mortalite,9.0,pour 100 000 hab
+obesite,2023,Auvergne-Rhône-Alpes,prevalence,13.5,%
+obesite,2023,Auvergne-Rhône-Alpes,incidence,287.0,pour 100 000 hab
+obesite,2023,Auvergne-Rhône-Alpes,mortalite,5.0,pour 100 000 hab
+obesite,2023,Bourgogne-Franche-Comté,prevalence,13.9,%
+obesite,2023,Bourgogne-Franche-Comté,incidence,311.0,pour 100 000 hab
+obesite,2023,Bourgogne-Franche-Comté,mortalite,9.0,pour 100 000 hab
+obesite,2023,Bretagne,prevalence,13.6,%
+obesite,2023,Bretagne,incidence,276.0,pour 100 000 hab
+obesite,2023,Bretagne,mortalite,6.0,pour 100 000 hab
+obesite,2023,Centre-Val de Loire,prevalence,14.1,%
+obesite,2023,Centre-Val de Loire,incidence,277.0,pour 100 000 hab
+obesite,2023,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+obesite,2023,Corse,prevalence,14.0,%
+obesite,2023,Corse,incidence,276.0,pour 100 000 hab
+obesite,2023,Corse,mortalite,10.0,pour 100 000 hab
+obesite,2023,Grand Est,prevalence,14.6,%
+obesite,2023,Grand Est,incidence,306.0,pour 100 000 hab
+obesite,2023,Grand Est,mortalite,10.0,pour 100 000 hab
+obesite,2023,Hauts-de-France,prevalence,14.0,%
+obesite,2023,Hauts-de-France,incidence,296.0,pour 100 000 hab
+obesite,2023,Hauts-de-France,mortalite,10.0,pour 100 000 hab
+obesite,2023,Normandie,prevalence,13.6,%
+obesite,2023,Normandie,incidence,284.0,pour 100 000 hab
+obesite,2023,Normandie,mortalite,6.0,pour 100 000 hab
+obesite,2023,Nouvelle-Aquitaine,prevalence,13.6,%
+obesite,2023,Nouvelle-Aquitaine,incidence,288.0,pour 100 000 hab
+obesite,2023,Nouvelle-Aquitaine,mortalite,6.0,pour 100 000 hab
+obesite,2023,Occitanie,prevalence,14.3,%
+obesite,2023,Occitanie,incidence,303.0,pour 100 000 hab
+obesite,2023,Occitanie,mortalite,7.0,pour 100 000 hab
+obesite,2023,Pays de la Loire,prevalence,14.0,%
+obesite,2023,Pays de la Loire,incidence,288.0,pour 100 000 hab
+obesite,2023,Pays de la Loire,mortalite,10.0,pour 100 000 hab
+obesite,2023,Provence-Alpes-Côte d'Azur,prevalence,14.3,%
+obesite,2023,Provence-Alpes-Côte d'Azur,incidence,307.0,pour 100 000 hab
+obesite,2023,Provence-Alpes-Côte d'Azur,mortalite,7.0,pour 100 000 hab
+obesite,2023,Île-de-France,prevalence,14.5,%
+obesite,2023,Île-de-France,incidence,277.0,pour 100 000 hab
+obesite,2023,Île-de-France,mortalite,9.0,pour 100 000 hab

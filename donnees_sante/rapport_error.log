@@ -1,0 +1,53 @@
+[ERROR] fig.to_image failed for figure 4: Error 525: No valid mapbox style found, please set `mapbox.style` to one of:
+carto-darkmatter, carto-positron, open-street-map, stamen-terrain, stamen-toner, stamen-watercolor, white-bg
+or register a Mapbox access token to use a Mapbox-served style.
+Traceback (most recent call last):
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\visualisation.py", line 569, in creer_rapport_pdf
+    img_bytes = fig.to_image(format='png', engine='kaleido')
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\.venv\Lib\site-packages\plotly\basedatatypes.py", line 3801, in to_image
+    return pio.to_image(self, *args, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\.venv\Lib\site-packages\plotly\io\_kaleido.py", line 398, in to_image
+    img_bytes = kaleido.calc_fig_sync(
+        fig_dict,
+    ...<7 lines>...
+        kopts=kopts,
+    )
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\.venv\Lib\site-packages\kaleido\__init__.py", line 171, in calc_fig_sync
+    return _sync_server.oneshot_async_run(calc_fig, args=args, kwargs=kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\.venv\Lib\site-packages\kaleido\_sync_server.py", line 131, in oneshot_async_run
+    raise res
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\.venv\Lib\site-packages\kaleido\_sync_server.py", line 122, in run
+    q.put(asyncio.run(func(*args, **kwargs)))
+          ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\.venv\Lib\site-packages\kaleido\__init__.py", line 102, in calc_fig
+    return await k.calc_fig(
+           ^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\.venv\Lib\site-packages\kaleido\kaleido.py", line 412, in calc_fig
+    data = await asyncio.wait_for(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "c:\Users\mjjbe\OneDrive\Bureau\ECE\B3\python\projetagrégation\.venv\Lib\site-packages\kaleido\_kaleido_tab.py", line 343, in _calc_fig
+    raise img
+kaleido._kaleido_tab.KaleidoError: Error 525: No valid mapbox style found, please set `mapbox.style` to one of:
+carto-darkmatter, carto-positron, open-street-map, stamen-terrain, stamen-toner, stamen-watercolor, white-bg
+or register a Mapbox access token to use a Mapbox-served style.
+

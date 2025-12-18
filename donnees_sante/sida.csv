@@ -1,0 +1,235 @@
+﻿maladie,annee,region,indicateur,valeur,unite
+sida,2018,Auvergne-Rhône-Alpes,prevalence,0.42,%
+sida,2018,Auvergne-Rhône-Alpes,incidence,17.0,pour 100 000 hab
+sida,2018,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2018,Bourgogne-Franche-Comté,prevalence,0.41,%
+sida,2018,Bourgogne-Franche-Comté,incidence,21.0,pour 100 000 hab
+sida,2018,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2018,Bretagne,prevalence,0.41,%
+sida,2018,Bretagne,incidence,16.0,pour 100 000 hab
+sida,2018,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2018,Centre-Val de Loire,prevalence,0.42,%
+sida,2018,Centre-Val de Loire,incidence,17.0,pour 100 000 hab
+sida,2018,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2018,Corse,prevalence,0.41,%
+sida,2018,Corse,incidence,16.0,pour 100 000 hab
+sida,2018,Corse,mortalite,4.0,pour 100 000 hab
+sida,2018,Grand Est,prevalence,0.41,%
+sida,2018,Grand Est,incidence,16.0,pour 100 000 hab
+sida,2018,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2018,Hauts-de-France,prevalence,0.41,%
+sida,2018,Hauts-de-France,incidence,16.0,pour 100 000 hab
+sida,2018,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2018,Normandie,prevalence,0.44,%
+sida,2018,Normandie,incidence,24.0,pour 100 000 hab
+sida,2018,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2018,Nouvelle-Aquitaine,prevalence,0.43,%
+sida,2018,Nouvelle-Aquitaine,incidence,18.0,pour 100 000 hab
+sida,2018,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2018,Occitanie,prevalence,0.43,%
+sida,2018,Occitanie,incidence,23.0,pour 100 000 hab
+sida,2018,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2018,Pays de la Loire,prevalence,0.43,%
+sida,2018,Pays de la Loire,incidence,18.0,pour 100 000 hab
+sida,2018,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2018,Provence-Alpes-Côte d'Azur,prevalence,0.42,%
+sida,2018,Provence-Alpes-Côte d'Azur,incidence,17.0,pour 100 000 hab
+sida,2018,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2018,Île-de-France,prevalence,0.42,%
+sida,2018,Île-de-France,incidence,17.0,pour 100 000 hab
+sida,2018,Île-de-France,mortalite,5.0,pour 100 000 hab
+sida,2019,Auvergne-Rhône-Alpes,prevalence,0.43,%
+sida,2019,Auvergne-Rhône-Alpes,incidence,18.0,pour 100 000 hab
+sida,2019,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2019,Bourgogne-Franche-Comté,prevalence,0.42,%
+sida,2019,Bourgogne-Franche-Comté,incidence,22.0,pour 100 000 hab
+sida,2019,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2019,Bretagne,prevalence,0.42,%
+sida,2019,Bretagne,incidence,17.0,pour 100 000 hab
+sida,2019,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2019,Centre-Val de Loire,prevalence,0.43,%
+sida,2019,Centre-Val de Loire,incidence,18.0,pour 100 000 hab
+sida,2019,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2019,Corse,prevalence,0.42,%
+sida,2019,Corse,incidence,17.0,pour 100 000 hab
+sida,2019,Corse,mortalite,4.0,pour 100 000 hab
+sida,2019,Grand Est,prevalence,0.42,%
+sida,2019,Grand Est,incidence,17.0,pour 100 000 hab
+sida,2019,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2019,Hauts-de-France,prevalence,0.42,%
+sida,2019,Hauts-de-France,incidence,17.0,pour 100 000 hab
+sida,2019,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2019,Normandie,prevalence,0.45,%
+sida,2019,Normandie,incidence,25.0,pour 100 000 hab
+sida,2019,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2019,Nouvelle-Aquitaine,prevalence,0.44,%
+sida,2019,Nouvelle-Aquitaine,incidence,19.0,pour 100 000 hab
+sida,2019,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2019,Occitanie,prevalence,0.44,%
+sida,2019,Occitanie,incidence,24.0,pour 100 000 hab
+sida,2019,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2019,Pays de la Loire,prevalence,0.44,%
+sida,2019,Pays de la Loire,incidence,19.0,pour 100 000 hab
+sida,2019,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2019,Provence-Alpes-Côte d'Azur,prevalence,0.43,%
+sida,2019,Provence-Alpes-Côte d'Azur,incidence,18.0,pour 100 000 hab
+sida,2019,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2019,Île-de-France,prevalence,0.43,%
+sida,2019,Île-de-France,incidence,18.0,pour 100 000 hab
+sida,2019,Île-de-France,mortalite,5.0,pour 100 000 hab
+sida,2020,Auvergne-Rhône-Alpes,prevalence,0.44,%
+sida,2020,Auvergne-Rhône-Alpes,incidence,19.0,pour 100 000 hab
+sida,2020,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2020,Bourgogne-Franche-Comté,prevalence,0.43,%
+sida,2020,Bourgogne-Franche-Comté,incidence,23.0,pour 100 000 hab
+sida,2020,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2020,Bretagne,prevalence,0.43,%
+sida,2020,Bretagne,incidence,18.0,pour 100 000 hab
+sida,2020,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2020,Centre-Val de Loire,prevalence,0.44,%
+sida,2020,Centre-Val de Loire,incidence,19.0,pour 100 000 hab
+sida,2020,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2020,Corse,prevalence,0.43,%
+sida,2020,Corse,incidence,18.0,pour 100 000 hab
+sida,2020,Corse,mortalite,4.0,pour 100 000 hab
+sida,2020,Grand Est,prevalence,0.43,%
+sida,2020,Grand Est,incidence,18.0,pour 100 000 hab
+sida,2020,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2020,Hauts-de-France,prevalence,0.43,%
+sida,2020,Hauts-de-France,incidence,18.0,pour 100 000 hab
+sida,2020,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2020,Normandie,prevalence,0.46,%
+sida,2020,Normandie,incidence,26.0,pour 100 000 hab
+sida,2020,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2020,Nouvelle-Aquitaine,prevalence,0.45,%
+sida,2020,Nouvelle-Aquitaine,incidence,20.0,pour 100 000 hab
+sida,2020,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2020,Occitanie,prevalence,0.45,%
+sida,2020,Occitanie,incidence,25.0,pour 100 000 hab
+sida,2020,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2020,Pays de la Loire,prevalence,0.45,%
+sida,2020,Pays de la Loire,incidence,20.0,pour 100 000 hab
+sida,2020,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2020,Provence-Alpes-Côte d'Azur,prevalence,0.44,%
+sida,2020,Provence-Alpes-Côte d'Azur,incidence,19.0,pour 100 000 hab
+sida,2020,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2020,Île-de-France,prevalence,0.44,%
+sida,2020,Île-de-France,incidence,19.0,pour 100 000 hab
+sida,2020,Île-de-France,mortalite,5.0,pour 100 000 hab
+sida,2021,Auvergne-Rhône-Alpes,prevalence,0.45,%
+sida,2021,Auvergne-Rhône-Alpes,incidence,20.0,pour 100 000 hab
+sida,2021,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2021,Bourgogne-Franche-Comté,prevalence,0.44,%
+sida,2021,Bourgogne-Franche-Comté,incidence,24.0,pour 100 000 hab
+sida,2021,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2021,Bretagne,prevalence,0.44,%
+sida,2021,Bretagne,incidence,19.0,pour 100 000 hab
+sida,2021,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2021,Centre-Val de Loire,prevalence,0.45,%
+sida,2021,Centre-Val de Loire,incidence,20.0,pour 100 000 hab
+sida,2021,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2021,Corse,prevalence,0.44,%
+sida,2021,Corse,incidence,19.0,pour 100 000 hab
+sida,2021,Corse,mortalite,4.0,pour 100 000 hab
+sida,2021,Grand Est,prevalence,0.44,%
+sida,2021,Grand Est,incidence,19.0,pour 100 000 hab
+sida,2021,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2021,Hauts-de-France,prevalence,0.44,%
+sida,2021,Hauts-de-France,incidence,19.0,pour 100 000 hab
+sida,2021,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2021,Normandie,prevalence,0.47,%
+sida,2021,Normandie,incidence,27.0,pour 100 000 hab
+sida,2021,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2021,Nouvelle-Aquitaine,prevalence,0.46,%
+sida,2021,Nouvelle-Aquitaine,incidence,21.0,pour 100 000 hab
+sida,2021,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2021,Occitanie,prevalence,0.46,%
+sida,2021,Occitanie,incidence,26.0,pour 100 000 hab
+sida,2021,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2021,Pays de la Loire,prevalence,0.46,%
+sida,2021,Pays de la Loire,incidence,21.0,pour 100 000 hab
+sida,2021,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2021,Provence-Alpes-Côte d'Azur,prevalence,0.45,%
+sida,2021,Provence-Alpes-Côte d'Azur,incidence,20.0,pour 100 000 hab
+sida,2021,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2021,Île-de-France,prevalence,0.45,%
+sida,2021,Île-de-France,incidence,20.0,pour 100 000 hab
+sida,2021,Île-de-France,mortalite,5.0,pour 100 000 hab
+sida,2022,Auvergne-Rhône-Alpes,prevalence,0.46,%
+sida,2022,Auvergne-Rhône-Alpes,incidence,21.0,pour 100 000 hab
+sida,2022,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2022,Bourgogne-Franche-Comté,prevalence,0.45,%
+sida,2022,Bourgogne-Franche-Comté,incidence,25.0,pour 100 000 hab
+sida,2022,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2022,Bretagne,prevalence,0.45,%
+sida,2022,Bretagne,incidence,20.0,pour 100 000 hab
+sida,2022,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2022,Centre-Val de Loire,prevalence,0.46,%
+sida,2022,Centre-Val de Loire,incidence,21.0,pour 100 000 hab
+sida,2022,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2022,Corse,prevalence,0.45,%
+sida,2022,Corse,incidence,20.0,pour 100 000 hab
+sida,2022,Corse,mortalite,4.0,pour 100 000 hab
+sida,2022,Grand Est,prevalence,0.45,%
+sida,2022,Grand Est,incidence,20.0,pour 100 000 hab
+sida,2022,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2022,Hauts-de-France,prevalence,0.45,%
+sida,2022,Hauts-de-France,incidence,20.0,pour 100 000 hab
+sida,2022,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2022,Normandie,prevalence,0.48,%
+sida,2022,Normandie,incidence,28.0,pour 100 000 hab
+sida,2022,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2022,Nouvelle-Aquitaine,prevalence,0.47,%
+sida,2022,Nouvelle-Aquitaine,incidence,22.0,pour 100 000 hab
+sida,2022,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2022,Occitanie,prevalence,0.47,%
+sida,2022,Occitanie,incidence,27.0,pour 100 000 hab
+sida,2022,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2022,Pays de la Loire,prevalence,0.47,%
+sida,2022,Pays de la Loire,incidence,22.0,pour 100 000 hab
+sida,2022,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2022,Provence-Alpes-Côte d'Azur,prevalence,0.46,%
+sida,2022,Provence-Alpes-Côte d'Azur,incidence,21.0,pour 100 000 hab
+sida,2022,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2022,Île-de-France,prevalence,0.46,%
+sida,2022,Île-de-France,incidence,21.0,pour 100 000 hab
+sida,2022,Île-de-France,mortalite,5.0,pour 100 000 hab
+sida,2023,Auvergne-Rhône-Alpes,prevalence,0.47,%
+sida,2023,Auvergne-Rhône-Alpes,incidence,22.0,pour 100 000 hab
+sida,2023,Auvergne-Rhône-Alpes,mortalite,3.0,pour 100 000 hab
+sida,2023,Bourgogne-Franche-Comté,prevalence,0.46,%
+sida,2023,Bourgogne-Franche-Comté,incidence,26.0,pour 100 000 hab
+sida,2023,Bourgogne-Franche-Comté,mortalite,3.0,pour 100 000 hab
+sida,2023,Bretagne,prevalence,0.46,%
+sida,2023,Bretagne,incidence,21.0,pour 100 000 hab
+sida,2023,Bretagne,mortalite,4.0,pour 100 000 hab
+sida,2023,Centre-Val de Loire,prevalence,0.47,%
+sida,2023,Centre-Val de Loire,incidence,22.0,pour 100 000 hab
+sida,2023,Centre-Val de Loire,mortalite,5.0,pour 100 000 hab
+sida,2023,Corse,prevalence,0.46,%
+sida,2023,Corse,incidence,21.0,pour 100 000 hab
+sida,2023,Corse,mortalite,4.0,pour 100 000 hab
+sida,2023,Grand Est,prevalence,0.46,%
+sida,2023,Grand Est,incidence,21.0,pour 100 000 hab
+sida,2023,Grand Est,mortalite,6.0,pour 100 000 hab
+sida,2023,Hauts-de-France,prevalence,0.46,%
+sida,2023,Hauts-de-France,incidence,21.0,pour 100 000 hab
+sida,2023,Hauts-de-France,mortalite,4.0,pour 100 000 hab
+sida,2023,Normandie,prevalence,0.49,%
+sida,2023,Normandie,incidence,29.0,pour 100 000 hab
+sida,2023,Normandie,mortalite,4.0,pour 100 000 hab
+sida,2023,Nouvelle-Aquitaine,prevalence,0.48,%
+sida,2023,Nouvelle-Aquitaine,incidence,23.0,pour 100 000 hab
+sida,2023,Nouvelle-Aquitaine,mortalite,4.0,pour 100 000 hab
+sida,2023,Occitanie,prevalence,0.48,%
+sida,2023,Occitanie,incidence,28.0,pour 100 000 hab
+sida,2023,Occitanie,mortalite,3.0,pour 100 000 hab
+sida,2023,Pays de la Loire,prevalence,0.48,%
+sida,2023,Pays de la Loire,incidence,23.0,pour 100 000 hab
+sida,2023,Pays de la Loire,mortalite,4.0,pour 100 000 hab
+sida,2023,Provence-Alpes-Côte d'Azur,prevalence,0.47,%
+sida,2023,Provence-Alpes-Côte d'Azur,incidence,22.0,pour 100 000 hab
+sida,2023,Provence-Alpes-Côte d'Azur,mortalite,3.0,pour 100 000 hab
+sida,2023,Île-de-France,prevalence,0.47,%
+sida,2023,Île-de-France,incidence,22.0,pour 100 000 hab
+sida,2023,Île-de-France,mortalite,5.0,pour 100 000 hab

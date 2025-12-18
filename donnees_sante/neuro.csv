@@ -1,0 +1,235 @@
+﻿maladie,annee,region,indicateur,valeur,unite
+troubles_neurologiques,2018,Auvergne-Rhône-Alpes,prevalence,4.4,%
+troubles_neurologiques,2018,Auvergne-Rhône-Alpes,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2018,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2018,Bourgogne-Franche-Comté,prevalence,4.4,%
+troubles_neurologiques,2018,Bourgogne-Franche-Comté,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2018,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2018,Bretagne,prevalence,4.1,%
+troubles_neurologiques,2018,Bretagne,incidence,61.0,pour 100 000 hab
+troubles_neurologiques,2018,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2018,Centre-Val de Loire,prevalence,4.2,%
+troubles_neurologiques,2018,Centre-Val de Loire,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2018,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2018,Corse,prevalence,4.1,%
+troubles_neurologiques,2018,Corse,incidence,61.0,pour 100 000 hab
+troubles_neurologiques,2018,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2018,Grand Est,prevalence,4.7,%
+troubles_neurologiques,2018,Grand Est,incidence,71.0,pour 100 000 hab
+troubles_neurologiques,2018,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2018,Hauts-de-France,prevalence,4.5,%
+troubles_neurologiques,2018,Hauts-de-France,incidence,61.0,pour 100 000 hab
+troubles_neurologiques,2018,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2018,Normandie,prevalence,4.1,%
+troubles_neurologiques,2018,Normandie,incidence,69.0,pour 100 000 hab
+troubles_neurologiques,2018,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2018,Nouvelle-Aquitaine,prevalence,4.5,%
+troubles_neurologiques,2018,Nouvelle-Aquitaine,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2018,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2018,Occitanie,prevalence,4.4,%
+troubles_neurologiques,2018,Occitanie,incidence,68.0,pour 100 000 hab
+troubles_neurologiques,2018,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2018,Pays de la Loire,prevalence,4.5,%
+troubles_neurologiques,2018,Pays de la Loire,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2018,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2018,Provence-Alpes-Côte d'Azur,prevalence,4.0,%
+troubles_neurologiques,2018,Provence-Alpes-Côte d'Azur,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2018,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2018,Île-de-France,prevalence,4.2,%
+troubles_neurologiques,2018,Île-de-France,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2018,Île-de-France,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2019,Auvergne-Rhône-Alpes,prevalence,4.45,%
+troubles_neurologiques,2019,Auvergne-Rhône-Alpes,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2019,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2019,Bourgogne-Franche-Comté,prevalence,4.45,%
+troubles_neurologiques,2019,Bourgogne-Franche-Comté,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2019,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2019,Bretagne,prevalence,4.15,%
+troubles_neurologiques,2019,Bretagne,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2019,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2019,Centre-Val de Loire,prevalence,4.25,%
+troubles_neurologiques,2019,Centre-Val de Loire,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2019,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2019,Corse,prevalence,4.15,%
+troubles_neurologiques,2019,Corse,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2019,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2019,Grand Est,prevalence,4.75,%
+troubles_neurologiques,2019,Grand Est,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2019,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2019,Hauts-de-France,prevalence,4.55,%
+troubles_neurologiques,2019,Hauts-de-France,incidence,62.0,pour 100 000 hab
+troubles_neurologiques,2019,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2019,Normandie,prevalence,4.15,%
+troubles_neurologiques,2019,Normandie,incidence,70.0,pour 100 000 hab
+troubles_neurologiques,2019,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2019,Nouvelle-Aquitaine,prevalence,4.55,%
+troubles_neurologiques,2019,Nouvelle-Aquitaine,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2019,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2019,Occitanie,prevalence,4.45,%
+troubles_neurologiques,2019,Occitanie,incidence,69.0,pour 100 000 hab
+troubles_neurologiques,2019,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2019,Pays de la Loire,prevalence,4.55,%
+troubles_neurologiques,2019,Pays de la Loire,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2019,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2019,Provence-Alpes-Côte d'Azur,prevalence,4.05,%
+troubles_neurologiques,2019,Provence-Alpes-Côte d'Azur,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2019,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2019,Île-de-France,prevalence,4.25,%
+troubles_neurologiques,2019,Île-de-France,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2019,Île-de-France,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2020,Auvergne-Rhône-Alpes,prevalence,4.5,%
+troubles_neurologiques,2020,Auvergne-Rhône-Alpes,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2020,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2020,Bourgogne-Franche-Comté,prevalence,4.5,%
+troubles_neurologiques,2020,Bourgogne-Franche-Comté,incidence,78.0,pour 100 000 hab
+troubles_neurologiques,2020,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2020,Bretagne,prevalence,4.2,%
+troubles_neurologiques,2020,Bretagne,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2020,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2020,Centre-Val de Loire,prevalence,4.3,%
+troubles_neurologiques,2020,Centre-Val de Loire,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2020,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2020,Corse,prevalence,4.2,%
+troubles_neurologiques,2020,Corse,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2020,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2020,Grand Est,prevalence,4.8,%
+troubles_neurologiques,2020,Grand Est,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2020,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2020,Hauts-de-France,prevalence,4.6,%
+troubles_neurologiques,2020,Hauts-de-France,incidence,63.0,pour 100 000 hab
+troubles_neurologiques,2020,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2020,Normandie,prevalence,4.2,%
+troubles_neurologiques,2020,Normandie,incidence,71.0,pour 100 000 hab
+troubles_neurologiques,2020,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2020,Nouvelle-Aquitaine,prevalence,4.6,%
+troubles_neurologiques,2020,Nouvelle-Aquitaine,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2020,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2020,Occitanie,prevalence,4.5,%
+troubles_neurologiques,2020,Occitanie,incidence,70.0,pour 100 000 hab
+troubles_neurologiques,2020,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2020,Pays de la Loire,prevalence,4.6,%
+troubles_neurologiques,2020,Pays de la Loire,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2020,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2020,Provence-Alpes-Côte d'Azur,prevalence,4.1,%
+troubles_neurologiques,2020,Provence-Alpes-Côte d'Azur,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2020,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2020,Île-de-France,prevalence,4.3,%
+troubles_neurologiques,2020,Île-de-France,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2020,Île-de-France,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2021,Auvergne-Rhône-Alpes,prevalence,4.55,%
+troubles_neurologiques,2021,Auvergne-Rhône-Alpes,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2021,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2021,Bourgogne-Franche-Comté,prevalence,4.55,%
+troubles_neurologiques,2021,Bourgogne-Franche-Comté,incidence,79.0,pour 100 000 hab
+troubles_neurologiques,2021,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2021,Bretagne,prevalence,4.25,%
+troubles_neurologiques,2021,Bretagne,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2021,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2021,Centre-Val de Loire,prevalence,4.35,%
+troubles_neurologiques,2021,Centre-Val de Loire,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2021,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2021,Corse,prevalence,4.25,%
+troubles_neurologiques,2021,Corse,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2021,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2021,Grand Est,prevalence,4.85,%
+troubles_neurologiques,2021,Grand Est,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2021,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2021,Hauts-de-France,prevalence,4.65,%
+troubles_neurologiques,2021,Hauts-de-France,incidence,64.0,pour 100 000 hab
+troubles_neurologiques,2021,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2021,Normandie,prevalence,4.25,%
+troubles_neurologiques,2021,Normandie,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2021,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2021,Nouvelle-Aquitaine,prevalence,4.65,%
+troubles_neurologiques,2021,Nouvelle-Aquitaine,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2021,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2021,Occitanie,prevalence,4.55,%
+troubles_neurologiques,2021,Occitanie,incidence,71.0,pour 100 000 hab
+troubles_neurologiques,2021,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2021,Pays de la Loire,prevalence,4.65,%
+troubles_neurologiques,2021,Pays de la Loire,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2021,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2021,Provence-Alpes-Côte d'Azur,prevalence,4.15,%
+troubles_neurologiques,2021,Provence-Alpes-Côte d'Azur,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2021,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2021,Île-de-France,prevalence,4.35,%
+troubles_neurologiques,2021,Île-de-France,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2021,Île-de-France,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2022,Auvergne-Rhône-Alpes,prevalence,4.6,%
+troubles_neurologiques,2022,Auvergne-Rhône-Alpes,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2022,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2022,Bourgogne-Franche-Comté,prevalence,4.6,%
+troubles_neurologiques,2022,Bourgogne-Franche-Comté,incidence,80.0,pour 100 000 hab
+troubles_neurologiques,2022,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2022,Bretagne,prevalence,4.3,%
+troubles_neurologiques,2022,Bretagne,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2022,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2022,Centre-Val de Loire,prevalence,4.4,%
+troubles_neurologiques,2022,Centre-Val de Loire,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2022,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2022,Corse,prevalence,4.3,%
+troubles_neurologiques,2022,Corse,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2022,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2022,Grand Est,prevalence,4.9,%
+troubles_neurologiques,2022,Grand Est,incidence,75.0,pour 100 000 hab
+troubles_neurologiques,2022,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2022,Hauts-de-France,prevalence,4.7,%
+troubles_neurologiques,2022,Hauts-de-France,incidence,65.0,pour 100 000 hab
+troubles_neurologiques,2022,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2022,Normandie,prevalence,4.3,%
+troubles_neurologiques,2022,Normandie,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2022,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2022,Nouvelle-Aquitaine,prevalence,4.7,%
+troubles_neurologiques,2022,Nouvelle-Aquitaine,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2022,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2022,Occitanie,prevalence,4.6,%
+troubles_neurologiques,2022,Occitanie,incidence,72.0,pour 100 000 hab
+troubles_neurologiques,2022,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2022,Pays de la Loire,prevalence,4.7,%
+troubles_neurologiques,2022,Pays de la Loire,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2022,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2022,Provence-Alpes-Côte d'Azur,prevalence,4.2,%
+troubles_neurologiques,2022,Provence-Alpes-Côte d'Azur,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2022,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2022,Île-de-France,prevalence,4.4,%
+troubles_neurologiques,2022,Île-de-France,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2022,Île-de-France,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2023,Auvergne-Rhône-Alpes,prevalence,4.65,%
+troubles_neurologiques,2023,Auvergne-Rhône-Alpes,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2023,Auvergne-Rhône-Alpes,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2023,Bourgogne-Franche-Comté,prevalence,4.65,%
+troubles_neurologiques,2023,Bourgogne-Franche-Comté,incidence,81.0,pour 100 000 hab
+troubles_neurologiques,2023,Bourgogne-Franche-Comté,mortalite,16.0,pour 100 000 hab
+troubles_neurologiques,2023,Bretagne,prevalence,4.35,%
+troubles_neurologiques,2023,Bretagne,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2023,Bretagne,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2023,Centre-Val de Loire,prevalence,4.45,%
+troubles_neurologiques,2023,Centre-Val de Loire,incidence,67.0,pour 100 000 hab
+troubles_neurologiques,2023,Centre-Val de Loire,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2023,Corse,prevalence,4.35,%
+troubles_neurologiques,2023,Corse,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2023,Corse,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2023,Grand Est,prevalence,4.95,%
+troubles_neurologiques,2023,Grand Est,incidence,76.0,pour 100 000 hab
+troubles_neurologiques,2023,Grand Est,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2023,Hauts-de-France,prevalence,4.75,%
+troubles_neurologiques,2023,Hauts-de-France,incidence,66.0,pour 100 000 hab
+troubles_neurologiques,2023,Hauts-de-France,mortalite,11.0,pour 100 000 hab
+troubles_neurologiques,2023,Normandie,prevalence,4.35,%
+troubles_neurologiques,2023,Normandie,incidence,74.0,pour 100 000 hab
+troubles_neurologiques,2023,Normandie,mortalite,19.0,pour 100 000 hab
+troubles_neurologiques,2023,Nouvelle-Aquitaine,prevalence,4.75,%
+troubles_neurologiques,2023,Nouvelle-Aquitaine,incidence,78.0,pour 100 000 hab
+troubles_neurologiques,2023,Nouvelle-Aquitaine,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2023,Occitanie,prevalence,4.65,%
+troubles_neurologiques,2023,Occitanie,incidence,73.0,pour 100 000 hab
+troubles_neurologiques,2023,Occitanie,mortalite,18.0,pour 100 000 hab
+troubles_neurologiques,2023,Pays de la Loire,prevalence,4.75,%
+troubles_neurologiques,2023,Pays de la Loire,incidence,78.0,pour 100 000 hab
+troubles_neurologiques,2023,Pays de la Loire,mortalite,13.0,pour 100 000 hab
+troubles_neurologiques,2023,Provence-Alpes-Côte d'Azur,prevalence,4.25,%
+troubles_neurologiques,2023,Provence-Alpes-Côte d'Azur,incidence,77.0,pour 100 000 hab
+troubles_neurologiques,2023,Provence-Alpes-Côte d'Azur,mortalite,12.0,pour 100 000 hab
+troubles_neurologiques,2023,Île-de-France,prevalence,4.45,%
+troubles_neurologiques,2023,Île-de-France,incidence,67.0,pour 100 000 hab
+troubles_neurologiques,2023,Île-de-France,mortalite,12.0,pour 100 000 hab
